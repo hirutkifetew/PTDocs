@@ -1,0 +1,14 @@
+[hosts]
+edge-http.microsoft.com=
+www.bing.com=
+edge.microsoft.com=
+nav-edge.smartscreen.microsoft.com=
+data-edge.smartscreen.microsoft.com=
+jpetstore.aspectran.com=
+aspectran.com=
+deff.nelreports.net=
+www.googletagmanager.com=
+region1.google-analytics.com=
+edgeassetservice.azureedge.net=
+telem-edge.smartscreen.microsoft.com=
+ecn.dev.virtualearth.net=

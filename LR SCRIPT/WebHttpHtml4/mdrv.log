@@ -1,0 +1,4 @@
+Error:  line 2 contains 10 columns instead of 9
+Error: Table 'C:\Users\kokob\Desktop\LR SCRIPT\WebHttpHtml4\P_UserName.dat' cannot be opened. Error code is '-4'.
+Warning: Extension parameng.dll reports error -4 on call to function ExtPerProcessInitialize
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.

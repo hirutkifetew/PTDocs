@@ -1,0 +1,20 @@
+GET /search?q=webtours&cvid=0796fe57ef7f454893d456461f6e575e&aqs=edge..69i57.2678j0j1&FORM=ANNTA1&PC=HCTS HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-platform-version: "15.0.0"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-MS-GEC: FC982E7E3C2D61873F7397FD050BC9D361FCB03F058968F5986EB9A254E25BBD
+Sec-MS-GEC-Version: 1-113.0.1774.50
+PreferAnonymous: 1
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zsdch
+Accept-Language: en-US,en;q=0.9
+

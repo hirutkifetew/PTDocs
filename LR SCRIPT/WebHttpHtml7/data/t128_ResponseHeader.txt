@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 341
+Content-Type: application/json; charset=utf-8
+Content-Encoding: br
+Expires: -1
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: MUIDB=08E2288EABF7645029433A9CAADD6558; expires=Mon, 17-Jun-2024 08:56:16 GMT; path=/; HttpOnly
+Set-Cookie: _EDGE_S=SID=08F3797DE49D62A532CF6A66E5296376; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&PV=15.0.0&BRW=XW&BRH=M&CW=1482&CH=714&SCW=1465&SCH=3109&DPR=1.3&UTC=180&DM=1&PRVCW=1482&PRVCH=714&EXLTT=7&HV=1684870212&THEME=1&WTS=63818556680; domain=.bing.com; expires=Sat, 24-May-2025 08:56:16 GMT; path=/; secure; SameSite=None
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-RPS-Token
+Access-Control-Allow-Origin: https://ntp.msn.com
+X-EventID: 646dd1307464492f91a15d2041cdd424
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy-Report-Only: script-src https: 'strict-dynamic' 'report-sample' 'nonce-sT+VK7RwPnQd0qr7dB+yK8vrjtpzQ/UBNCRI+xaTjK0='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+X-Frame-Options: SAMEORIGIN
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 3E83FB6528AC4F12BBA36936D42D1819 Ref B: PRAEDGE1111 Ref C: 2023-05-24T08:56:16Z
+Date: Wed, 24 May 2023 08:56:16 GMT
+

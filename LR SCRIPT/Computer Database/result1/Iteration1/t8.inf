@@ -1,0 +1,18 @@
+[t8]
+FileName2=t8_15_main.css
+RawStepEndTime=1674072128840
+RequestBodyFile=t8_RequestBody.txt
+RawStepName=computers_2
+ContentType=text/html
+URL1=https://computer-database.gatling.io/computers?f=ACE
+URL2=https://computer-database.gatling.io/assets/css/main.css
+URL3=https://computer-database.gatling.io/assets/css/bootstrap.min.css
+ResponseHeaderFile=t8_ResponseHeader.txt
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1674072128115
+Total=3
+StepName=Submit Data: computers_2
+FileName1=t8.html
+FileName3=t8_14_bootstrap.css

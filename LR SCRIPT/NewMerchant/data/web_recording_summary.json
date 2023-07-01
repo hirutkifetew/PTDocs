@@ -1,0 +1,944 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "dnt",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "font/woff2"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 12,
+    "RecordedBrowser": "Firefox",
+    "RecordingDate": "Jan-21-2023",
+    "RecordingDuration": 419109,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1674291836,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 31530070,
+    "TotalBytesSent": 39918,
+    "TotalRequests": 36,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "ocsp.pki.goog",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.201.131",
+          "IncludeInScript": false,
+          "Name": "ocsp.pki.goog",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 407,
+              "EventId": 3259,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 390,
+              "EventId": 3237,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 422,
+              "EventId": 3074,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 547,
+              "EventId": 3018,
+              "HttpStatus": 200,
+              "Size": 472,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 406,
+              "EventId": 2896,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.pki.goog/gts1c3"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mozilla.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.120.208.123",
+          "IncludeInScript": false,
+          "Name": "incoming.telemetry.mozilla.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 579,
+              "EventId": 3353,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/b98fd583-be27-4729-9ba9-2504854f8d0e"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 750,
+              "EventId": 3347,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/25c9191c-8241-4a76-a07b-8c8778762966"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 484,
+              "EventId": 3081,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/f27f0c9f-0798-4406-a2fe-db2cadc4c8b8"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 516,
+              "EventId": 3061,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/49f6a941-704b-496b-b4f8-bc500410ae35"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 828,
+              "EventId": 3030,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/messaging-system/undesired-events/1/488a03cc-2f82-4ed4-9a4f-6f5b6b3fa856"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 938,
+              "EventId": 3025,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/messaging-system/undesired-events/1/4859104b-dcd8-423f-8e83-213dcbfca2d0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 656,
+              "EventId": 3023,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/e696cd4d-f2f6-405a-a549-b34eb8d4408d"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 657,
+              "EventId": 2997,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/baseline/1/bffb09f3-d6d0-49c8-8f02-7dfede468968"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.244.181.201",
+          "IncludeInScript": false,
+          "Name": "aus5.mozilla.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 297,
+              "EventId": 2964,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://aus5.mozilla.org/update/6/Firefox/109.0/20230112150232/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.22000.1455%20(x64)/ISET:SSE4_2,MEM:6064/default/default/update.xml?force=1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mozilla.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.160.144.191",
+          "IncludeInScript": false,
+          "Name": "content-signature-2.cdn.mozilla.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "binary/octet-stream",
+              "DownloadTime": 360,
+              "EventId": 2927,
+              "HttpStatus": 200,
+              "Size": 5348,
+              "URL": "https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2023-02-08-14-47-57.chain"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mozilla.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.83.200.106",
+          "IncludeInScript": false,
+          "Name": "push.services.mozilla.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 312,
+              "EventId": 3229,
+              "HttpStatus": 101,
+              "Size": 0,
+              "URL": "https://push.services.mozilla.com/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.241.9.150",
+          "IncludeInScript": false,
+          "Name": "firefox.settings.services.mozilla.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 297,
+              "EventId": 2962,
+              "HttpStatus": 200,
+              "Size": 329,
+              "URL": "https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-en-US"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 360,
+              "EventId": 2930,
+              "HttpStatus": 200,
+              "Size": 329,
+              "URL": "https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-en-US"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.117.237.239",
+          "IncludeInScript": false,
+          "Name": "contile.services.mozilla.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 625,
+              "EventId": 3373,
+              "HttpStatus": 200,
+              "Size": 12,
+              "URL": "https://contile.services.mozilla.com/v1/tiles"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 453,
+              "EventId": 2858,
+              "HttpStatus": 200,
+              "Size": 12,
+              "URL": "https://contile.services.mozilla.com/v1/tiles"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "lencr.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "2.16.149.159",
+          "IncludeInScript": false,
+          "Name": "r3.o.lencr.org",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 500,
+              "EventId": 2918,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://r3.o.lencr.org/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 375,
+              "EventId": 2914,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://r3.o.lencr.org/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 547,
+              "EventId": 2910,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://r3.o.lencr.org/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 532,
+              "EventId": 2893,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://r3.o.lencr.org/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "ishatrainingsolutions.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "95.111.246.220",
+          "IncludeInScript": true,
+          "Name": "www.ishatrainingsolutions.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1156,
+              "EventId": 4873,
+              "HttpStatus": 200,
+              "Size": 7710779,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 4868,
+              "HttpStatus": 200,
+              "Size": 243,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getWallet?value=2023012181499"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 4857,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Ayemer"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 4851,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Ayeme"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 4845,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Ayem"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 4839,
+              "HttpStatus": 200,
+              "Size": 11254,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Aye"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1125,
+              "EventId": 4699,
+              "HttpStatus": 200,
+              "Size": 1998090,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=A"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1063,
+              "EventId": 4683,
+              "HttpStatus": 200,
+              "Size": 163332,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1110,
+              "EventId": 4206,
+              "HttpStatus": 200,
+              "Size": 7710779,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1187,
+              "EventId": 3730,
+              "HttpStatus": 200,
+              "Size": 7710779,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 187,
+              "EventId": 3725,
+              "HttpStatus": 200,
+              "Size": 243,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getWallet?value=2023012181499"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 3712,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Ayemer"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 250,
+              "EventId": 3706,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Ayeme"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 3700,
+              "HttpStatus": 200,
+              "Size": 236,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Ayem"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 235,
+              "EventId": 3694,
+              "HttpStatus": 200,
+              "Size": 11254,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value=Aye"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1437,
+              "EventId": 3391,
+              "HttpStatus": 200,
+              "Size": 4373383,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/showDetails?value="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 781,
+              "EventId": 3385,
+              "HttpStatus": 200,
+              "Size": 74,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/merchantVal/2023012181499"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 1234,
+              "EventId": 3379,
+              "HttpStatus": 200,
+              "Size": 94,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/registerMerchant"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 3359,
+              "HttpStatus": 200,
+              "Size": 69,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/genReference"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 563,
+              "EventId": 3307,
+              "HttpStatus": 200,
+              "Size": 279,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getAllStatus"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 3303,
+              "HttpStatus": 200,
+              "Size": 101,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getAllPortalVersion"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 3301,
+              "HttpStatus": 200,
+              "Size": 194,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getHolderType/4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 297,
+              "EventId": 3294,
+              "HttpStatus": 200,
+              "Size": 383,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getAllType"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 750,
+              "EventId": 3286,
+              "HttpStatus": 200,
+              "Size": 425,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/getAllLanguages"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 765,
+              "EventId": 3280,
+              "HttpStatus": 200,
+              "Size": 55,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/secVal"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 203,
+              "EventId": 3274,
+              "HttpStatus": 200,
+              "Size": 118,
+              "URL": "https://www.ishatrainingsolutions.com/adminPortal/secQue"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 641,
+              "EventId": 3272,
+              "HttpStatus": 200,
+              "Size": 1802,
+              "URL": "https://www.ishatrainingsolutions.com/oauth/token?grant_type=password&username=ishatrainingsolution&password=ishatrainingsolution"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 1219,
+              "EventId": 3261,
+              "HttpStatus": 200,
+              "Size": 79444,
+              "URL": "https://www.ishatrainingsolutions.com/fa-solid-900.b15db15f746f29ffa026.woff2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 3225,
+              "HttpStatus": 200,
+              "Size": 1423,
+              "URL": "https://www.ishatrainingsolutions.com/assets/favicon.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 203,
+              "EventId": 3223,
+              "HttpStatus": 200,
+              "Size": 4249,
+              "URL": "https://www.ishatrainingsolutions.com/assets/logo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 359,
+              "EventId": 3194,
+              "HttpStatus": 200,
+              "Size": 249165,
+              "URL": "https://www.ishatrainingsolutions.com/scripts.3fa900baa8ca3ef0fb6c.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 3187,
+              "HttpStatus": 200,
+              "Size": 41994,
+              "URL": "https://www.ishatrainingsolutions.com/polyfills.800d19885f81918311cb.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 922,
+              "EventId": 3097,
+              "HttpStatus": 200,
+              "Size": 1440,
+              "URL": "https://www.ishatrainingsolutions.com/runtime.26209474bfa8dc87a77c.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 844,
+              "EventId": 3068,
+              "HttpStatus": 200,
+              "Size": 1160589,
+              "URL": "https://www.ishatrainingsolutions.com/main.a042e4fffa233502593b.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 438,
+              "EventId": 3015,
+              "HttpStatus": 200,
+              "Size": 295536,
+              "URL": "https://www.ishatrainingsolutions.com/styles.beb8cb4c64504bdfb4d4.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 2999,
+              "HttpStatus": 200,
+              "Size": 1084,
+              "URL": "https://www.ishatrainingsolutions.com/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.169.227",
+          "IncludeInScript": false,
+          "Name": "fonts.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "font/woff2",
+              "DownloadTime": 219,
+              "EventId": 3241,
+              "HttpStatus": 200,
+              "Size": 16740,
+              "URL": "https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.250.181.74",
+          "IncludeInScript": false,
+          "Name": "safebrowsing.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 375,
+              "EventId": 2936,
+              "HttpStatus": 200,
+              "Size": 1734,
+              "URL": "https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARCJ1Q8aAhgH58Qn5CICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEJzXCxoCGAcoYLfhIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQzc4LGgIYB5di5_YiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARCIrgwaAhgHtD-LNiICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECAaAhgHLBLC-iICIAIoAQ=="
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.19.10",
+          "IncludeInScript": false,
+          "Name": "fonts.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 3111,
+              "HttpStatus": 200,
+              "Size": 602,
+              "URL": "https://fonts.googleapis.com/css?family=Open+Sans"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "firefox.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.107.221.82",
+          "IncludeInScript": false,
+          "Name": "detectportal.firefox.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 2912,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 203,
+              "EventId": 2856,
+              "HttpStatus": 200,
+              "Size": 90,
+              "URL": "http://detectportal.firefox.com/canonical.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 203,
+              "EventId": 2854,
+              "HttpStatus": 200,
+              "Size": 8,
+              "URL": "http://detectportal.firefox.com/success.txt?ipv4"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 500,
+              "EventId": 2750,
+              "HttpStatus": 200,
+              "Size": 90,
+              "URL": "http://detectportal.firefox.com/canonical.html"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "digicert.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "93.184.220.29",
+          "IncludeInScript": false,
+          "Name": "ocsp.digicert.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 329,
+              "EventId": 2974,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 250,
+              "EventId": 2959,
+              "HttpStatus": 200,
+              "Size": 5,
+              "URL": "http://ocsp.digicert.com/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/ocsp-response",
+              "DownloadTime": 359,
+              "EventId": 2932,
+              "HttpStatus": 200,
+              "Size": 471,
+              "URL": "http://ocsp.digicert.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": true
+  },
+  "NumberOfCorrelations": 1
+}

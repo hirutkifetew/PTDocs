@@ -1,0 +1,13 @@
+[t28]
+FileName1=t28.json
+URL1=https://edge.microsoft.com/identity/api/v3/msa
+Total=2
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=t28_RequestBody.txt
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_28.xml
+FileName2=t28_generate_204.html
+URL2=http://edge-http.microsoft.com/captiveportal/generate_204
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t43]
+FileName1=t43.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t43_RequestHeader.txt
+RequestBodyFile=t43_RequestBody.txt
+ResponseHeaderFile=t43_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_43.xml
+FileName2=t43_asset.html
+URL2=https://edgeassetservice.azureedge.net/assets/domains_config/2.8.61/asset?sv=2017-07-29&sr=c&sig=syVgbBkg8uucUCbdAhbOcJHbhbWxF6Oaa0Ff5bb1IjQ%3D&st=2021-01-01T00%3A00%3A00Z&se=2023-06-30T00%3A00%3A00Z&sp=r&assetgroup=EntityExtractionDomainsConfig
+[ProtocolInfo]
+ProtocolId=QTWeb

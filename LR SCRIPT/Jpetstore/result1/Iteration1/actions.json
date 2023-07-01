@@ -1,0 +1,145 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Catalog.action",
+                "infFile": "t1.inf",
+                "time": 1674467033657
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Sign In",
+                "infFile": "t2.inf",
+                "time": 1674467035607
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Submit Data: Account.action",
+                "infFile": "t3.inf",
+                "time": 1674467037739
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: sm_dogs.gif",
+                "infFile": "t4.inf",
+                "time": 1674467038437
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: K9-BD-01",
+                "infFile": "t5.inf",
+                "time": 1674467039585
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: EST-6",
+                "infFile": "t6.inf",
+                "time": 1674467041622
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Add to Cart",
+                "infFile": "t7.inf",
+                "time": 1674467042054
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: Proceed to Checkout",
+                "infFile": "t8.inf",
+                "time": 1674467042898
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Submit Data: Order.action",
+                "infFile": "t9.inf",
+                "time": 1674467043691
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: Confirm",
+                "infFile": "t10.inf",
+                "time": 1674467044299
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: Sign Out",
+                "infFile": "t11.inf",
+                "time": 1674467044817
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Launch",
+                "rawStartTime": 1674467030989,
+                "rawEndTime": 1674467033669,
+                "thinkTime": 0.0,
+                "wastedTime": 0.22053885459899903
+            },
+            {
+                "transactionName": "Login",
+                "rawStartTime": 1674467033701,
+                "rawEndTime": 1674467037756,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04311871528625488
+            },
+            {
+                "transactionName": "Navigate_Petanimal",
+                "rawStartTime": 1674467037788,
+                "rawEndTime": 1674467038448,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013427495956420899
+            },
+            {
+                "transactionName": "Select_ProductID",
+                "rawStartTime": 1674467038480,
+                "rawEndTime": 1674467039599,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014161348342895508
+            },
+            {
+                "transactionName": "Select_ItemID",
+                "rawStartTime": 1674467039632,
+                "rawEndTime": 1674467041631,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013829946517944336
+            },
+            {
+                "transactionName": "AddToCart",
+                "rawStartTime": 1674467041760,
+                "rawEndTime": 1674467042071,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01357579231262207
+            },
+            {
+                "transactionName": "ProceeToCheckout",
+                "rawStartTime": 1674467042103,
+                "rawEndTime": 1674467042906,
+                "thinkTime": 0.0,
+                "wastedTime": 0.010783195495605469
+            },
+            {
+                "transactionName": "Click_Continue",
+                "rawStartTime": 1674467042937,
+                "rawEndTime": 1674467043708,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013158798217773438
+            },
+            {
+                "transactionName": "Click_Confirm",
+                "rawStartTime": 1674467043740,
+                "rawEndTime": 1674467044308,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011811256408691407
+            },
+            {
+                "transactionName": "LogOff",
+                "rawStartTime": 1674467044339,
+                "rawEndTime": 1674467044826,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013105630874633789
+            }
+        ]
+    }
+]

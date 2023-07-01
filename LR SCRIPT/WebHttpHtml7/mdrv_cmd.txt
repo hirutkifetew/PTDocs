@@ -1,0 +1,1 @@
+-usr "C:\Users\kokob\Desktop\LR SCRIPT\WebHttpHtml7\WebHttpHtml7.usr" -compile_only -out "C:\Users\kokob\Desktop\LR SCRIPT\WebHttpHtml7\" -drv_log_file "C:\Users\kokob\Desktop\LR SCRIPT\WebHttpHtml7\mdrv.log" -cfg "C:\Users\kokob\Desktop\LR SCRIPT\WebHttpHtml7\default.cfg" -product_name vugen

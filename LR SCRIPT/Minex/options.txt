@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\Minex
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\minex\\logfile.log
+c:\users\kokob\desktop\lr script\minex\\combined_Minex.c
+c:\users\kokob\desktop\lr script\minex\\pre_cci.c

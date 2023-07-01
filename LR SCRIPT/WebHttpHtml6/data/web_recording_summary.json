@@ -1,0 +1,127 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "msa_deviceticket",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "ms-cv",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "edgefeatureflags",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 1,
+    "RecordedBrowser": "c:\\program files (x86)\\microsoft\\edge\\application\\msedge.exe",
+    "RecordingDate": "May-21-2023",
+    "RecordingDuration": 41625,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1684690810,
+    "RecordingType": "Application",
+    "TotalBytesReceived": 1681,
+    "TotalBytesSent": 10611,
+    "TotalRequests": 3,
+    "UserAgent": "Crashpad/0.8.0 WinHTTP/10.0.22621.1485 Windows_NT/10.0.22621.1485 (x64)"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.89.179.12",
+          "IncludeInScript": true,
+          "Name": "nw-umwatson.events.data.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 578,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 634,
+              "URL": "https://nw-umwatson.events.data.microsoft.com/Telemetry.Request"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 609,
+              "EventId": 30,
+              "HttpStatus": 200,
+              "Size": 634,
+              "URL": "https://nw-umwatson.events.data.microsoft.com/Telemetry.Request"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.239",
+          "IncludeInScript": true,
+          "Name": "edge.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 250,
+              "EventId": 45,
+              "HttpStatus": 200,
+              "Size": 413,
+              "URL": "https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 20 May 2023 17:42:29 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 19 May 2023 17:42:29 GMT
+Set-Cookie: MTUserInfo=firstName&hirut&username&Hirut&address2&toronto%20ON&hash&84&expDate&02%2F25&creditCard&124%20526%205236&address1&64%20Fredric%20drive&lastName&Shenkute%0A; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

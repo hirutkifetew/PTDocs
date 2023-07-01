@@ -1,0 +1,13 @@
+[t11]
+FileName1=t11.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=t11_RequestBody.txt
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSFwk32UHgj34xiRIFDeeNQA4SBQ3OQUx6.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSFwk32UHgj34xiRIFDeeNQA4SBQ3OQUx6?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

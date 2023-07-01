@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Retry-After: 3600
+Vary: Accept-Encoding
+BingAPIs-Market: en-us
+BingAPIs-TraceId: BB8B863CFB0243DBAF1CA49E244C08DC
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: BB8B863CFB0243DBAF1CA49E244C08DC Ref B: DFW30EDGE1920 Ref C: 2023-04-16T15:50:39Z
+Set-Cookie: _EDGE_S=F=1&SID=3829312C688E63CE04CC23D9698662D9; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Fri, 10-May-2024 15:50:39 GMT; domain=bing.com
+Set-Cookie: MUID=25D98400C28B692210D696F5C383688D; samesite=none; path=/; secure; expires=Fri, 10-May-2024 15:50:39 GMT; domain=bing.com
+Set-Cookie: MUIDB=25D98400C28B692210D696F5C383688D; path=/; httponly; expires=Fri, 10-May-2024 15:50:39 GMT
+Date: Sun, 16 Apr 2023 15:50:39 GMT
+

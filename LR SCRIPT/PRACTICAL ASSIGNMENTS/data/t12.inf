@@ -1,0 +1,13 @@
+[t12]
+FileName1=t12.json
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=45EBD043982A03A4CA6B8962005A06F2B1FED569&mkt=en-us&uapimkt=en-us&features=enuapimkt
+Total=2
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=t12_RequestBody.txt
+ResponseHeaderFile=t12_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_12.xml
+FileName2=t12_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSEAlcxBYZJBVe8hIFDfP6GZc=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSEAlcxBYZJBVe8hIFDfP6GZc=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

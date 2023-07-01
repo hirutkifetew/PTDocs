@@ -1,0 +1,13 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+ContentType=application/xml
+StepName=Url: crx
+Total=1
+FileName1=t2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+RawStepEndTime=1681664548074
+RawStepName=crx
+RequestBodyFile=t2_RequestBody.txt
+RawStepStartTime=1681664543444
+URL1=https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=112.0.1722.48&lang=en-US&acceptformat=crx3&x=id=jmjflgjpcpepeafmmgdpfkogkghcpiha&v=1.1.2&installedby=other&uc

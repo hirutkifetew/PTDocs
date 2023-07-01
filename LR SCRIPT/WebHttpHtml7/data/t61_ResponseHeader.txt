@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Sun, 01 Jan 2017 07:53:07 GMT
+Server: WebOS/1.5 UPnP/1.0
+Content-Length: 1234
+Content-Type: text/xml; charset="utf-8"
+Application-URL: http://10.94.4.116:36866/apps
+

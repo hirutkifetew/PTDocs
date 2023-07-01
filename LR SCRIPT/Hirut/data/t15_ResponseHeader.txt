@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Set-Cookie: ESF=1; path=/; domain=bing.com; httponly; max-age=86400; expires=Thu, 18 May 2023 18:27:04 GMT
+BingAPIs-Market: am-et
+BingAPIs-TraceId: 170B9A7681B0412CB188DCA3B1F1D85F
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 170B9A7681B0412CB188DCA3B1F1D85F Ref B: PRAEDGE0905 Ref C: 2023-05-17T18:27:04Z
+Set-Cookie: _EDGE_S=F=1&SID=185EE83CA15F6ED804E2FB28A0EB6F4D; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_E=O=cashback1; path=/; httponly; expires=Mon, 10-Jun-2024 18:27:04 GMT; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Mon, 10-Jun-2024 18:27:04 GMT; domain=bing.com
+Set-Cookie: MUID=03989DD389166DFA14B28EC788A26CD5; samesite=none; path=/; secure; expires=Mon, 10-Jun-2024 18:27:04 GMT; domain=bing.com
+Set-Cookie: MUIDB=03989DD389166DFA14B28EC788A26CD5; path=/; httponly; expires=Mon, 10-Jun-2024 18:27:04 GMT
+Date: Wed, 17 May 2023 18:27:04 GMT
+

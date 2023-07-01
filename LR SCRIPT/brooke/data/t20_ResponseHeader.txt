@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 413
+Content-Type: text/xml; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: F2A3ACA6093340F2B7F3CA73D850B55B Ref B: AMS04EDGE1208 Ref C: 2023-05-18T16:24:11Z
+Date: Thu, 18 May 2023 16:24:11 GMT
+

@@ -1,0 +1,35 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/01/18 10:32:25
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/01/21 06:45:57
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2023/01/21 06:51:40
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2023/01/21 06:53:26
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2023/01/21 07:21:35
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2023/01/21 07:23:52
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2023/01/21 07:38:19
+StartRecordingIsDst_7=0
+StartRecordingGMT_8=2023/01/21 07:54:49
+StartRecordingIsDst_8=0
+StartRecordingGMT_9=2023/01/21 08:37:22
+StartRecordingIsDst_9=0
+StartRecordingGMT_10=2023/01/21 08:47:43
+StartRecordingIsDst_10=0
+StartRecordingGMT_11=2023/01/23 06:16:51
+StartRecordingIsDst_11=0
+StartRecordingGMT_12=2023/01/23 09:05:16
+StartRecordingIsDst_12=0
+StartRecordingGMT_13=2023/01/23 09:12:18
+StartRecordingIsDst_13=0
+StartRecordingGMT_14=2023/01/23 09:24:53
+StartRecordingIsDst_14=0
+[UserHomePage]
+UserHomePage=http://www.msn.com/?pc=HCTE
+[Security]
+UsingPersistForAuthentication=1
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0

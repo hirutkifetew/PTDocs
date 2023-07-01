@@ -1,0 +1,13 @@
+[t13]
+SnapshotXmlFile=snapshot_13.xml
+ContentType=application/json
+StepName=Custom Request: search
+Total=1
+FileName1=t13.json
+RequestHeaderFile=t13_RequestHeader.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+RawStepEndTime=1681664573669
+RawStepName=search
+RequestBodyFile=t13_RequestBody.txt
+RawStepStartTime=1681664570828
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=45EBD043982A03A4CA6B8962005A06F2B1FED569&mkt=en-us&uapimkt=en-us&features=enuapimkt

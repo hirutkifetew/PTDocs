@@ -1,0 +1,8 @@
+"{\"msisdn\":\"2023012131133\",\"name\":\"capslock\",\"emailAddress\":\"capslock@abc.com\",\"la"
+"nguage\":\"English\",\"protocolVersion\":\"\",\"serviceUri\":\"\",\"walletStatus\":\"1\",\"dfs"
+"WalletBank\":[{\"bankwalletid\":\"154\",\"bankAccount\":\"1234567897\",\"bankAccountHashCode\""
+":null,\"walletBankId\":null}],\"dfsRegisterAgent\":{\"companyName\":\"capslock\",\"alternative"
+"EmailAddress1\":\"\",\"alternativeEmailAddress2\":\"\",\"smsAddress\":\"\",\"kvkId\":\"\",\"co"
+"ntactNo\":\"\",\"locality\":\"Bengaluru-South\",\"companyAddress\":\"\",\"type_id\":\"1\",\"re"
+"gisterAgentId\":\"\"},\"dfsProfilePictureDto\":{\"profilePicture\":\"\"},\"walletId\":\"\",\"f"
+"ile\":\"\",\"date\":\"2023-01-21T09:11:36.709Z\"}"

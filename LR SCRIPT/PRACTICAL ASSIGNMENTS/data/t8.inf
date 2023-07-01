@@ -1,0 +1,15 @@
+[t8]
+FileName1=t8_find-assets.json
+URL1=https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets?name=extraction.autofillFull.en-us&version=1.*.*&channel=stable&key=d414dd4f9db345fa8003e32adc81b362
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+FileName2=t8_13.png
+URL2=https://ecn.dev.virtualearth.net/REST/v1/Imagery/Map/RoadVibrant/29.7744,-95.3670/13?ms=266,190&ml=Basemap,OsmBuildings,TrafficFlow&key=AiiEtIMBa-OHub99K9Px16NjMPvRWEG5l33Ab4XeqA6PtM5GFwiGWBIroOWv4fNW&c=en-ca&fmt=png&od=1&logo=n&da=ro&maxAge=1200&pushpin=29.774433,-95.367027;cnst.f
+FileName3=t8_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSFwmMYSIRdNWezhIFDeeNQA4SBQ3OQUx6.txt
+URL3=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSFwmMYSIRdNWezhIFDeeNQA4SBQ3OQUx6?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

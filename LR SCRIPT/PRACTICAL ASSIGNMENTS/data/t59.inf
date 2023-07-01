@@ -1,0 +1,11 @@
+[t59]
+FileName1=t59.html
+URL1=https://a.nel.cloudflare.com/report/v3?s=RS0c8b8esofmIvCKID6%2Fp2Z%2Bv7w7%2FyQw8b9GA2yjsogcmuZhAuWo8EuYpZFJRkgrQKnCkl%2BKtqjLGJhC0esRzQ3bCxHDEC1q%2BdcPeqJTdU2JkUkC9NoFMEyKYcWACTyXOdM0rQ4lF0hAeg%3D%3D
+Total=1
+RequestHeaderFile=t59_RequestHeader.txt
+RequestBodyFile=t59_RequestBody.txt
+ResponseHeaderFile=t59_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_59.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

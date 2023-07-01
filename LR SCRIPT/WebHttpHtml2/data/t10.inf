@@ -1,0 +1,11 @@
+[t10]
+FileName1=t10_112.0.1722.json
+URL1=https://config.edge.skype.com/config/v1/Edge/112.0.1722.46?clientId=6921235004802684617&agents=Edge%2CEdgeConfig%2CEdgeServices%2CEdgeFirstRun%2CEdgeFirstRunConfig%2CEdgeDomainActions&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=391&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_10.xml
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

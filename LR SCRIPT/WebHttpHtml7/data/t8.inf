@@ -1,0 +1,13 @@
+[t8]
+FileName1=t8.json
+URL1=https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo
+Total=2
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=t8_RequestBody.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8_3.html
+URL2=https://data-edge.smartscreen.microsoft.com/api/browser/edge/data/bloomfilter/x/3?pushcert=false&flight=%7b%22etag%22%3a%22%5c%22krubwgfedstdnyrs83pgkcbc2mvhri0hrti0a48eptg%3d%5c%22%22%2c%22ids%22%3a%5b%22p-r-1021007-4-5%2cp-r-99770-9-32%2cp-r-86682-4-41%2cp-r-73000-7-30%2cp-r-72999-7-29%2cp-r-70204-3-18%2cp-r-69385-1-5%2cp-r-68026-3-37%2cp-r-68490-1-3%2cp-r-68172-2-4%2cp-r-68175-1-6%2cp-r-68176-2-8%2cp-r-68179-1-3%2cp-r-68306-1-20%2cp-r-68307-1-3%2cp-d-68194-1-2%22%5d%2c%22settings%22%3a%7b%22names%22%3anull%2c%22ring%22%3a0%2c%22models%22%3anull%2c%22serviceclientmodeldetonate%22%3afalse%2c%22wdsifeedback%22%3afalse%2c%22npfeedbackurioverride%22%3anull%2c%22networkfilterdetonate%22%3afalse%2c%22servicephishdetonate%22%3afalse%2c%22servicephishdetonatelegacy%22%3afalse%2c%22serviceadhocdetonate%22%3afalse%2c%22npsettings2004%22%3atrue%2c%22updatesigningcert%22%3atrue%2c%22updatesigningcertforrs3rs4%22%3atrue%2c%22npsettings2004value%22%3a0%2c%22iscocoblockenabled%22%3afalse%2c%22npipblockoverridevalue%22%3a0%2c%22toptrafficv2enabled%22%3atrue%2c%22listapie5v2enabled%22%3atrue%2c%22isnppioverrideblockenabled%22%3atrue%2c%22toptrafficv2mobileflightenabled%22%3afalse%2c%22bloomfilterdeltaflag%22%3a1%2c%22srceopenabled%22%3atrue%2c%22iscurfid0loggingenabled%22%3atrue%2c%22iscurfid0blockingenabled%22%3afalse%2c%22updateonmissingetagenabled%22%3atrue%2c%22enableproxyleniency%22%3atrue%2c%22isarsfmsintegrationenabled%22%3atrue%2c%22enablenshumormatch%22%3atrue%2c%22applynshumorverdict%22%3afalse%2c%22enablenpskipnonweb%22%3afalse%2c%22sendgeomapinsettingstonewanaheimclient%22%3atrue%2c%22umssrcphishbnrtenabled%22%3afalse%2c%22mtdthrottlefactor%22%3a0.0%2c%22unsilencemodelguid%22%3anull%7d%7d&os=10.0.22621.1555.ni_release
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,530 @@
+[API Trapper      ( ea0:4ad8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (14e4:48c4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      ( d34:3604)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      ( eec:265c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( eec:3080)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( eec:3080)] Load Network Traffic Analyzers:
+[Network Analyzer ( eec:3080)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( eec:3080)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( eec:3080)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( eec:3080)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( eec:3080)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( eec:3080)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( eec:3080)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( eec:3080)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( eec:46c0)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /WebTours"   
+[Network Analyzer ( eec:46c0)]   (Sid:  1) Client -> Server @ : 674 bytes (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  1) Server -> Client : 506 bytes  (Service=HTTP)
+[API Trapper      (40b8:49b4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (2470:10d0)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\112.0.1722.58\identity_helper.exe
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 88.221.25.27:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( eec:2acc)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[API Trapper      (4470:191c)] Recording in 64-bit mode: C:\WINDOWS\system32\wermgr.exe
+[Net An. Error    ( eec: 5a0)] SSL_connect(ssl_id = 3115873222624 = 000002D578843FE0) Failed, ctx = 000002D57881FA50, err = "error", err code = 1, err msg = "error:00000001:lib(0):func(0):reason(1)
+error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error
+"
+[Net An. Error    ( eec: 5a0)]   (Sid:  3) SSL handshake with remote server Failed!
+[Network Analyzer (4470:157c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4470:157c)] Load Network Traffic Analyzers:
+[Network Analyzer (4470:157c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (4470:157c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (4470:157c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (4470:157c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (4470:157c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (4470:157c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (4470:157c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (4470:157c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (4470:2dc8)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.42.16:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( eec:2acc)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Web Request      ( eec:46c0)] "GET /WebTours/"   
+[Network Analyzer ( eec:46c0)]   (Sid:  5) Client -> Server @ : 675 bytes (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid:  5) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:44f0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 204.79.197.203:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( eec:1e24)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec: 878)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (4470:157c)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (4470:157c)] Request Connection: Remote Server @ 20.42.65.92:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (4470:26a8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (4470:26a8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (4470:1978)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (4470:1978)] Request Connection: Remote Server @ 173.223.117.131:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.239:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.239:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid:  2) Client -> Server @ : 607 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/browser/edge/navigate/3"   
+[Network Analyzer ( eec:46c0)]   (Sid:  2) Client -> Server @ : 1564 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:44f0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec: 878)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:1e24)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Web Request      ( eec:46c0)] "GET /config/v1/Edge/112.0.1722.58?clientId=6921235004802684617&agents=Edge%2CEdgeConfig%2CEdgeServices%2CEdgeFirstRun%2CEdgeFirstRunConfig%2CEdgeDomainActions&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=473&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892"   
+[Network Analyzer ( eec:46c0)]   (Sid:  4) Client -> Server @ : 743 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1"   
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Client -> Server @ : 4283 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /WebTours/header.html"   
+[Network Analyzer ( eec:46c0)]   (Sid: 10) Client -> Server @ : 712 bytes (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  6) Client -> Server @ : 607 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/browser/edge/navigate/3"   
+[Network Analyzer ( eec:46c0)]   (Sid:  6) Client -> Server @ : 1647 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 10) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid:  4) Server -> Client : 1873 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  2) Server -> Client : 3321 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  4) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Client -> Server @ : 723 bytes (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid:  4) Server -> Client : 6448 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  4) Server -> Client : 463 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  6) Server -> Client : 3387 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 8673 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:2e40)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 63 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 442 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 1418 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 2686 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4104 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4047 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Server -> Client : 1026 bytes  (Service=HTTP)
+[Web Request      (4470:2dc8)] "GET /pkiops/crl/MicSecSerCA2011_2011-10-18.crl"   
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4101 bytes (SSL) (Service=HTTP)
+[Network Analyzer (4470:2dc8)]   (Sid:  2) Client -> Server @ : 159 bytes (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4047 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4101 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4047 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 2248 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 2284 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Error    ( eec:2e40)] SSLAccept(ssl_id = 3115873216592 = 000002D578842850) Failed, ctx = 000002D578834580, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Web Request      ( eec:46c0)] "GET /WebTours/images/hp_logo.png"   
+[Net An. Error    ( eec:2e40)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Client -> Server @ : 656 bytes (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( eec:46c0)]   (Sid: 10) Client -> Server @ : 657 bytes (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 10) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( eec:46c0)]   (Sid: 13) Client -> Server @ : 764 bytes (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (4470:2dc8)]   (Sid:  2) Server -> Client : 1306 bytes  (Service=HTTP)
+[Web Request      (4470:2dc8)] "GET /pkiops/crl/MicSecSerCA2011_2011-10-18.crl"   
+[Network Analyzer (4470:2dc8)]   (Sid:  2) Client -> Server @ : 202 bytes (Service=HTTP)
+[Network Analyzer ( eec:1e8c)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 13) Server -> Client : 1749 bytes  (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /WebTours/home.html"   
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Client -> Server @ : 760 bytes (Service=HTTP)
+[Net An. Error    ( eec:1e8c)] SSLAccept(ssl_id = 3115873208848 = 000002D578840A10) Failed, ctx = 000002D578834580, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Network Analyzer (4470:2dc8)]   (Sid:  2) Server -> Client : 1306 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Net An. Error    ( eec:1e8c)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (4470:2dc8)]   (Sid:  1) Client -> Server @ : 1093 bytes (SSL)(Service=HTTP)
+[Network Analyzer (4470:2dc8)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid= 16)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Client -> Server @ : 660 bytes (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3530)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.239:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( eec:3530)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:48c8)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( eec:3128)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer ( eec: ab0)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:4108)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 10) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.223.35.26:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 88.221.25.97:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.239:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( eec:48c8)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:3128)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 12) Client -> Server @ : 607 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/browser/edge/navigate/3"   
+[Network Analyzer ( eec:46c0)]   (Sid: 12) Client -> Server @ : 1658 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 14) Client -> Server @ : 607 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 15) Client -> Server @ : 607 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /favicon.ico"   
+[Network Analyzer ( eec:46c0)]   (Sid: 21) Client -> Server @ : 629 bytes (Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/browser/edge/navigate/3"   
+[Network Analyzer ( eec:46c0)]   (Sid: 14) Client -> Server @ : 1671 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/browser/edge/navigate/3"   
+[Network Analyzer ( eec:46c0)]   (Sid: 15) Client -> Server @ : 1667 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 21) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer ( eec: ab0)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Error    ( eec:4108)] SSLAccept(ssl_id = 3115873208848 = 000002D578840A10) Failed, ctx = 000002D578834580, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    ( eec:4108)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( eec:46c0)]   (Sid: 12) Server -> Client : 3413 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 14) Server -> Client : 3427 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 15) Server -> Client : 3417 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /api/browser/edge/data/bloomfilter/x/3?pushcert=false&flight=%7b%22etag%22%3a%22%5c%22mskcjc2st6drsnuepbxevpyti1ae0qq2osrosoun%2b7m%3d%5c%22%22%2c%22ids%22%3a%5b%22p-r-1021007-4-5%2cp-r-99770-9-32%2cp-r-86682-4-39%2cp-r-73000-7-30%2cp-r-72999-7-29%2cp-r-70204-3-18%2cp-r-69385-1-5%2cp-r-68026-3-37%2cp-r-68490-1-3%2cp-r-68172-2-4%2cp-r-68175-1-6%2cp-r-68176-2-8%2cp-r-68179-1-3%2cp-r-68306-1-20%2cp-r-68307-1-3%2cp-d-68194-1-2%22%5d%2c%22settings%22%3a%7b%22names%22%3anull%2c%22ring%22%3a0%2c%22models%22%3anull%2c%22serviceclientmodeldetonate%22%3afalse%2c%22wdsifeedback%22%3afalse%2c%22npfeedbackurioverride%22%3anull%2c%22networkfilterdetonate%22%3afalse%2c%22servicephishdetonate%22%3afalse%2c%22servicephishdetonatelegacy%22%3afalse%2c%22serviceadhocdetonate%22%3afalse%2c%22npsettings2004%22%3atrue%2c%22updatesigningcert%22%3atrue%2c%22updatesigningcertforrs3rs4%22%3atrue%2c%22npsettings2004value%22%3a0%2c%22iscocoblockenabled%22%3afalse%2c%22npipblockoverridevalue%22%3a0%2c%22toptrafficv2enabled%22%3atrue%2c%22listapie5v2enabled%22%3atrue%2c%22isnppioverrideblockenabled%22%3atrue%2c%22toptrafficv2mobileflightenabled%22%3afalse%2c%22bloomfilterdeltaflag%22%3a1%2c%22srceopenabled%22%3atrue%2c%22iscurfid0loggingenabled%22%3atrue%2c%22iscurfid0blockingenabled%22%3afalse%2c%22updateonmissingetagenabled%22%3atrue%2c%22enableproxyleniency%22%3atrue%2c%22isarsfmsintegrationenabled%22%3atrue%2c%22enablenshumormatch%22%3atrue%2c%22applynshumorverdict%22%3afalse%2c%22enablenpskipnonweb%22%3afalse%2c%22sendgeomapinsettingstonewanaheimclient%22%3atrue%2c%22umssrcphishbnrtenabled%22%3afalse%2c%22mtdthrottlefactor%22%3a0.0%2c%22unsilencemodelguid%22%3anull%7d%7d&os=10.0.22621.1555.ni_release"   
+[Network Analyzer ( eec:46c0)]   (Sid: 16) Client -> Server @ : 2284 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 15) Connection Terminated (by Server)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[API Trapper      ( d30:1ad8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      ( bf4:44c0)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( eec:2b08)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 16) Server -> Client : 626 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 204.79.197.203:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( eec: f38)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 2.22.54.187:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:30a0)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 2.22.54.187:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( eec:2b08)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec: f38)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Error    ( eec:30a0)] SSLAccept(ssl_id = 3115877486656 = 000002D578C55040) Failed, ctx = 000002D578834580, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    ( eec:30a0)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      ( eec:46c0)] "GET /bloomfilterfiles/DomainsFilterGlobal.json"   
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Client -> Server @ : 392 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 676 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:48d8)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:4834)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 13487 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:48d8)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( eec:46c0)] "GET /auth/cookie/appanon?scn=app_anon&ocid=authconstants-peregrine&apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=29FC27AF096F4DEB8A45E260381405DC"   
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Client -> Server @ : 2899 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:4834)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:1d68)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 2592 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 6 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:1d68)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 95.101.21.51:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 18.65.39.29:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Client -> Server @ : 510 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/shopping/v1/item/search?appid=67220BD2169C2EA709984467C21494086DF8CA85&features=persnlcashback&sf=cashback1"   
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Client -> Server @ : 2840 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec: 6f8)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 1271 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 2944 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:2468)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( eec:46c0)]   (Sid: 21) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent LOGIN [Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 68.219.88.97:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.239:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer ( eec:3550)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( eec: d24)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.200:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer ( eec: 6f8)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Error    ( eec: d24)] SSLAccept(ssl_id = 3115877740624 = 000002D578C93050) Failed, ctx = 000002D578834580, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    ( eec: d24)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( eec:2468)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:3550)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( eec:46c0)] "GET /auth/cookie/appanon?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&ocid=authconstants-peregrine&activityId=29FC27AF-096F-4DEB-8A45-E260381405DC&scn=app_anon"   
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Client -> Server @ : 3030 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 13.107.21.239:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 2593 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 6 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBI4FN9"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 667 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "POST /api/shopping/v1/telemetry"   
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Client -> Server @ : 919 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 521 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3430)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 1057 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 204.79.197.203:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer ( eec:3430)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( eec:46c0)] "GET /edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1"   
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Client -> Server @ : 4323 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /service/news/feed/pages/ntp?User=m-08E2288EABF7645029433A9CAADD6558&activityId=29FC27AF-096F-4DEB-8A45-E260381405DC&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-ca&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&infopaneCount=26&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&prerender=1&scn=APP_ANON&timeOut=1000&wposchema=byregion"   
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Client -> Server @ : 3282 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AA19e3tG"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 19) Server -> Client : 18 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:4820)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 8673 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 63 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 442 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 1347 bytes (SSL) (Service=HTTP)
+[Net An. Error    ( eec:4820)] SSLAccept(ssl_id = 3115877777488 = 000002D578C9C050) Failed, ctx = 000002D578834580, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    ( eec:4820)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 2757 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4104 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4047 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4101 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4047 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4101 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 4047 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 56 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 2248 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 2284 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /auth/cookie/appanon?scn=app_anon&ocid=authconstants-peregrine&apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=49EE040673DF46449E52D375D0A9E57B"   
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Client -> Server @ : 2894 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 2593 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=edgeChromium&v=20230424.382&targetScope={%22audienceMode%22:%22adult%22,%22browser%22:{%22browserType%22:%22edgeChromium%22,%22version%22:%22112%22,%22ismobile%22:%22false%22},%22deviceFormFactor%22:%22desktop%22,%22domain%22:%22ntp.msn.com%22,%22locale%22:{%22content%22:{%22language%22:%22en%22,%22market%22:%22ca%22},%22display%22:{%22language%22:%22en%22,%22market%22:%22ca%22}},%22os%22:%22windows%22,%22platform%22:%22web%22,%22pageType%22:%22dhp%22,%22pageExperiments%22:[%22prg-1s-cfnrt%22,%22prg-1s-cfnrtt%22,%22prg-1s-wxxap%22,%22prg-1sw-aqpn%22,%22prg-1sw-aqtkrt2%22,%22prg-1sw-aqwd%22,%22prg-1sw-c0328%22,%22prg-1sw-cfebfrh%22,%22prg-1sw-cgprvw-ng%22,%22prg-1sw-curnctl%22,%22prg-1sw-discc%22,%22prg-1sw-ebnfwk%22,%22prg-1sw-edw%22,%22prg-1sw-esprt-rcgenre%22,%22prg-1sw-esprtpr-coc%22,%22prg-1sw-esprtpr-cs%22,%22prg-1sw-esprtpr-ng%22,%22prg-1sw-hce%22,%22prg-1sw-ipthlc%22,%22prg-1sw-jp1012%22,%22prg-1sw-otelcf%22,%22prg-1sw-p1idxft%22,%22prg-1sw-p1wtrclm%22,%22prg-1sw-pde0%22,%22prg-1sw-protd-c%22,%22prg-1sw-r23fp%22,%22prg-1sw-refprg1%22,%22prg-1sw-sagetnp2%22,%22prg-1sw-sawch-r263t2%22,%22prg-1sw-sdtravoff%22,%22prg-1sw-sfrp%22,%22prg-1sw-srdus%22,%22prg-1sw-swbdgro%22,%22prg-1sw-swexp%22,%22prg-1sw-swfallback%22,%22prg-1sw-tbrcounter%22,%22prg-1sw-tpdstr-t%22,%22prg-1sw-uumar%22,%22prg-1sw-uumar2%22,%22prg-1sw-wxlfap%22,%22prg-1sw-wxlfrc%22,%22prg-1sw-wxnc2hr%22,%22prg-1sw-wxncds%22,%22prg-1sw-wxpratec%22,%22prg-1sw-wxwksmr0%22,%22prg-1sw-xapgrid%22,%22prg-ads-nomai%22,%22prg-adspeek%22,%22prg-callclrbld%22,%22prg-cg-leaderboard-c%22,%22prg-cg-sidebar-c%22,%22prg-cm-csopsp%22,%22prg-cm-sopfi%22,%22prg-cm-sopfi1%22,%22prg-crep-vid-e2%22,%22prg-ct-enable-sw%22,%22prg-cunify1s%22,%22prg-deeplinkfix-c%22,%22prg-enable-ccache%22,%22prg-hpwtchctrl%22,%22prg-ias%22,%22prg-imm-superip%22,%22prg-immmb-superip%22,%22prg-persfeed%22,%22prg-pintotaskbar-cf%22,%22prg-pr2-1sauth%22,%22prg-pr2-cachemic%22,%22prg-pr2-cbshop2%22,%22prg-pr2-csnbsd10km3%22,%22prg-pr2-immtr-nc%22,%22prg-pr2-info3sld%22,%22prg-pr2-inptrnc%22,%22prg-pr2-nocs%22,%22prg-pr2-nowcast2%22,%22prg-pr2-rrail-c%22,%22prg-pr2-setbtn-c%22,%22prg-pr2-spotify-c%22,%22prg-pr2-thnn-r%22,%22prg-rrwc-c-new%22,%22prg-sh-bdnews%22,%22prg-sh-cart%22,%22prg-sh-mustoffc%22,%22prg-sh-sprdls2%22,%22prg-sh-taxenabled%22,%22prg-sh-unifyadd%22,%22prg-sh-usecpm%22,%22prg-share-rf2c%22,%22prg-sp-liveapi%22,%22prg-spr-enewapi%22,%22prg-spr-enewmsapi%22,%22prg-spr-rv-mmszi%22,%22prg-spr-tm-mmszi%22,%22prg-tat-dhc-c%22,%22prg-ugc-cttsearch1%22,%22prg-ugc-nosurvey%22,%22prg-upsaip-r-t%22,%22prg-upsaip-w1-t%22,%22prg-wea-greetprv%22,%22prg-whpgridbyregionc%22,%22prg-winhp-sdt4dual%22,%22prg-wsuperip-p2%22,%22prg-wtch-annctrcv2%22,%22prg-wtch-blv3t11%22,%22prg-wtch-ofe8r1%22,%22prg-wtchdisp%22,%22prg-wx-anmpr%22,%22prg-wx-dhgrd%22,%22prg-wx-mpretry1s%22,%22prg-wx-prerenmap%22,%22prg-wx-sbn-vm%22,%22prg-wx-swtpwi%22]}"   
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Client -> Server @ : 7044 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 6 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:2690)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 12043 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 2 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 16368 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 18 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 8204 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 6820 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 107 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:2690)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 3957 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 13786 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 62 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 18 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 107 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 3958 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 59 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 496 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 12 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 28) Connection Terminated (by Client)
+[Web Request      ( eec:46c0)] "GET /edge/ntp/service-worker.js?raceEnabled=true&riverAgeMinutes=180&navAgeMinutes=2880&enableNavPreload=true"   
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Client -> Server @ : 3841 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Server -> Client : 1121 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /service/news/feed/pages/ntp?User=m-08E2288EABF7645029433A9CAADD6558&activityId=49EE0406-73DF-4644-9E52-D375D0A9E57B&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-ca&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&infopaneCount=26&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&prerender=1&scn=APP_ANON&timeOut=1000&wposchema=byregion"   
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Client -> Server @ : 3282 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBOTMVt"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 30) Connection Terminated (by Client)
+[Web Request      ( eec:46c0)] "GET /auth/cookie/appanon?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&ocid=authconstants-peregrine&activityId=49EE0406-73DF-4644-9E52-D375D0A9E57B&scn=app_anon"   
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Client -> Server @ : 3030 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 559 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AA14ak2A"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 2593 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 6 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AA12Dkv9"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 12040 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 2 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 8809 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 106 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 8110 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 106 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 8110 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 106 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 13165 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 12 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AA12DeH0"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AAUKhHF"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBY3XmH"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB1gzN7f"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB14pN6J"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /tenant/amp/entityid/BBH3Kvo?w=16&h=16&q=100&m=6&f=png&u=t"   
+[Network Analyzer ( eec:46c0)]   (Sid: 25) Client -> Server @ : 648 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 25) Server -> Client : 1677 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 95.101.21.51:443   (Service=)  (Sid= 32)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /tenant/amp/entityid/AA14HnBT?w=16&h=16&q=100&m=6&f=png&u=t"   
+[Network Analyzer ( eec:46c0)]   (Sid: 25) Client -> Server @ : 649 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB13LhyC"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 25) Server -> Client : 1062 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB18LjEV"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:4b6c)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer ( eec:4b6c)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 557 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBXZUWo"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB1eLvkK"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AAAMZwI"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBZRacE"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 23.51.68.110:443   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /service/News/Users/me/Rewards?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=49EE0406-73DF-4644-9E52-D375D0A9E57B&ocid=rewards-peregrine&cm=en-ca&it=app&user=m-08E2288EABF7645029433A9CAADD6558&scn=APP_ANON&version=2"   
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Client -> Server @ : 3129 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AAQZQUs"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 666 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 2.22.54.187:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid: 24) Server -> Client : 3291 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 616 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /breakingnews/v1/cms/api/amp/article/AA1ZJNN"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 672 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:3d98)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( eec:3d98)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 617 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /REST/v1/Imagery/Map/RoadVibrant/Routes/driving?ms=266,166&culture=en-ca&waypoint.1=51.5315704345703,4.45984792709351;drsp.f;+&waypoint.2=51.4941024780273,4.28784322738647;drep.f;+&mapLayer=TrafficFlow,Basemap,trafficroute,OsmBuildings&key=AugYTsAbLKj7moSUfsxalWlCFq3qnO8wjRy5Pp4tXwCpwW0gClh_Eq0gwMSHPcLK&fmt=png&da=ro&logo=n"   
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Client -> Server @ : 912 bytes (SSL)(Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB10E6Or"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:44d0)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 1769 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:44d0)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 8192 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 33) Server -> Client : 3338 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBZRtCK"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/AAUKhQH"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 664 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 614 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BBP57ma"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 518 bytes (SSL) (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /content/v1/cms/api/amp/Document/BB14i9Qh"   
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 23) Server -> Client : 517 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Web Request      ( eec:46c0)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Client -> Server @ : 1017 bytes (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Server -> Client : 689 bytes  (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( eec:46c0)] "GET /cgi-bin/nav.pl?username=jojo1&password=j2ee"   
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Client -> Server @ : 790 bytes (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Server -> Client : 1757 bytes  (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( eec:3080)] Request Connection: Remote Server @ 20.67.143.122:443   (Service=)  (Sid= 37)  PROXIED!
+[Web Request      ( eec:46c0)] "GET /cgi-bin/error.pl?error=badPassword"   
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Client -> Server @ : 781 bytes (Service=HTTP)
+[Network Analyzer ( eec:3080)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Server -> Client : 1252 bytes  (Service=HTTP)
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( eec:41e0)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:3328)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( eec:46c0)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 26) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 32) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 34) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer ( eec:46c0)]   (Sid: 22) Connection Terminated (by Server)
+[API Trapper      (3724: 864)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\meg corrilations
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\meg corrilations\\logfile.log
+c:\users\kokob\desktop\lr script\meg corrilations\\combined_meg corrilations.c
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c

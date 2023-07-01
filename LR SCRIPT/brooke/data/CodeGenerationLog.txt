@@ -1,0 +1,886 @@
+****** Start Log Message ******
+Web Recorder version : 2021.0.0.430 
+Recording Mode: HTML-based script
+Recording headers not in list:
+	accept
+	accept-charset
+	accept-encoding
+	accept-language
+	accept-ranges
+	age
+	allow
+	cache-control
+	content-base
+	content-disposition
+	content-encoding
+	content-language
+	content-location
+	content-md5
+	content-range
+	content-type
+	date
+	etag
+	expires
+	from
+	if-modified-since
+	if-match
+	if-none-match
+	if-range
+	if-unmodified-since
+	location
+	last-modified
+	max-forwards
+	pragma
+	public
+	range
+	retry-after
+	server
+	transfer-encoding
+	upgrade
+	user-agent
+	vary
+	via
+	warning
+	method
+	path
+	scheme
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+	application/json
+Reset context between actions
+Do not record non-HTML elements
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 2021.0.0.430
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 3660 ******
+POST /Telemetry.Request HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/xml
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.22621.1485 Windows_NT/10.0.22621.1485 (x64)
+MSA_DeviceTicket: t=EwC4AlN5BAAUx7kvJOvlZVsOh3du+AzMGpNViggAAf66SdpDilO4vQ2QRvZqpCcwnA1+hINiDfFNpeNejC333cKZC801nzTX3uDNB0OFtDnfJFJJ7OsUIyDcf8gwuKyUvAUOlUHtqMgg1AyrnJYDYeSEAqwgcLwxIARHAA2pOTUuATyWU6w2gBtSgQXJKq38qqCDA/i0vLDBbNAP/JAMz//MmSOgvfmwO2BpdzpJwgXBV+wRRUlr12JC6hvt8rDZC6arbdQxgnphzr5H0/h7yy1ZSWVGj2BvG6WtCgjaET9IT73/ffZlmubW6S/uGUULz1HigsGMZyuYYDvozUF8DQ9aLVqr482kVU8CwdowKMA+1uJvwYpgrmDJKJzqr9ADZgAACEznh/sMDEpuiAE+W1f+fWKvnHEzKRLtjgmtaewJbDjOC1M2KzENBR9yytPtB1pXw0TsdXkPJCcAVqiq/cQ67c9raix1Vw4aMWEdAd3Kce/C/xKl4dDdmvqZBrd/5eabJdks8zEy+fFpt3Qn4+dUvB8bfQ9xxwbEgL3Cg3KvJHifmIgkN/c87szgcZxJacvu4UhVN1CMBMAGwo03Q1KTS8sv3HWNU9lOutZckod0ZnLe01orTIM094syyMkMk66XaTrt5G6nZ3CUac3tnm1I88ZoaYeRBjzvvTWWiZCs1KC5EXq3sTr9ILLbqScOOw3TCmJAw4xAwrVUgpoxgH4CLzZbD2QdkN/9NCkyQZHGTotc+o08l7pivccp1BO19L2g0dMpUiWFkOHfCYUstYPyPoWd30aS2mWog47LWiJmwlpC8SL7RzzOtqPgWVFcbywynMslWhiGOO25MOZq1P0OJW9qdytCtdk+mmtrHNluQlKO/QR+92aZRPWTyz8UoKyQrsP4/Vc+LHMcD2MLg91w0rM/SbkB&p=
+Content-Length: 3692
+Host: nw-umwatson.events.data.microsoft.com
+
+
+$$$$$$ Request Header For Transaction With Id 3660 Ended $$$$$$
+
+****** Request Body For Transaction With Id 3660 ******
+h\x0E\x00\x00<?xml version="1.0"?>
+<req ver="2">
+ <tlm>
+  <src>
+   <desc>
+    <mach>
+     <os>
+      <arg nm="vermaj" val="10"/>
+      <arg nm="vermin" val="0"/>
+      <arg nm="verbld" val="22621"/>
+      <arg nm="vercsdbld" val="1555"/>
+      <arg nm="verqfe" val="1555"/>
+      <arg nm="csdbld" val="1555"/>
+      <arg nm="versp" val="0"/>
+      <arg nm="arch" val="9"/>
+      <arg nm="lcid" val="1033"/>
+      <arg nm="geoid" val="39"/>
+      <arg nm="sku" val="101"/>
+      <arg nm="domain" val="0"/>
+      <arg nm="portos" val="0"/>
+      <arg nm="ram" val="14255"/>
+      <arg nm="svolsz" val="476"/>
+      <arg nm="wimbt" val="0"/>
+      <arg nm="blddt" val="220506"/>
+      <arg nm="bldtm" val="1250"/>
+      <arg nm="bldbrch" val="ni_release"/>
+      <arg nm="os" val="Windows"/>
+      <arg nm="osver" val="10.0.22621.1555.amd64fre.ni_release.220506-1250"/>
+      <arg nm="buildflightid" val="BF0C001B-134C-4339-B0E2-ACA19BEB7787.1"/>
+      <arg nm="expid" val="RS:13F1A"/>
+      <arg nm="edition" val="Core"/>
+     </os>
+  
+$$$$$$ Request Body For Transaction With Id 3660 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3660 ******
+HTTP/1.1 200 200 OK
+Content-Length: 634
+Content-Type: text/xml
+Server: Microsoft-HTTPAPI/2.0
+Strict-Transport-Security: max-age=31536000
+Date: Sat, 20 May 2023 16:59:33 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3660 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3660 ******
+<?xml version="1.0" encoding="UTF-8"?><resp ver="2"><tlm><resps><resp key="1"><namespace svc="watson" ptr="generic" gp="generic" app="msedge.exe"><arg nm="p1" val="msedge.exe" /><arg nm="p2" val="113.0.1774.50" /><arg nm="p3" val="msedge_elf.dll" /><arg nm="p4" val="113.0.1774.50" /><arg nm="p5" val="2374807" /><arg nm="p6" val="utility" /><arg nm="p7" val="0x517a7ed" /><arg nm="p8" val="0" /></namespace><cmd nm="receipt"><arg nm="tm" val="133290755742925876" /><arg nm="buckettbl" val="5" /><arg nm="bucket" val="d9d40f2da8917cfe941a32bcfce249a5" /><arg nm="ibucket" val="1448526017430964645" /></cmd></resp></resps></tlm></resp>
+$$$$$$ Response Body For Transaction With Id 3660 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SSL version to 'AUTO'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3660 ****** (Location Flag : tFlagInsertEnd, Location ID : 3660)
+	web_custom_request("Telemetry.Request",
+		"URL=https://nw-umwatson.events.data.microsoft.com/Telemetry.Request",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t149.inf",
+		"Mode=HTML",
+		"EncType=application/xml",
+		"BodyBinary=h\\x0E\\x00\\x00<?xml version=\"1.0\"?>\n"
+		"<req ver=\"2\">\n"
+		" <tlm>\n"
+		"  <src>\n"
+		"   <desc>\n"
+		"    <mach>\n"
+		"     <os>\n"
+		"      <arg nm=\"vermaj\" val=\"10\"/>\n"
+		"      <arg nm=\"vermin\" val=\"0\"/>\n"
+		"      <arg nm=\"verbld\" val=\"22621\"/>\n"
+		"      <arg nm=\"vercsdbld\" val=\"1555\"/>\n"
+		"      <arg nm=\"verqfe\" val=\"1555\"/>\n"
+		"      <arg nm=\"csdbld\" val=\"1555\"/>\n"
+		"      <arg nm=\"versp\" val=\"0\"/>\n"
+		"      <arg nm=\"arch\" val=\"9\"/>\n"
+		"      <arg nm=\"lcid\" val=\"1033\"/>\n"
+		"      <arg nm=\"geoid\" val=\"39\"/>\n"
+		"      <arg nm=\"sku\" val=\"101\"/>\n"
+		"      <arg nm=\"domain\" val=\"0\"/>\n"
+		"      <arg nm=\"portos\" val=\"0\"/>\n"
+		"      <arg nm=\"ram\" val=\"14255\"/>\n"
+		"      <arg nm=\"svolsz\" val=\"476\"/>\n"
+		"      <arg nm=\"wimbt\" val=\"0\"/>\n"
+		"      <arg nm=\"blddt\" val=\"220506\"/>\n"
+		"      <arg nm=\"bldtm\" val=\"1250\"/>\n"
+		"      <arg nm=\"bldbrch\" val=\"ni_release\"/>\n"
+		"      <arg nm=\"os\" val=\"Windows\"/>\n"
+		"      <arg nm=\"osver\" val=\"10.0.22621.1555.amd64fre.ni_release.220506-1250\"/>\n"
+		"      <arg nm=\"buildflightid\" val=\"BF0C001B-134C-4339-B0E2-ACA19BEB7787.1\"/>\n"
+		"      <arg nm=\"expid\" val=\"RS:13F1A\"/>\n"
+		"      <arg nm=\"edition\" val=\"Core\"/>\n"
+		"     </os>\n"
+		"     <hw>\n"
+		"      <arg nm=\"form\" val=\"2\"/>\n"
+		"      <arg nm=\"arch\" val=\"9\"/>\n"
+		"      <arg nm=\"deviceclass\" val=\"Windows.Desktop\"/>\n"
+		"      <arg nm=\"sysmfg\" val=\"HP\"/>\n"
+		"      <arg nm=\"syspro\" val=\"HP Laptop 15-ef1xxx\"/>\n"
+		"      <arg nm=\"bv\" val=\"F.54\"/>\n"
+		"      <arg nm=\"ram\" val=\"16384\"/>\n"
+		"      <arg nm=\"proccnt\" val=\"4\"/>\n"
+		"      <arg nm=\"proclsp\" val=\"2395\"/>\n"
+		"      <arg nm=\"wscpusc\" val=\"0\"/>\n"
+		"      <arg nm=\"wsdsksc\" val=\"0\"/>\n"
+		"      <arg nm=\"wscpudn\" val=\"AMD Athlon Gold 3150U with Radeon Graphics     \"/>\n"
+		"      <arg nm=\"wsdgsc\" val=\"0\"/>\n"
+		"      <arg nm=\"aoac\" val=\"0\"/>\n"
+		"      <arg nm=\"bssku\" val=\"2L7R6UA#ABL\"/>\n"
+		"      <arg nm=\"chid\" val=\"{dc2408da-5161-57d1-bde4-047dcc1973b2}\"/>\n"
+		"      <arg nm=\"sdksz\" val=\"476\"/>\n"
+		"     </hw>\n"
+		"     <ctrl>\n"
+		"      <arg nm=\"tm\" val=\"133290755612729900\"/>\n"
+		"      <arg nm=\"mid\" val=\"378D4F79-26F4-4FAC-A6EA-5A43C51D4A91\"/>\n"
+		"      <arg nm=\"sample\" val=\"59206375\"/>\n"
+		"      <arg nm=\"msft\" val=\"0\"/>\n"
+		"      <arg nm=\"test\" val=\"0\"/>\n"
+		"      <arg nm=\"scf\" val=\"0\"/>\n"
+		"      <arg nm=\"commercialid\" val=\"\"/>\n"
+		"      <arg nm=\"telemetry\" val=\"Required\"/>\n"
+		"     </ctrl>\n"
+		"    </mach>\n"
+		"   </desc>\n"
+		"  </src>\n"
+		"  <reqs>\n"
+		"   <req key=\"1\">\n"
+		"    <namespace svc=\"watson\" ptr=\"generic\" gp=\"generic\" app=\"msedge.exe\">\n"
+		"     <arg nm=\"p1\" val=\"msedge.exe\"/>\n"
+		"     <arg nm=\"p2\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p3\" val=\"msedge_elf.dll\"/>\n"
+		"     <arg nm=\"p4\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p5\" val=\"2374807\"/>\n"
+		"     <arg nm=\"p6\" val=\"utility\"/>\n"
+		"     <arg nm=\"p7\" val=\"0x517a7ed\"/>\n"
+		"     <arg nm=\"p8\" val=\"0\"/>\n"
+		"    </namespace>\n"
+		"    <ctrl>\n"
+		"     <arg nm=\"reportid\" val=\"bd874ed3-28e8-483c-b2f2-16fcd5969fe3\"/>\n"
+		"     <arg nm=\"procmeta.Channel\" val=\"\"/>\n"
+		"     <arg nm=\"procmeta.MetricsClientId\" val=\"b2f25a6c-6acf-4be3-9a1a-8a3007ccdd40\"/>\n"
+		"     <arg nm=\"procmeta.MetricsClientIdHash\" val=\"6921235004802684617\"/>\n"
+		"     <arg nm=\"procmeta.MetricsSessionId\" val=\"662\"/>\n"
+		"     <arg nm=\"procmeta.OfficialBuild\" val=\"1\"/>\n"
+		"     <arg nm=\"procmeta.RuntimeVariationsSeedETag\" val=\"&quot;47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=&quot;\"/>\n"
+		"     <arg nm=\"procmeta.UXConfigCorrelationId\" val=\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\"/>\n"
+		"     <arg nm=\"procmeta.VariationsSeedETag\" val=\"\"/>\n"
+		"    </ctrl>\n"
+		"    <cmd nm=\"event\">\n"
+		"     <arg nm=\"eventtype\" val=\"crashpad_exp\"/>\n"
+		"     <arg nm=\"cat\" val=\"generic\"/>\n"
+		"     <arg nm=\"p1\" val=\"msedge.exe\"/>\n"
+		"     <arg nm=\"p2\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p3\" val=\"msedge_elf.dll\"/>\n"
+		"     <arg nm=\"p4\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p5\" val=\"2374807\"/>\n"
+		"     <arg nm=\"p6\" val=\"utility\"/>\n"
+		"     <arg nm=\"p7\" val=\"0x517a7ed\"/>\n"
+		"     <arg nm=\"p8\" val=\"0\"/>\n"
+		"     <arg nm=\"appsessionguid\" val=\"0000665c-000e-0020-ba33-46623c8bd901\"/>\n"
+		"    </cmd>\n"
+		"   </req>\n"
+		"  </reqs>\n"
+		" </tlm>\n"
+		"</req>\n",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3660 Ended $$$$$$
+
+****** Request Header For Transaction With Id 3687 ******
+POST /identity/api/v3/msa HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+Content-Length: 2
+Content-Type: application/json
+Sec-Mesh-Client-Edge-Version: 113.0.1774.50
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22621
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: MC1=GUID=ea96e8600fb244c0b76ff4f2faa0694d&HASH=ea96&LV=202210&V=4&LU=1666172924349
+
+
+$$$$$$ Request Header For Transaction With Id 3687 Ended $$$$$$
+
+****** Request Body For Transaction With Id 3687 ******
+{}
+$$$$$$ Request Body For Transaction With Id 3687 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3687 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 1935
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 16DB796E23674CBA80C523D995A680E6 Ref B: FRA31EDGE0612 Ref C: 2023-05-20T16:59:56Z
+Date: Sat, 20 May 2023 16:59:55 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3687 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3687 ******
+{"ttl":3600,"clients":[{"name":"Bing","id":"6f053d1c-73ab-4c66-8de3-22754364e533","types":["msa"],"group":"default","hosts":["www.bing.com"],"redirectUri":"https://login.microsoftonline.com/oauth2/nativeclient","tokens":{"root":{"scopes":"service::bing.com::mbi_ssl"}},"loginActions":{"networkRequests":[{"url":"https://www.bing.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0","method":"GET","headers":{"X-Search-RPSToken":"${root}"}}]},"logoutActions":{"networkRequests":[{"url":"https://www.bing.com/logoutgif.asp","method":"GET"}]},"watch":[{"trigger":"cookie","host":"www.bing.com","name":"_U","value":"","action":"logout"}]},{"name":"SSO","id":"82864fa0-ed49-4711-8395-a0e6003dca1f","types":["msa"],"group":"default","logoutActions":{"networkRequests":[{"url":"https://login.live.com/logout.srf","method":"GET"}]},"watch":[{"trigger":"cookie","host":"login.live.com","name":"PPAuth","value":"","action":"logout"}]},{"name":"MSN","id":"f3222e55-ab35-49de-81f3-88a3be08cf77","types":["msa"],"group":"default","hosts":["localhost.msn.com","ntp.msn.com","www.msn.com","ntp.msn.cn"],"tokens":{"msn":{"scopes":"service::www.msn.com::mbi_ssl"}},"loginActions":{"cookies":{"add":[{"url":"https://www.msn.com/","line":"lt=${msn}; domain=msn.com; path=/; max-age=2592000; secure; samesite=none"}]}},"logoutActions":{"networkRequests":[{"url":"https://api.msn.com/auth/cookie/EdgeProfile?apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&ocid=edge","method":"DELETE"}],"cookies":{"delete":[{"url":"https://www.msn.com/","line":"lt="}]}}},{"name":"Office","id":"4765445b-32c6-49b0-83e6-1d93765276ca","types":["msa"],"group":"default","hosts":["www.office.com","ntp.www.office.com"],"logoutActions":{"networkRequests":[{"url":"https://www.office.com/logout","method":"GET"}]}},{"name":"WindowsDashboard","id":"26b99878-68bf-465c-a318-8a5b23bb9365","types":["aad","msa"],"group":"default","hosts":["windows.msn.com"]}]}
+$$$$$$ Response Body For Transaction With Id 3687 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/Telemetry.Request
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3687 ****** (Location Flag : tFlagInsertEnd, Location ID : 3687)
+	web_custom_request("msa",
+		"URL=https://edge.microsoft.com/identity/api/v3/msa",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t150.inf",
+		"Mode=HTML",
+		"EncType=application/json",
+		"Body={}",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3687 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_cookie("MC1=GUID=ea96e8600fb244c0b76ff4f2faa0694d&HASH=ea96&LV=202210&V=4&LU=1666172924349; DOMAIN=edge.microsoft.com");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3660)
+	web_add_header("MSA_DeviceTicket",
+		"t=EwC4AlN5BAAUx7kvJOvlZVsOh3du+AzMGpNViggAAf66SdpDilO4vQ2QRvZqpCcwnA1+hINiDfFNpeNejC333cKZC801nzTX3uDNB0OFtDnfJFJJ7OsUIyDcf8gwuKyUvAUOlUHtqMgg1AyrnJYDYeSEAqwgcLwxIARHAA2pOTUuATyWU6w2gBtSgQXJKq38qqCDA/i0vLDBbNAP/JAMz//MmSOgvfmwO2BpdzpJwgXBV+wRRUlr12JC6hvt8rDZC6arbdQxgnphzr5H0/h7yy1ZSWVGj2BvG6WtCgjaET9IT73/ffZlmubW6S/uGUULz1HigsGMZyuYYDvozUF8DQ9aLVqr482kVU8CwdowKMA+1uJvwYpgrmDJKJzqr9ADZgAACEznh/sMDEpuiAE+W1f+fWKvnHEzKRLtjgmtaewJbDjOC1M2KzENBR9yytPtB1pXw0TsdXkPJCcAVqiq/cQ67c9raix1Vw4aMWEdAd3Kce/C/xKl4dDdmvqZBrd/5eabJdks8zEy+fFpt3Qn4+dUvB8bfQ9xxwbEgL3Cg3KvJHifmIgkN/c87szgcZxJacvu4UhVN1CMBMAGwo03Q1KTS8sv3HWNU9lOutZckod0ZnLe01orTIM094syyMkMk66XaTrt5G6nZ3CUac3tnm1I88ZoaYeRBjzvvTWWiZCs1KC5EXq3sTr9ILLbqScOOw3TCmJAw4xAwrVUgpoxgH4CLzZbD2QdkN/9NCkyQZHGTotc+o08l7pivccp1BO19L2g0dMpUiWFkOHfCYUstYPyPoWd30aS2mWog47LWiJmwlpC8SL7RzzOtqPgWVFcbywynMslWhiGOO25MOZq1P0OJW9qdytCtdk+mmtrHNluQlKO/QR+92aZRPWTyz8UoKyQrsP4/Vc+LHMcD2MLg91w0rM/SbkB&p=");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 3689 ******
+GET /config/v1/Edge/113.0.1774.50?clientId=6921235004802684617&agents=EdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=662&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892&fg=1 HTTP/1.1
+Host: config.edge.skype.com
+Connection: keep-alive
+If-None-Match: "rmS1KtqLX4CN0IA7rhkJX2DYpL6UmmAuYZamxz6xdHo="
+Accept-Encoding: gzip
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+
+
+$$$$$$ Request Header For Transaction With Id 3689 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3689 ******
+HTTP/1.1 200 OK
+Cache-Control: no-cache,max-age=3600
+Content-Length: 575
+Content-Type: application/json
+Content-Encoding: gzip
+Expires: Sat, 20 May 2023 17:59:56 GMT
+ETag: "pn81m8g7ScIFtZU2NF80qDiV/EWaQJk+Le7fn7A8row="
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Report-To: {"group":"NelEcsUpload1","max_age":604800,"endpoints":[{"url":"https://ecs.nel.measure.office.net?TenantId=Edge&DestinationEndpoint=Edge-Prod-FRAr4c&FrontEnd=AFD"}],"include_subdomains":true}
+NEL: {"report_to":"NelEcsUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: F0A97D58F83B46BA997C2AFD21232552 Ref B: FRAEDGE1819 Ref C: 2023-05-20T16:59:56Z
+Date: Sat, 20 May 2023 16:59:55 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3689 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3689 ******
+{"ECS":{"ExcludeExternalConfigIdsInLog":true,"ConfigLogTarget":"edge_stable"},"EdgeFirstRun":{"NDFREShowConsentScreenForSignedOutUser":{"enableFeatures":["msEdgeFREShowConsentScreenForSignedOutUser"]},"UACompatibilityFix":{"enableFeatures":["msUACompatibilityFix"]},"ExpEnabled":{"enableFeatures":["msExpEnabled"]}},"EdgeFirstRunConfig":{"OmniboxActionsA1":{"enableFeatures":["msOmniboxPedalIntercept"],"parameters":[{"name":"OmniboxPedalInterceptTreatment","value":"1"}]},"EmptyEdgeFirstRunConfig":{"enableFeatures":["eefrc"]}},"Segmentation":{"ContentServicesAll":"false","WebXTAll":"false","BingAll":"false","EdgeAll":"false","MicrosoftUser":"false"},"Headers":{"ETag":"\"pn81m8g7ScIFtZU2NF80qDiV/EWaQJk+Le7fn7A8row=\"","Expires":"Sat, 20 May 2023 17:59:56 GMT","CountryCode":"NL","StatusCode":"200"},"ConfigIDs":{"ECS":"P-R-1082570-1-11,P-D-42388-2-6","EdgeFirstRun":"P-R-1079512-14-5,P-R-1021718-2-18,P-R-1018947-2-3","EdgeFirstRunConfig":"P-R-1090050-1-8,P-R-1075865-1-5","Segmentation":"P-R-66078-1-2,P-R-66077-1-4,P-R-60882-1-2,P-R-43082-1-3,P-R-42744-1-2"}}
+$$$$$$ Response Body For Transaction With Id 3689 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/identity/api/v3/msa
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3689 ****** (Location Flag : tFlagInsertEnd, Location ID : 3689)
+	web_url("113.0.1774.50",
+		"URL=https://config.edge.skype.com/config/v1/Edge/113.0.1774.50?clientId=6921235004802684617&agents=EdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=662&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892&fg=1",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t151.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3689 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_auto_header("Sec-Fetch-Dest",
+		"empty");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_auto_header("Sec-Fetch-Mode",
+		"no-cors");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_auto_header("Sec-Fetch-Site",
+		"none");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_header("Sec-Mesh-Client-Arch",
+		"x86_64");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_header("Sec-Mesh-Client-Edge-Channel",
+		"stable");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_header("Sec-Mesh-Client-Edge-Version",
+		"113.0.1774.50");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_header("Sec-Mesh-Client-OS",
+		"Windows");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_header("Sec-Mesh-Client-OS-Version",
+		"10.0.22621");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3687)
+	web_add_header("Sec-Mesh-Client-WebView",
+		"0");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 3691 ******
+POST /api/shopping/v1/savings/rewards/rewardsUserInfo HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+Content-Length: 43
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 3691 Ended $$$$$$
+
+****** Request Body For Transaction With Id 3691 ******
+{"anid":"61DA64BFEC386413636BD286FFFFFFFF"}
+$$$$$$ Request Body For Transaction With Id 3691 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3691 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 109
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 135B6A533E1E406A8BBF8139A47BB0D1 Ref B: FRA31EDGE0715 Ref C: 2023-05-20T16:59:56Z
+Set-Cookie: _EDGE_S=F=1&SID=240B44F19F1367C811A657E69EBF6637; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Thu, 13-Jun-2024 16:59:56 GMT; domain=bing.com
+Set-Cookie: MUID=324ED1E22B796E342D2CC2F52AD56FE6; samesite=none; path=/; secure; expires=Thu, 13-Jun-2024 16:59:56 GMT; domain=bing.com
+Set-Cookie: MUIDB=324ED1E22B796E342D2CC2F52AD56FE6; path=/; httponly; expires=Thu, 13-Jun-2024 16:59:56 GMT
+Date: Sat, 20 May 2023 16:59:55 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3691 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3691 ******
+{"balance":40,"giveProfile":{},"isRewardsUser":true,"isRebatesUser":false,"isEligibleForCashbackEnroll":true}
+$$$$$$ Response Body For Transaction With Id 3691 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/config/v1/Edge/113.0.1774.50?clientId=6921235004802684617&agents=EdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=662&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892&fg=1
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3691 ****** (Location Flag : tFlagInsertEnd, Location ID : 3691)
+	web_custom_request("rewardsUserInfo",
+		"URL=https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t152.inf",
+		"Mode=HTML",
+		"EncType=application/json",
+		"Body={\"anid\":\"61DA64BFEC386413636BD286FFFFFFFF\"}",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3691 Ended $$$$$$
+
+****** Request Header For Transaction With Id 3695 ******
+POST /api/browser/edge/navigate/3 HTTP/1.1
+Host: nav-edge.smartscreen.microsoft.com
+Connection: keep-alive
+Content-Length: 1584
+Authorization: SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiYmJTV3lJbmZYSUo2RkNPK3ptSHRqQT09IiwgImhhc2giOiJCM1hZUk5RS1FNYz0ifQ==
+Content-Type: application/json; charset=utf-8
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+
+
+$$$$$$ Request Header For Transaction With Id 3695 Ended $$$$$$
+
+****** Request Body For Transaction With Id 3695 ******
+{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50","identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":null,"onlineIdTicket":"t=GwAmAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEGe5p1JcoGjTSxF28gzuAqfwAJUrsQP+LLS6/b87uTRvhtTDg8PuUqKqrprVzmrBFN2mjUVao8FsUE0w+ylU4Xj6LzMTEJTK9KFH22gt7V94FB3grqAKSg2gXE3fLgYjDn071nl0NED8RJK9e+6iy69CPyBwVbeQ5GZmqhn4wMJt529NYs24S1PGN4R50X6MTvu5ufWwAy8pFwYHvGmSjbPLOjVsuT82zx1G0QJJKvo8tdOwcbLOI8QsFoSD9+fOKSnvEgsIC0AMOipjkSI6XsLXbu0q7H9MB4Z1G3jOpZtlYCrZG8nA0Wc1gSKQEiuWh0mF31jS3wEK44UgChKi5rQr3x4B&p=","family":3,"locale":"en-US","osVersion":"10.0.22621.1555.ni_release","browser":{"internet_explorer":"9.11.22621.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"anaheim","version":"113.0.1774.50 (Official build) "},"client":{"version":281483717640200,"data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","s
+$$$$$$ Request Body For Transaction With Id 3695 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3695 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Length: 2766
+Content-Type: application/json; charset=utf-8
+Server: Microsoft-HTTPAPI/2.0
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled,updateSigningCert,updateSigningCertForRS3RS4
+Date: Sat, 20 May 2023 17:00:02 GMT
+Connection: close
+
+
+$$$$$$ Response Header For Transaction With Id 3695 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3695 ******
+{"actions":[{"$type":"cache","key":{"uri":"127.0.0.1","inheritance":"none"},"maxAge":100800000000,"serverContext":"1;c5faad59-a2e3-31f2-b86e-aaf958e12824;PHSH:005;7E-05","responseCategory":"Allowed","result":{"$type":"allow"}},{"$type":"data","id":"synchronousLookupUris","uri":"https://data-edge.smartscreen.microsoft.com/api/browser/edge/data/bloomfilter/x/3?pushCert=false&flight=%7B%22ETag%22%3A%22%5C%22kRubWGFeDSTDnYRs83PGkcbC2mvhRi0HRtI0A48epTg%3D%5C%22%22%2C%22Ids%22%3A%5B%22P-R-1021007-4-5%2CP-R-99770-9-32%2CP-R-86682-4-41%2CP-R-73000-7-30%2CP-R-72999-7-29%2CP-R-70204-3-18%2CP-R-69385-1-5%2CP-R-68026-3-37%2CP-R-68490-1-3%2CP-R-68172-2-4%2CP-R-68175-1-6%2CP-R-68176-2-8%2CP-R-68179-1-3%2CP-R-68306-1-20%2CP-R-68307-1-3%2CP-D-68194-1-2%22%5D%2C%22Settings%22%3A%7B%22Names%22%3Anull%2C%22Ring%22%3A0%2C%22Models%22%3Anull%2C%22ServiceClientModelDetonate%22%3Afalse%2C%22WdsiFeedback%22%3Afalse%2C%22NPFeedbackUriOverride%22%3Anull%2C%22NetworkFilterDetonate%22%3Afalse%2C%22ServicePhishDetonate%22%3Afalse%2C%22ServicePhishDetonateLegacy%22%3Afalse%2C%22ServiceAdhocDetonate%22%3Afalse%2C%22NpSettings2004%22%3Atrue%2C%22UpdateSigningCert%22%3Atrue%2C%22UpdateSigningCertForRS3RS4%22%3Atrue%2C%22NpSettings2004Value%22%3A0%2C%22IsCOCOBlockEnabled%22%3Afalse%2C%22NpIpBlockOverrideValue%22%3A0%2C%22TopTrafficV2Enabled%22%3Atrue%2C%22ListApiE5V2Enabled%22%3Atrue%2C%22IsNpPIOverrideBlockEnabled%22%3Atrue%2C%22TopTrafficV2MobileFlightEnabled%22%3Afalse%2C%22BloomFilterDeltaFlag%22%3A1%2C%22SrcEOPEnabled%22%3Atrue%2C%22IsCurfId0LoggingEnabled%22%3Atrue%2C%22IsCurfId0BlockingEnabled%22%3Afalse%2C%22UpdateOnMissingEtagEnabled%22%3Atrue%2C%22EnableProxyLeniency%22%3Atrue%2C%22IsArsFmsIntegrationEnabled%22%3Atrue%2C%22EnableNsHumorMatch%22%3Atrue%2C%22ApplyNsHumorVerdict%22%3Afalse%2C%22EnableNpSkipNonWeb%22%3Afalse%2C%22SendGeoMapInSettingsToNewAnaheimClient%22%3Atrue%2C%22UmsSrcPhishBNRTEnabled%22%3Afalse%2C%22MTDThrottleFactor%22%3A0.0%2C%22UnsilenceModelGuid%22%3Anull%7D%7D&os=10.0.22621.1555.ni_release"},{"$type":"ping","uri":"https://ping-edge.smartscreen.microsoft.com/api/browser/edge/actions/3?pushCert=false&os=10.0.22621.1555.ni_release","timeout":36000000000,"verb":"POST"}],"serverContext":"1;c5faad59-a2e3-31f2-b86e-aaf958e12824;PHSH:005;7E-05","result":{"$type":"allow","responseCategory":"Allowed","serverContext":"1;c5faad59-a2e3-31f2-b86e-aaf958e12824;PHSH:005;7E-05","feedbackUrl":"https://feedback.smartscreen.microsoft.com/feedback.aspx?v=6&t=12553&result=none&type=top&ur=PHSH%3A005&osVer=10.0.22621.1555.ni_release&prodGuid=381ddd1e-e600-42de-94ed-8c34bf73f16d&locale=en-US&fv=1.2.2304.8&dv=638004170464094982&url=aHR0cDovLzEyNy4wLjAuMToxMDgwL1dlYlRvdXJzLw%3D%3D&hostIp=127.0.0.1&corrId=8196899f-4d2d-4d1d-9d9c-ed61c8dda6e6"}}
+$$$$$$ Response Body For Transaction With Id 3695 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/api/shopping/v1/savings/rewards/rewardsUserInfo
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SNI servername to '0'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3695 ****** (Location Flag : tFlagInsertEnd, Location ID : 3695)
+	web_custom_request("3",
+		"URL=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t153.inf",
+		"Mode=HTML",
+		"EncType=application/json; charset=utf-8",
+		"Body={\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50\",\"identity\":{\"user\":{\"locale\":\"en-US\"},\"device\":{\"id\":null,\"customId\":null,\"onlineIdTicket\":\"t=GwAmAd9tBAAUbkDrC+qm3oy79YpqR0t44MGfO1wOZgAAEGe5p1JcoGjTSxF28gzuAqfwAJUrsQP+LLS6/b87uTRvhtTDg8PuUqKqrprVzmrBFN2mjUVao8FsUE0w+ylU4Xj6LzMTEJTK9KFH22gt7V94FB3grqAKSg2gXE3fLgYjDn071nl0NED8RJK9e+6iy69CPyBwVbeQ5GZmqhn4wMJt529NYs24S1PGN4R50X6MTvu5ufWwAy8pFwYHvGmSjbPLOjVsuT82zx1G0QJJKvo8tdOwcbLOI8QsFoSD9+fOKSnvEgsIC0AMOipjkSI6XsLXbu0q7H9MB4Z1G3jOpZtlYCrZG8nA0Wc1gSKQEiuWh0mF31jS3wEK44UgChKi5rQr3x4B&p=\",\"family\":3,\"locale\":\"en-US\",\"osVersion\":\"10.0.22621.1555.ni_release\",\"browser\":{\"internet_explorer\":\"9.11.22621.0\"},\"netJoinStatus\":2,\"enterprise\":{},\"cloudSku\":false,\"architecture\":9},\"caller\":{\"locale\":\"en-US\",\"name\":\"anaheim\",\"version\":\"113.0.1774.50 (Official build) \"},\"client\":{\"version\":281483717640200,\"data\""
+		":{\"topTraffic\":\"638004170464094982\",\"customSynchronousLookupUris\":\"0\",\"synchronousLookupUris\":\"638200736032114704\",\"customSettings\":\"F95BA787499AB4FA9EFFF472CE383A14\",\"edgeSettings\":\"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1\"}}},\"config\":{\"user\":{\"uriReputation\":{\"enforcedByPolicy\":false,\"level\":\"warn\"}},\"device\":{\"appControl\":{\"level\":\"anywhere\"},\"appReputation\":{\"enforcedByPolicy\":false,\"level\":\"warn\"}}},\"destination\":{\"uri\":\"http://127.0.0.1:1080/WebTours/\",\"ip\":\"127.0.0.1\"},\"type\":\"top\",\"forceServiceDetermination\":false,\"correlationId\":\"8196899f-4d2d-4d1d-9d9c-ed61c8dda6e6\",\"synchronous\":false}",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3695 Ended $$$$$$
+
+****** Request Header For Transaction With Id 3698 ******
+GET /extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+EdgeFeatureFlags: {"ExtensionUseNewStoreKeys":true,"UseHttpsForDownload":true}
+Update-Interactivity: bg
+MS-CV: EXDPbeAgUsm0tEUD48Hqke
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 3698 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3698 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 413
+Content-Type: text/xml; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: DAFAD986335A45EDBE4AD51E66AF6CDE Ref B: FRA31EDGE0109 Ref C: 2023-05-20T17:00:02Z
+Date: Sat, 20 May 2023 17:00:01 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3698 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3698 ******
+<?xml version="1.0" encoding="utf-8"?><gupdate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" server="prod" protocol="2.0" xmlns="http://www.google.com/update2/response"><daystart elapsed_days="1600" elapsed_seconds="61202" /><app appid="jmjflgjpcpepeafmmgdpfkogkghcpiha" cv="EXDPbeAgUsm0tEUD48Hqke" status="ok"><updatecheck status="noupdate" /></app></gupdate>
+$$$$$$ Response Body For Transaction With Id 3698 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/api/browser/edge/navigate/3
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SNI servername to '1'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3698 ****** (Location Flag : tFlagInsertEnd, Location ID : 3698)
+	web_url("crx",
+		"URL=https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t154.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3698 Ended $$$$$$
+
+****** Request Header For Transaction With Id 3703 ******
+GET /fd/auth/signin?&action=header&provider=windows_live_id&save_token=0 HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+X-Search-RPSToken: 
+Sec-Mesh-Client-Edge-Version: 113.0.1774.50
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22621
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=ACB19E7C638B460D931F4FD0161797CD&dmnchg=1; MSCCSC=1; MUID=08E2288EABF7645029433A9CAADD6558; MUIDB=08E2288EABF7645029433A9CAADD6558; ANON=A=61DA64BFEC386413636BD286FFFFFFFF&E=1b91&W=1; MMCASM=ID=27348DD9A19C45F88BDBA7AE4FCD9418; _clck=xzkmaz|1|fak|0; ABDEF=V=13&ABDV=11&MRNB=1682103964725&MRB=0; USRLOC=HS=1&ELOC=LAT=51.992488861083984|LON=4.207634925842285|N=Naaldwijk%2C%20South%20Holland|ELT=1|; SRCHUSR=DOB=20220901&T=1683387669000; _RwBf=W=0&ilt=28&ihpd=0&ispd=3&rc=40&rb=40&gb=0&rg=0&pc=34&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=1&l=2023-05-06T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=0&p=BINGCOPILOTWAITLIST&c=MR000T&t=1166&s=2023-03-28T18:47:27.9431173+00:00&ts=2023-05-06T15:41:13.5354766+00:00&rwred=0&wls=2&lka=0&lkt=0&TH=&mta=0&mte=0&e=8FfM6KlArB-1aONrPGllAs3S1dcp7g2jBXyaldKLRThrHvQ0ZORx_slY47p0InR83284s__rh9OROG8lSRsWHER_12TYiC4uycUp4thzu3s; SRCHHPGUSR=SRCHLANG=en&PV=15.0.0&BRW=W&BRH=M&CW=1479&CH=714&SCW=1462&SCH=3824&DPR=1.3&UTC=180&DM=1&PRVCW=1479&PRVCH=714&EXLTT=1&HV=1682103967&THEME=1&WTS=63818556680; SUID=A
+
+
+$$$$$$ Request Header For Transaction With Id 3703 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3703 ******
+HTTP/1.1 400 Bad Request
+Cache-Control: private
+Content-Length: 1
+Content-Type: text/html
+Content-Encoding: br
+Vary: Accept-Encoding
+P3P: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+Set-Cookie: _EDGE_S=SID=19CA52E0587A691E353C41F759D66876; domain=.bing.com; path=/; HttpOnly
+Set-Cookie: MUIDB=08E2288EABF7645029433A9CAADD6558; expires=Thu, 13-Jun-2024 17:00:09 GMT; path=/; HttpOnly
+Set-Cookie: _SS=SID=19CA52E0587A691E353C41F759D66876; domain=.bing.com; path=/; secure; SameSite=None
+Set-Cookie: SRCHHPGUSR=SRCHLANG=en&PV=15.0.0&BRW=W&BRH=M&CW=1479&CH=714&SCW=1462&SCH=3824&DPR=1.3&UTC=180&DM=1&PRVCW=1479&PRVCH=714&EXLTT=1&HV=1682103967&THEME=1&WTS=63818556680; domain=.bing.com; expires=Thu, 13-Jun-2024 17:00:09 GMT; path=/; secure; SameSite=None
+X-EventID: 6468fc9980644d3b8d9a8b2866abe7e6
+UserAgentReductionOptOut: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+Content-Security-Policy-Report-Only: script-src https: 'strict-dynamic' 'report-sample' 'nonce-3c3UZbUlKYKbkM0tjd9tMdSXlIG9A7dqdjr28uCcWXg='; base-uri 'self';report-to csp-endpoint
+Report-To: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 4474632E7A3A4C49BEC393A1A1940600 Ref B: FRA31EDGE0715 Ref C: 2023-05-20T17:00:09Z
+Date: Sat, 20 May 2023 17:00:08 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3703 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3703 ******
+;
+$$$$$$ Response Body For Transaction With Id 3703 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 3723 ******
+POST /componentupdater/api/v1/update?cup2key=6:uyJ-Tw24Div6hnr8iV1AQxysGHxK6bEl12IIGQiAXLg&cup2hreq=36df9c05b148778222417fd944d6c095adb9aa03b50694998066af560e7bb474 HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+Content-Length: 9865
+X-Microsoft-Update-AppId: oankkpibpaokgecfckkdkgaoafllipag,eeobbhfgfagbclfofmgbdfoicabjdbkn,ohckeflnhegojcjlcpbfpciadgikcohk,kpfehajjjbbcifeehjgfgnabifknmdad,ndikpojcjlepofdkaaldkinkjbeeebkl,fppmbhmldokgmleojlplaaodlkibgikh,ojblfafjmiikbkepnnolpgbbhejhlcim,alpjnmnfbgfkmmpcfpejmmoebdndedno,ahmaebgpfccdhgidjaidaoojjcijckba,jbfaflocpnkhbgcijpkiafdpbjkedane,mpicjakjneaggahlnmbojhjpnileolnb,lkkdlcloifjinapabfonaibjijloebfb,mkcgfaeepibomfapiapjaceihcojnphg,plbmmhnabegcabfbcejohgjpkamkddhn,llmidpclgepbgbgoecnhcmgfhmfplfao,lfmeghnikdkbonehgjihjebgioakijgn,cllppcmmlnkggcmljjfigkcigaajjmid,hjaimielcgmceiphgjjfddlgjklfpdei,omnckhpgfmaoelhddliebabpgblmmnjp,pdfjdcjjjegpclfiilihfkmdfndkneei
+X-Microsoft-Update-Interactivity: bg
+X-Microsoft-Update-Service-Cohort: 6993
+X-Microsoft-Update-Updater: msedge-113.0.1774.50
+Content-Type: application/json
+Sec-Mesh-Client-Edge-Version: 113.0.1774.50
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22621
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+
+
+$$$$$$ Request Header For Transaction With Id 3723 Ended $$$$$$
+
+****** Request Body For Transaction With Id 3723 ******
+{"request":{"@os":"win","@updater":"msedge","acceptformat":"crx3","app":[{"appid":"oankkpibpaokgecfckkdkgaoafllipag","brand":"INBX","cohort":"rrf@0.24","enabled":true,"lang":"en-US","packages":{"package":[{"fp":"1.8F3CA7027E9AF306E210170760F05487A86C0C4F7C3B64C1E22B492A8EB31125"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.24","AppMajorVersion":"113","AppRollout":0.24,"AppVersion":"113.0.1774.50","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.175.27"},"updatecheck":{},"version":"6498.2023.3.1"},{"appid":"eeobbhfgfagbclfofmgbdfoicabjdbkn","brand":"INBX","cohort":"rrf@0.81","enabled":true,"lang":"en-US","packages":{"package":[{"fp":"1.8BFD50D350D47445B57BB1D61BBDE41CEDA7AC43DC81FCE95BF1AC646D97D2A0"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.81","AppMajorVersion":"113","AppRollout":0.81,"AppVersion":"113.0.1774.50","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.175.27"},"updatecheck":{},"version":"1.0.0.8"},{"app
+$$$$$$ Request Body For Transaction With Id 3723 Ended $$$$$$
+
+****** Response Header For Transaction With Id 3723 ******
+HTTP/1.1 200 OK
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+Content-Length: 620
+Content-Type: application/json
+Content-Encoding: gzip
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+ETag: 30450220569B65D180AEA563DE07F953296E3517CDB06EC8AECD097F234EE77D6BBAB74702210096BA4C5B26F979D725A918DBE8F2E616A50E4DC7D2D374B0C91F768C4ADAEF65:36df9c05b148778222417fd944d6c095adb9aa03b50694998066af560e7bb474
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+x-cup-server-proof: 30450220569B65D180AEA563DE07F953296E3517CDB06EC8AECD097F234EE77D6BBAB74702210096BA4C5B26F979D725A918DBE8F2E616A50E4DC7D2D374B0C91F768C4ADAEF65:36df9c05b148778222417fd944d6c095adb9aa03b50694998066af560e7bb474
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 490F45B5C06B46AA8B644C2E74507583 Ref B: FRA31EDGE0115 Ref C: 2023-05-20T17:00:29Z
+Date: Sat, 20 May 2023 17:00:29 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 3723 Ended $$$$$$
+
+****** Response Body For Transaction With Id 3723 ******
+)]}'
+{"response":{"server":"prod","protocol":"3.1","daystart":{"elapsed_seconds":29,"elapsed_days":5983.708674581289},"app":[{"appid":"oankkpibpaokgecfckkdkgaoafllipag","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"eeobbhfgfagbclfofmgbdfoicabjdbkn","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"ohckeflnhegojcjlcpbfpciadgikcohk","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"kpfehajjjbbcifeehjgfgnabifknmdad","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"ndikpojcjlepofdkaaldkinkjbeeebkl","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"fppmbhmldokgmleojlplaaodlkibgikh","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"ojblfafjmiikbkepnnolpgbbhejhlcim","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"alpjnmnfbgfkmmpcfpejmmoebdndedno","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"ahmaebgpfccdhgidjaidaoojjcijckba","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"jbfaflocpnkhbgcijpkiafdpbjkedane","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"mpicjakjneaggahlnmbojhjpnileolnb","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"lkkdlcloifjinapabfonaibjijloebfb","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"mkcgfaeepibomfapiapjaceihcojnphg","cohort":"rrf@1.00","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"plbmmhnabegcabfbcejohgjpkamkddhn","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"llmidpclgepbgbgoecnhcmgfhmfplfao","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"lfmeghnikdkbonehgjihjebgioakijgn","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"cllppcmmlnkggcmljjfigkcigaajjmid","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"hjaimielcgmceiphgjjfddlgjklfpdei","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"omnckhpgfmaoelhddliebabpgblmmnjp","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}},{"appid":"pdfjdcjjjegpclfiilihfkmdfndkneei","cohort":"","status":"ok","cohortname":"","updatecheck":{"status":"noupdate"}}]}}
+$$$$$$ Response Body For Transaction With Id 3723 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 3723 ****** (Location Flag : tFlagInsertEnd, Location ID : 3723)
+	web_custom_request("update",
+		"URL=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:uyJ-Tw24Div6hnr8iV1AQxysGHxK6bEl12IIGQiAXLg&cup2hreq=36df9c05b148778222417fd944d6c095adb9aa03b50694998066af560e7bb474",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t155.inf",
+		"Mode=HTML",
+		"EncType=application/json",
+		"Body={\"request\":{\"@os\":\"win\",\"@updater\":\"msedge\",\"acceptformat\":\"crx3\",\"app\":[{\"appid\":\"oankkpibpaokgecfckkdkgaoafllipag\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.24\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.8F3CA7027E9AF306E210170760F05487A86C0C4F7C3B64C1E22B492A8EB31125\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.24\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.24,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"6498.2023.3.1\"},{\"appid\":\"eeobbhfgfagbclfofmgbdfoicabjdbkn\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.81\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.8BFD50D350D47445B57BB1D61BBDE41CEDA7AC43DC81FCE95BF1AC646D97D2A0\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.81\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.81,\"AppVersion\":\"113.0.1774.50\","
+		"\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"1.0.0.8\"},{\"appid\":\"ohckeflnhegojcjlcpbfpciadgikcohk\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.95\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.26123BEF7D73536450862D2C4D44963D720AA80B6FC2D8496F559CB9C1FDEB00\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.95\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.95,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"0.0.1.4\"},{\"appid\":\"kpfehajjjbbcifeehjgfgnabifknmdad\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.47\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.42AF0D1905C8F1D8F6167365271C4549A73603B838BA58B9A664C57C00DB1EE5\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.47\",\"AppMajorVersion\":\"113\",\"AppRo"
+		"llout\":0.47,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"101.0.4906.0\"},{\"appid\":\"ndikpojcjlepofdkaaldkinkjbeeebkl\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.68\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.FDBBAED3B7A4C6AD0DB7ACEA2484CDCC8A836A1892B32451A2DA25150FDDC667\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.68\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.68,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"10.34.0.47\"},{\"appid\":\"fppmbhmldokgmleojlplaaodlkibgikh\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.11\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.A81D1959892AE4180554347DF1B97834ABBA2E1A5E6B9AEBA000ECEA26EABECC\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCoh"
+		"ort\":\"rrf@0.11\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.11,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"1.15.0.1\"},{\"appid\":\"ojblfafjmiikbkepnnolpgbbhejhlcim\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.19\",\"enabled\":true,\"lang\":\"en-US\",\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.19\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.19,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"4.10.2557.0\"},{\"appid\":\"alpjnmnfbgfkmmpcfpejmmoebdndedno\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.76\",\"enabled\":true,\"installdate\":-1,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.8F202CFB86D1EF0B5FE116718DFEDB375BB50534A1D45F02FC95BD099FDC183F\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.76\",\"AppMajorVersion\":"
+		"\"113\",\"AppRollout\":0.76,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"7.0.0.0\"},{\"appid\":\"ahmaebgpfccdhgidjaidaoojjcijckba\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.85\",\"enabled\":true,\"lang\":\"en-US\",\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.85\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.85,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"0.0.0.0\"},{\"appid\":\"jbfaflocpnkhbgcijpkiafdpbjkedane\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.69\",\"enabled\":true,\"lang\":\"en-US\",\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.69\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.69,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatech"
+		"eck\":{},\"version\":\"1.0.0.23\"},{\"appid\":\"mpicjakjneaggahlnmbojhjpnileolnb\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.19\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.5633346E050C303EB0D2E75042E7829DF2C332259313B6AA872EE7CAD8ACAC0F\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.19\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.19,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"4.0.0.1\"},{\"appid\":\"lkkdlcloifjinapabfonaibjijloebfb\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.48\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.BE80479D4481EBFC443482B0B23BE4C5762A254D6292FDE0F304D9D6DCAC0CFD\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.48\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.48,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha"
+		"\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"4.0.2.20\"},{\"appid\":\"mkcgfaeepibomfapiapjaceihcojnphg\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.77\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.2F0CDE41A4FF73810239C650DC9B1769D6DE63D3562518F686AEAEBD56D591E0\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.77\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.77,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"1.3.163.19\"},{\"appid\":\"plbmmhnabegcabfbcejohgjpkamkddhn\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.19\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.2DBAE04013857E03A5A52EF0281FBFC638168B654C84FEDA7743031895C38FAE\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.19\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.19,\"AppVersion\":\"113.0.1774.50\",\"IsInternalU"
+		"ser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"2960\"},{\"appid\":\"llmidpclgepbgbgoecnhcmgfhmfplfao\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.84\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.B1576404380846E5BBF314E95BCEF0FB74910ABE137C18E88A3F0953936376B0\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.84\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.84,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"2.0.5030.0\"},{\"appid\":\"lfmeghnikdkbonehgjihjebgioakijgn\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.94\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.A6A52F9D482FBF40243313DE9CBA3A58E8C08CBE5FD75AE77C7F56824A47AAFE\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.94\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.94,"
+		"\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"1.1.0.6\"},{\"appid\":\"cllppcmmlnkggcmljjfigkcigaajjmid\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.59\",\"enabled\":true,\"installdate\":-1,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.692DE3457BB908233A6602919B5FA7F2CB58DBE0013DD3FB961AF683D8ED3AB8\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.59\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.59,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"113.15392.15372.8\"},{\"appid\":\"hjaimielcgmceiphgjjfddlgjklfpdei\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.72\",\"enabled\":true,\"installdate\":-1,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.0A896B25442E25516B574F8632D6D38AFF3938B0E5F6502A6E5B16C2ADFFF2BD\"}]},\"ping\":{\"r\":-2},\"targ"
+		"etingattributes\":{\"AppCohort\":\"rrf@0.72\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.72,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"1.0.0.3\"},{\"appid\":\"omnckhpgfmaoelhddliebabpgblmmnjp\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.43\",\"enabled\":true,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.DD91C7C496E4D9E8DF5BEAA3D33D45F9EF196B4F888D0FAC50EAF08CAD6B29D7\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.43\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.43,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"1.0.0.2\"},{\"appid\":\"pdfjdcjjjegpclfiilihfkmdfndkneei\",\"brand\":\"INBX\",\"cohort\":\"rrf@0.91\",\"enabled\":true,\"installdate\":-1,\"lang\":\"en-US\",\"packages\":{\"package\":[{\"fp\":\"1.01ABB1A14967FB06B48808C1FF9C7EE"
+		"1FBEA741E3688997639BE0A5D428DDE66\"}]},\"ping\":{\"r\":-2},\"targetingattributes\":{\"AppCohort\":\"rrf@0.91\",\"AppMajorVersion\":\"113\",\"AppRollout\":0.91,\"AppVersion\":\"113.0.1774.50\",\"IsInternalUser\":false,\"Priority\":false,\"Updater\":\"Omaha\",\"UpdaterVersion\":\"1.3.175.27\"},\"updatecheck\":{},\"version\":\"2022.2.15.1\"}],\"arch\":\"x64\",\"dedup\":\"cr\",\"domainjoined\":false,\"hw\":{\"avx\":1,\"physmemory\":14,\"sse\":1,\"sse2\":1,\"sse3\":1,\"sse41\":1,\"sse42\":1,\"ssse3\":1},\"ismachine\":1,\"nacl_arch\":\"x86-64\",\"os\":{\"arch\":\"x86_64\",\"platform\":\"Windows\",\"sku\":\"desktop\",\"version\":\"10.0.22621.1555\"},\"prodversion\":\"113.0.1774.50\",\"protocol\":\"3.1\",\"requestid\":\"{da8bf857-a4e4-4893-bfdc-b5fe80f94dc4}\",\"sessionid\":\"{97b7838d-8e48-428d-9b1f-8eb915efa535}\",\"updater\":{\"autoupdatecheckenabled\":true,\"ismachine\":1,\"lastchecked\":0,\"laststarted\":0,\"name\":\"Omaha\",\"updatepolicy\":-1,\"version\":\"1.3.175.27\"},\"updaterversion\":\"113.0.1774.50\"}}"
+		"",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 3723 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3698)
+	web_add_header("EdgeFeatureFlags",
+		"{\"ExtensionUseNewStoreKeys\":true,\"UseHttpsForDownload\":true}");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3698)
+	web_add_header("MS-CV",
+		"EXDPbeAgUsm0tEUD48Hqke");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3698)
+	web_add_header("Update-Interactivity",
+		"bg");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("Sec-Mesh-Client-Arch",
+		"x86_64");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("Sec-Mesh-Client-Edge-Channel",
+		"stable");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("Sec-Mesh-Client-Edge-Version",
+		"113.0.1774.50");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("Sec-Mesh-Client-OS",
+		"Windows");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("Sec-Mesh-Client-OS-Version",
+		"10.0.22621");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("Sec-Mesh-Client-WebView",
+		"0");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("X-Microsoft-Update-AppId",
+		"oankkpibpaokgecfckkdkgaoafllipag,eeobbhfgfagbclfofmgbdfoicabjdbkn,ohckeflnhegojcjlcpbfpciadgikcohk,kpfehajjjbbcifeehjgfgnabifknmdad,ndikpojcjlepofdkaaldkinkjbeeebkl,fppmbhmldokgmleojlplaaodlkibgikh,ojblfafjmiikbkepnnolpgbbhejhlcim,alpjnmnfbgfkmmpcfpejmmoebdndedno,ahmaebgpfccdhgidjaidaoojjcijckba,jbfaflocpnkhbgcijpkiafdpbjkedane,mpicjakjneaggahlnmbojhjpnileolnb,lkkdlcloifjinapabfonaibjijloebfb,mkcgfaeepibomfapiapjaceihcojnphg,plbmmhnabegcabfbcejohgjpkamkddhn,llmidpclgepbgbgoecnhcmgfhmfplfao,lfmeghnikdkbonehgjihjebgioakijgn,cllppcmmlnkggcmljjfigkcigaajjmid,hjaimielcgmceiphgjjfddlgjklfpdei,omnckhpgfmaoelhddliebabpgblmmnjp,pdfjdcjjjegpclfiilihfkmdfndkneei");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("X-Microsoft-Update-Interactivity",
+		"bg");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("X-Microsoft-Update-Service-Cohort",
+		"6993");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 3723)
+	web_add_header("X-Microsoft-Update-Updater",
+		"msedge-113.0.1774.50");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+

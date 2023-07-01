@@ -1,0 +1,17 @@
+[t8]
+FileName1=t8.json
+URL1=https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo
+Total=4
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=t8_RequestBody.txt
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8_aspectran.css
+URL2=https://aspectran.com/assets/css/aspectran.css
+FileName3=t8_modernizr-custom.html
+URL3=https://aspectran.com/assets/js/modernizr-custom.js
+FileName4=t8_jquery.min.html
+URL4=https://aspectran.com/assets/js/jquery.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

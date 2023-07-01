@@ -1,0 +1,124 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1684347309762
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: 3",
+                "infFile": "t2.inf",
+                "time": 1684347313272
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: rewardsUserInfo",
+                "infFile": "t3.inf",
+                "time": 1684347313831
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: msa",
+                "infFile": "t4.inf",
+                "time": 1684347314580
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: 3_2",
+                "infFile": "t5.inf",
+                "time": 1684347315171
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: 3_3",
+                "infFile": "t6.inf",
+                "time": 1684347315730
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: 3_4",
+                "infFile": "t7.inf",
+                "time": 1684347316358
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: home.html",
+                "infFile": "t8.inf",
+                "time": 1684347316741
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: getsupporteddomains",
+                "infFile": "t9.inf",
+                "time": 1684347317036
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Custom Request: 3_5",
+                "infFile": "t10.inf",
+                "time": 1684347317545
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Custom Request: 3_6",
+                "infFile": "t11.inf",
+                "time": 1684347318113
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: getsupporteddomains_2",
+                "infFile": "t12.inf",
+                "time": 1684347319227
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t13.inf",
+                "time": 1684347319709
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Custom Request: 3_7",
+                "infFile": "t14.inf",
+                "time": 1684347320249
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Custom Request: update",
+                "infFile": "t15.inf",
+                "time": 1684347320611
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Custom Request: 3_8",
+                "infFile": "t16.inf",
+                "time": 1684347321089
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Custom Request: 3_9",
+                "infFile": "t17.inf",
+                "time": 1684347321591
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Url: redirect.html",
+                "infFile": "t18.inf",
+                "time": 1684347342737
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SIGN IN",
+                "rawStartTime": 1684347319266,
+                "rawEndTime": 1684347321601,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05644965171813965
+            }
+        ]
+    }
+]

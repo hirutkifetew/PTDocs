@@ -1,0 +1,6 @@
+[t130]
+FileName1=t130_113.0.1774.json
+URL1=https://config.edge.skype.com/config/v1/Edge/113.0.1774.42?clientId=6921235004802684617&agents=EdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=652&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892&fg=1
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_130.xml

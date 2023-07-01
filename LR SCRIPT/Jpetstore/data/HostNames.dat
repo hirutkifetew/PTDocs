@@ -1,0 +1,11 @@
+[hosts]
+jpetstore.aspectran.com=
+contile.services.mozilla.com=
+r3.o.lencr.org=
+ocsp.digicert.com=
+firefox.settings.services.mozilla.com=
+petstore.octoperf.com=
+content-signature-2.cdn.mozilla.net=
+aus5.mozilla.org=
+incoming.telemetry.mozilla.org=
+push.services.mozilla.com=

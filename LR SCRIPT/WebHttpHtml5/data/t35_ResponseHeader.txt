@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, private
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+BingAPIs-Market: nl-nl
+BingAPIs-TraceId: BD0A0DAC4535488DA7F094C7130F2FB8
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: BD0A0DAC4535488DA7F094C7130F2FB8 Ref B: VIEEDGE2108 Ref C: 2023-05-20T17:30:40Z
+Content-Length: 3039
+Date: Sat, 20 May 2023 17:30:40 GMT
+Connection: keep-alive
+Set-Cookie: ESF=1; path=/; domain=bing.com; httponly; max-age=86400; expires=Sun, 21 May 2023 17:30:40 GMT
+Set-Cookie: _EDGE_S=F=1&SID=2D07F94629F7653F2424EA5128C064F9; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_E=O=cashback1; path=/; httponly; expires=Thu, 13-Jun-2024 17:30:40 GMT; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Thu, 13-Jun-2024 17:30:40 GMT; domain=bing.com
+Set-Cookie: MUID=3AC2F1077A3F69E7138AE2107B086836; samesite=none; path=/; secure; expires=Thu, 13-Jun-2024 17:30:40 GMT; domain=bing.com
+Set-Cookie: MUIDB=3AC2F1077A3F69E7138AE2107B086836; path=/; httponly; expires=Thu, 13-Jun-2024 17:30:40 GMT
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.76361602.1684603840.1365ac27
+

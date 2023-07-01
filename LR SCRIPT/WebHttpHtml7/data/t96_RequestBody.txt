@@ -1,0 +1,6 @@
+"{\"JsonData\":\"{\\\"domain\\\":\\\"127.0.0.1\\\",\\\"validationReason\\\":\\\"EndOfScript\\\""
+",\\\"time\\\":56.19999998807907,\\\"initializeTime\\\":33.19999998807907,\\\"preValidationTime"
+"\\\":5.0999999940395355,\\\"path\\\":\\\"/WebTours/\\\",\\\"pageStatus\\\":\\\"\\\"}\",\"Event"
+"Type\":\"AutoOpenControllerPerf\",\"LogLevel\":\"Information\",\"Message\":\"\",\"ClientContex"
+"t\":{\"AppInfoClientName\":\"Edge\",\"JSVersion\":\"1.437\",\"BuildVersion\":\"113.0.1774.50\""
+",\"EnabledServiceFlights\":\"\"},\"ImpressionId\":\"1997A7F4E6FB471CAF61C3B6083AF7A0\"}"

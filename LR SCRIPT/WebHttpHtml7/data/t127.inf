@@ -1,0 +1,13 @@
+[t127]
+FileName1=t127.json
+URL1=https://www.bing.com/api/shopping/v1/telemetry
+Total=2
+RequestHeaderFile=t127_RequestHeader.txt
+RequestBodyFile=t127_RequestBody.txt
+ResponseHeaderFile=t127_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_127.xml
+FileName2=t127_th.jpg
+URL2=https://th.bing.com/th?id=ORMS.8865ce793663c268f129f69a4e0375db&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+[ProtocolInfo]
+ProtocolId=QTWeb

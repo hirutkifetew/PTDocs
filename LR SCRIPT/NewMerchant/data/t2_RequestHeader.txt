@@ -1,0 +1,16 @@
+POST /oauth/token?grant_type=password&username=ishatrainingsolution&password=ishatrainingsolution HTTP/1.1
+Host: www.ishatrainingsolutions.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Basic VVNFUl9DTElFTlRfQVBQOnBhc3N3b3Jk
+Origin: https://www.ishatrainingsolutions.com
+DNT: 1
+Connection: keep-alive
+Referer: https://www.ishatrainingsolutions.com/login?returnUrl=%2Fvalidate
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Content-Length: 0
+

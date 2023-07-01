@@ -1,0 +1,13 @@
+[t36]
+FileName1=t36.json
+URL1=https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo
+Total=2
+RequestHeaderFile=t36_RequestHeader.txt
+RequestBodyFile=t36_RequestBody.txt
+ResponseHeaderFile=t36_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_36.xml
+FileName2=t36_mer_login.gif
+URL2=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

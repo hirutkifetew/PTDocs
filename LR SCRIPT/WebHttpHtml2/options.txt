@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\WebHttpHtml2
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\webhttphtml2\\logfile.log
+c:\users\kokob\desktop\lr script\webhttphtml2\\combined_WebHttpHtml2.c
+c:\users\kokob\desktop\lr script\webhttphtml2\\pre_cci.c

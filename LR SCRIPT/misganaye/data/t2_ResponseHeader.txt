@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache,max-age=3600
+Content-Length: 16460
+Content-Type: application/json
+Content-Encoding: gzip
+Expires: Tue, 25 Apr 2023 08:11:52 GMT
+ETag: "TRopEZ/PSOeSZS8QcRKxI7rR2YTa3DRTiJv2Yuth+dw="
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 9B54C7D746834A5CAA2C5E4D3784C424 Ref B: AMS04EDGE1510 Ref C: 2023-04-25T07:11:52Z
+Date: Tue, 25 Apr 2023 07:11:51 GMT
+

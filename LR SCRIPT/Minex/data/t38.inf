@@ -1,0 +1,11 @@
+[t38]
+FileName1=t38.json
+URL1=https://www.bing.com/api/shopping/v1/getsupporteddomains?appid=67220BD2169C2EA709984467C21494086DF8CA85
+Total=1
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=t38_RequestBody.txt
+ResponseHeaderFile=t38_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_38.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

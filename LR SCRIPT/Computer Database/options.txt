@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\Computer Database
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\computer database\\logfile.log
+c:\users\kokob\desktop\lr script\computer database\\combined_Computer Database.c
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c

@@ -1,0 +1,14 @@
+HTTP/2.0 200
+Status: 200
+cache-control: max-age=0, private
+content-type: application/json; charset=utf-8
+vary: Accept-Encoding
+set-cookie: ESF=1; path=/; domain=bing.com; httponly; max-age=86400; expires=Thu, 25 May 2023 08:59:54 GMT
+bingapis-market: am-et
+bingapis-traceid: 9FEEB7AE97A741648D626D2B9BC5F53A
+x-cache: CONFIG_NOCACHE
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-msedge-ref: Ref A: 9FEEB7AE97A741648D626D2B9BC5F53A Ref B: PRAEDGE1008 Ref C: 2023-05-24T08:59:54Z
+set-cookie: _EDGE_E=O=cashback1; path=/; httponly; expires=Mon, 17-Jun-2024 08:59:54 GMT; domain=bing.com
+date: Wed, 24 May 2023 08:59:53 GMT
+

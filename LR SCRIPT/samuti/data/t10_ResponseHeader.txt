@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 109
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: C82B497CE1744FCF812A0F0F4180AF53 Ref B: MIL30EDGE0715 Ref C: 2023-05-06T06:12:26Z
+Date: Sat, 06 May 2023 06:12:26 GMT
+Connection: keep-alive
+Set-Cookie: _EDGE_S=F=1&SID=134053EAED2E64351FE140E3EC45654F; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Thu, 30-May-2024 06:12:26 GMT; domain=bing.com
+Set-Cookie: MUID=05FC997B09E16B6C1BE28A72088A6AF7; samesite=none; path=/; secure; expires=Thu, 30-May-2024 06:12:26 GMT; domain=bing.com
+Set-Cookie: MUIDB=05FC997B09E16B6C1BE28A72088A6AF7; path=/; httponly; expires=Thu, 30-May-2024 06:12:26 GMT
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.947cd117.1683353546.2856a36f
+

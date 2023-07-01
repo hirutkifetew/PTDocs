@@ -1,0 +1,11 @@
+[t15]
+FileName1=t15.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:KILxMzNZDhTE79r8DH53cwyGL_gOcZv2mKFa8Kp06q4&cup2hreq=41007b9f8a40f510c45c11ab9af0b46b68a6edf8dfc9d9ab954b73e0dcb36154
+Total=1
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=t15_RequestBody.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_15.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

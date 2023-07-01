@@ -1,0 +1,24 @@
+HTTP/2.0 200
+Status: 200
+cache-control: no-cache
+pragma: no-cache
+content-length: 1
+content-type: application/json
+content-encoding: br
+expires: -1
+vary: Accept-Encoding
+p3p: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
+set-cookie: MUIDB=2DAB8470EC15615A2E12976BEDA16072; expires=Mon, 17-Jun-2024 08:59:57 GMT; path=/; HttpOnly
+set-cookie: SRCHHPGUSR=SRCHLANG=en; domain=.bing.com; expires=Sat, 24-May-2025 08:59:57 GMT; path=/
+set-cookie: _SS=SID=3229DD20782660701576CE3B79926140; domain=.bing.com; path=/
+access-control-allow-credentials: true
+access-control-allow-headers: X-RPS-Token
+access-control-allow-origin: https://ntp.msn.com
+x-eventid: 646dd20d6c094c2e9aad63b7184c2763
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+useragentreductionoptout: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=
+x-frame-options: SAMEORIGIN
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: B09C6575D92A413CB7C72A7A3AFE5506 Ref B: PRAEDGE1008 Ref C: 2023-05-24T08:59:57Z
+date: Wed, 24 May 2023 09:00:01 GMT
+

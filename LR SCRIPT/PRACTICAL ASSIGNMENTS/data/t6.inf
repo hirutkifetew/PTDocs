@@ -1,0 +1,13 @@
+[t6]
+FileName1=t6.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:c9XOJE5MWYJmEOTvafKR1h4EQv0KO5q1X_Uk8_2m598&cup2hreq=4b542a743263f4f5abf4aea964e880c94d0e0a3fc23f2de85f73bdabaa4d532b
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=t6_RequestBody.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_th.jpg
+URL2=https://th.bing.com/th?id=ORMS.737de5e22299ceefad48967829eb6297&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+[ProtocolInfo]
+ProtocolId=QTWeb

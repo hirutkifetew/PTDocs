@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 109
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 185F20DA9E334FAE93167603AE8D34A1 Ref B: FRAEDGE1807 Ref C: 2023-04-21T05:55:12Z
+Date: Fri, 21 Apr 2023 05:55:12 GMT
+Connection: keep-alive
+Set-Cookie: _EDGE_S=F=1&SID=020DCBCD0651685E0393D9370751692F; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Wed, 15-May-2024 05:55:12 GMT; domain=bing.com
+Set-Cookie: MUID=0BD085BD6E3D6800104097476F3D69E9; samesite=none; path=/; secure; expires=Wed, 15-May-2024 05:55:12 GMT; domain=bing.com
+Set-Cookie: MUIDB=0BD085BD6E3D6800104097476F3D69E9; path=/; httponly; expires=Wed, 15-May-2024 05:55:12 GMT
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.76361602.1682056512.d2d696
+

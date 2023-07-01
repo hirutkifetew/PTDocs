@@ -1,0 +1,13 @@
+[t9]
+FileName1=t9.txt
+URL1=https://www.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=24735805&cid=1383872106.1681660097&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.121%7CMicrosoft%2520Edge%3B112.0.1722.48%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681660097&sct=1&seg=0&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dt=JPetStore%20Demo&en=user_engagement&_et=1109
+Total=2
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_9.xml
+FileName2=t9_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChcKBm1zZWRnZRINMTEyLjAuMTcyMi40OBobCAEQCBoNMTY3NzEzMTM3MDQxOSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362&ei=N
+[ProtocolInfo]
+ProtocolId=QTWeb

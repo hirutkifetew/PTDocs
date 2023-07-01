@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Encoding: br
+Vary: Accept-Encoding
+X-Ceto-ref: 64441ec7fa3e4e60b7087706dc424bfa|2023-04-22T17:52:07.983Z
+Content-Length: 6
+Date: Sat, 22 Apr 2023 17:52:08 GMT
+Connection: keep-alive
+Alt-Svc: h3=":443"; ma=93600
+X-CDN-TraceID: 0.8d257e68.1682185927.18095a64
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Content-Length: 380647
+Content-Type: application/json
+Last-Modified: Tue, 23 May 2023 20:43:28 GMT
+ETag: 0x8DB5BCE5D0887AC
+X-Cache: TCP_HIT
+x-ms-request-id: d13b757a-d01e-0030-090c-8e64eb000000
+x-ms-version: 2009-09-19
+x-ms-lease-status: unlocked
+x-ms-blob-type: BlockBlob
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: B45F7551789543A38E2A715734F0B5D9 Ref B: PRAEDGE1108 Ref C: 2023-05-24T08:23:18Z
+Date: Wed, 24 May 2023 08:23:18 GMT
+

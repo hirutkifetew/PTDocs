@@ -1,0 +1,11 @@
+[t62]
+FileName1=t62.txt
+URL1=https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je35h0&_p=1745376152&cid=593717421.1684429692&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Microsoft%2520Edge%3B113.0.1774.42%7CChromium%3B113.0.5672.93%7CNot-A.Brand%3B24.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1684429691&sct=1&seg=0&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrderForm&dt=JPetStore%20Demo&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1
+Total=1
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_62.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,16 @@
+Virtual User Script started at: 2023-04-25 10:04:19 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48  	[MsgId: MMSG-26988]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Error: C interpreter run time error:  Error -- Unresolved symbol : Action.
+Action was aborted.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

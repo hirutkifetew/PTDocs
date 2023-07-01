@@ -1,0 +1,13 @@
+[t14]
+FileName1=t14.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=t14_RequestBody.txt
+ResponseHeaderFile=t14_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_14.xml
+FileName2=t14_13.png
+URL2=https://ecn.dev.virtualearth.net/REST/v1/Imagery/Map/RoadVibrant/51.5528,4.4670/13?ms=266,190&ml=Basemap,OsmBuildings,TrafficFlow&key=AiiEtIMBa-OHub99K9Px16NjMPvRWEG5l33Ab4XeqA6PtM5GFwiGWBIroOWv4fNW&c=en-ca&fmt=png&od=1&logo=n&da=ro&maxAge=1200&pushpin=51.552839,4.46699;cls.f
+[ProtocolInfo]
+ProtocolId=QTWeb

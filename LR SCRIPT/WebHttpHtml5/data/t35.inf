@@ -1,0 +1,13 @@
+[t35]
+FileName1=t35.json
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=67220BD2169C2EA709984467C21494086DF8CA85&features=persnlcashback&sf=cashback1
+Total=2
+RequestHeaderFile=t35_RequestHeader.txt
+RequestBodyFile=t35_RequestBody.txt
+ResponseHeaderFile=t35_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_35.xml
+FileName2=t35_ChRDaHJvbWUvMTEzLjAuMTc3NC41MBI6CQyJuonW6NKtEgUN541ADhIFDc5BTHoSBQ04NomHEgUNa2iabhIFDU-eJ_gSBQ1jkyeHEgUNolm4SQ==.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEzLjAuMTc3NC41MBI6CQyJuonW6NKtEgUN541ADhIFDc5BTHoSBQ04NomHEgUNa2iabhIFDU-eJ_gSBQ1jkyeHEgUNolm4SQ==?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,17 @@
+[t1]
+FileName1=t1.htm
+URL1=https://computer-database.gatling.io/computers?p=22
+Total=4
+RequestHeaderFile=t1_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t1_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_1.xml
+FileName2=t1_bootstrap.min.css
+URL2=https://computer-database.gatling.io/assets/css/bootstrap.min.css
+FileName3=t1_main.css
+URL3=https://computer-database.gatling.io/assets/css/main.css
+FileName4=t1_openh264-win64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip
+URL4=http://ciscobinary.openh264.org/openh264-win64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,2341 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-search-rpstoken",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-updater",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-service-cohort",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-appid",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-edge-shopping-flag",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ms-gec-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ms-gec",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-webview",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-os-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-os",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-edge-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-edge-channel",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-arch",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "if-modified-since",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-method",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-headers",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 71,
+    "RecordedBrowser": "c:\\program files (x86)\\microsoft\\edge\\application\\msedge.exe",
+    "RecordingDate": "Apr-25-2023",
+    "RecordingDuration": 192157,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1682406999,
+    "RecordingType": "Application",
+    "TotalBytesReceived": 1298324,
+    "TotalBytesSent": 183767,
+    "TotalRequests": 107,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "yahoo.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.253.155.181",
+          "IncludeInScript": true,
+          "Name": "pr-bh.ybp.yahoo.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 218,
+              "EventId": 1100,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://pr-bh.ybp.yahoo.com/sync/msn?gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "virtualearth.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "2.22.155.145",
+          "IncludeInScript": true,
+          "Name": "ecn.dev.virtualearth.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 1504,
+              "HttpStatus": 200,
+              "Size": 23412,
+              "URL": "https://ecn.dev.virtualearth.net/REST/v1/Imagery/Map/roadondemandfull/9.030,38.750/6?mapSize=268,136&shading=terrain&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&c=en-ca&maxAge=86400&st=me|lv:0;v:0_pp|lv:1;lbc:FFFFFFFF;loc:20000000;labelScale:0.9_cp|v:0_wt|v:1_trs|v:1;lv:0;sc:FF6B6B6B;fc:FF6B6B6B;strokeWidthScale:0.2_cst|v:1;fc:FF000000;strokeWidthScale:0.5_cr|bv:1;bsc:f2000000;borderWidthScale:0.6_ad|bv:1;bsc:f2000000&ml=fg&shdw=true&logo=n&da=n&userregion=ET"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "taboola.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "199.232.149.44",
+          "IncludeInScript": true,
+          "Name": "trc.taboola.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 235,
+              "EventId": 996,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://trc.taboola.com/sg/msn/1/cm?taboola_hm=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "popin.cc",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.213.89.133",
+          "IncludeInScript": true,
+          "Name": "trace.popin.cc",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 453,
+              "EventId": 1206,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://trace.popin.cc/cs/msn?id=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "outbrain.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "64.74.236.95",
+          "IncludeInScript": true,
+          "Name": "sync.outbrain.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 218,
+              "EventId": 1102,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://sync.outbrain.com/uidmappixel?ext_uid=08E2288EABF7645029433A9CAADD6558&pname=MSN&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "omnitagjs.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.255.84.153",
+          "IncludeInScript": true,
+          "Name": "visitor.omnitagjs.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 1194,
+              "HttpStatus": 200,
+              "Size": 49,
+              "URL": "https://visitor.omnitagjs.com/visitor/sync?uid=9871605be8d4b2a982914bf5c9348e7b&name=MSN&visitor=08E2288EABF7645029433A9CAADD6558&external=true&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "nelreports.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "95.101.21.48",
+          "IncludeInScript": true,
+          "Name": "aefd.nelreports.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 250,
+              "EventId": 1549,
+              "HttpStatus": 200,
+              "Size": 21,
+              "URL": "https://aefd.nelreports.net/api/report?cat=bingth"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 250,
+              "EventId": 1547,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://aefd.nelreports.net/api/report?cat=bingth"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "msn.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.203",
+          "IncludeInScript": false,
+          "Name": "ntp.msn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 187,
+              "EventId": 981,
+              "HttpStatus": 200,
+              "Size": 25612,
+              "URL": "https://ntp.msn.com/edge/ntp/service-worker.js?raceEnabled=true&riverAgeMinutes=180&navAgeMinutes=2880&enableNavPreload=true"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 172,
+              "EventId": 931,
+              "HttpStatus": 200,
+              "Size": 946,
+              "URL": "https://ntp.msn.com/favicon.ico"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 925,
+              "HttpStatus": 200,
+              "Size": 78154,
+              "URL": "https://ntp.msn.com/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=edgeChromium&v=20230424.382&targetScope={%22audienceMode%22:%22adult%22,%22browser%22:{%22browserType%22:%22edgeChromium%22,%22version%22:%22112%22,%22ismobile%22:%22false%22},%22deviceFormFactor%22:%22desktop%22,%22domain%22:%22ntp.msn.com%22,%22locale%22:{%22content%22:{%22language%22:%22en%22,%22market%22:%22ca%22},%22display%22:{%22language%22:%22en%22,%22market%22:%22ca%22}},%22os%22:%22windows%22,%22platform%22:%22web%22,%22pageType%22:%22dhp%22,%22pageExperiments%22:[%22prg-1s-cfnrt%22,%22prg-1s-cfnrtt%22,%22prg-1s-wxxap%22,%22prg-1sw-aqpn%22,%22prg-1sw-aqwd%22,%22prg-1sw-c0328%22,%22prg-1sw-cfebfrh%22,%22prg-1sw-curnctl%22,%22prg-1sw-discc%22,%22prg-1sw-ebnfwk%22,%22prg-1sw-edw%22,%22prg-1sw-esprt-rcgenre%22,%22prg-1sw-hce%22,%22prg-1sw-ipthlc%22,%22prg-1sw-otelcf%22,%22prg-1sw-p1idxft%22,%22prg-1sw-p1wtrclm%22,%22prg-1sw-pde0%22,%22prg-1sw-protd-c%22,%22prg-1sw-r23fp%22,%22prg-1sw-refprg1%22,%22prg-1sw-sdtravoff%22,%22prg-1sw-sfrp%22,%22prg-1sw-srdus%22,%22prg-1sw-swbdgro%22,%22prg-1sw-swexp%22,%22prg-1sw-swfallback%22,%22prg-1sw-tbrcounter%22,%22prg-1sw-tpdstr-t%22,%22prg-1sw-uumar%22,%22prg-1sw-uumar2%22,%22prg-1sw-wxlfrc%22,%22prg-1sw-wxnc2hr%22,%22prg-1sw-wxncds%22,%22prg-1sw-wxpratec%22,%22prg-1sw-wxwksmr0%22,%22prg-1sw-xapgrid%22,%22prg-ads-nomai%22,%22prg-adspeek%22,%22prg-callclrbld%22,%22prg-cg-leaderboard-c%22,%22prg-cg-sidebar-c%22,%22prg-cm-csopsp%22,%22prg-cm-sopfi%22,%22prg-cm-sopfi1%22,%22prg-ct-enable-sw%22,%22prg-deeplinkfix-c%22,%22prg-enable-ccache%22,%22prg-ias%22,%22prg-imm-superip%22,%22prg-immmb-superip%22,%22prg-persfeed%22,%22prg-pintotaskbar-cf%22,%22prg-pr2-1sauth%22,%22prg-pr2-cachemic%22,%22prg-pr2-cbshop2%22,%22prg-pr2-csnbsd10km3%22,%22prg-pr2-immtr-nc%22,%22prg-pr2-info3sld%22,%22prg-pr2-inptrnc%22,%22prg-pr2-nocs%22,%22prg-pr2-nowcast2%22,%22prg-pr2-rrail-c%22,%22prg-pr2-spotify-c%22,%22prg-rrwc-c-new%22,%22prg-sh-bdnews%22,%22prg-sh-cart%22,%22prg-sh-mustoffc%22,%22prg-sh-sprdls2%22,%22prg-sh-taxenabled%22,%22prg-sh-unifyadd%22,%22prg-sh-usecpm%22,%22prg-share-rf2c%22,%22prg-sp-liveapi%22,%22prg-spr-enewapi%22,%22prg-spr-enewmsapi%22,%22prg-spr-rv-mmszi%22,%22prg-spr-tm-mmszi%22,%22prg-ugc-cttsearch1%22,%22prg-ugc-nosurvey%22,%22prg-unify1s%22,%22prg-upsaip-r-t%22,%22prg-upsaip-w1-t%22,%22prg-wea-greetprv%22,%22prg-whpgridbyregionc%22,%22prg-winhp-sdt4dual%22,%22prg-wsuperip-p2%22,%22prg-wtch-annctrcv2%22,%22prg-wtch-blv3t11%22,%22prg-wtch-ofe8r1%22,%22prg-wtchdisp%22,%22prg-wx-anmpr%22,%22prg-wx-dhgrd%22,%22prg-wx-mpretry1s%22,%22prg-wx-prerenmap%22,%22prg-wx-sbn-vm%22,%22prg-wx-swtpwi%22]}"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 140,
+              "EventId": 919,
+              "HttpStatus": 200,
+              "Size": 9552,
+              "URL": "https://ntp.msn.com/bundles/v1/edgeChromium/latest/web-worker.7753928dc9ab0f6642fd.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 140,
+              "EventId": 897,
+              "HttpStatus": 200,
+              "Size": 34809,
+              "URL": "https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/x-icon",
+              "DownloadTime": 172,
+              "EventId": 887,
+              "HttpStatus": 200,
+              "Size": 946,
+              "URL": "https://ntp.msn.com/favicon.ico"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 203,
+              "EventId": 880,
+              "HttpStatus": 200,
+              "Size": 78154,
+              "URL": "https://ntp.msn.com/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=edgeChromium&v=20230424.382&targetScope={%22audienceMode%22:%22adult%22,%22browser%22:{%22browserType%22:%22edgeChromium%22,%22version%22:%22112%22,%22ismobile%22:%22false%22},%22deviceFormFactor%22:%22desktop%22,%22domain%22:%22ntp.msn.com%22,%22locale%22:{%22content%22:{%22language%22:%22en%22,%22market%22:%22ca%22},%22display%22:{%22language%22:%22en%22,%22market%22:%22ca%22}},%22os%22:%22windows%22,%22platform%22:%22web%22,%22pageType%22:%22dhp%22,%22pageExperiments%22:[%22prg-1s-cfnrt%22,%22prg-1s-cfnrtt%22,%22prg-1s-wxxap%22,%22prg-1sw-aqpn%22,%22prg-1sw-aqwd%22,%22prg-1sw-c0328%22,%22prg-1sw-cfebfrh%22,%22prg-1sw-curnctl%22,%22prg-1sw-discc%22,%22prg-1sw-ebnfwk%22,%22prg-1sw-edw%22,%22prg-1sw-esprt-rcgenre%22,%22prg-1sw-hce%22,%22prg-1sw-ipthlc%22,%22prg-1sw-otelcf%22,%22prg-1sw-p1idxft%22,%22prg-1sw-p1wtrclm%22,%22prg-1sw-pde0%22,%22prg-1sw-protd-c%22,%22prg-1sw-r23fp%22,%22prg-1sw-refprg1%22,%22prg-1sw-sdtravoff%22,%22prg-1sw-sfrp%22,%22prg-1sw-srdus%22,%22prg-1sw-swbdgro%22,%22prg-1sw-swexp%22,%22prg-1sw-swfallback%22,%22prg-1sw-tbrcounter%22,%22prg-1sw-tpdstr-t%22,%22prg-1sw-uumar%22,%22prg-1sw-uumar2%22,%22prg-1sw-wxlfrc%22,%22prg-1sw-wxnc2hr%22,%22prg-1sw-wxncds%22,%22prg-1sw-wxpratec%22,%22prg-1sw-wxwksmr0%22,%22prg-1sw-xapgrid%22,%22prg-ads-nomai%22,%22prg-adspeek%22,%22prg-callclrbld%22,%22prg-cg-leaderboard-c%22,%22prg-cg-sidebar-c%22,%22prg-cm-csopsp%22,%22prg-cm-sopfi%22,%22prg-cm-sopfi1%22,%22prg-ct-enable-sw%22,%22prg-deeplinkfix-c%22,%22prg-enable-ccache%22,%22prg-ias%22,%22prg-imm-superip%22,%22prg-immmb-superip%22,%22prg-persfeed%22,%22prg-pintotaskbar-cf%22,%22prg-pr2-1sauth%22,%22prg-pr2-cachemic%22,%22prg-pr2-cbshop2%22,%22prg-pr2-csnbsd10km3%22,%22prg-pr2-immtr-nc%22,%22prg-pr2-info3sld%22,%22prg-pr2-inptrnc%22,%22prg-pr2-nocs%22,%22prg-pr2-nowcast2%22,%22prg-pr2-rrail-c%22,%22prg-pr2-spotify-c%22,%22prg-rrwc-c-new%22,%22prg-sh-bdnews%22,%22prg-sh-cart%22,%22prg-sh-mustoffc%22,%22prg-sh-sprdls2%22,%22prg-sh-taxenabled%22,%22prg-sh-unifyadd%22,%22prg-sh-usecpm%22,%22prg-share-rf2c%22,%22prg-sp-liveapi%22,%22prg-spr-enewapi%22,%22prg-spr-enewmsapi%22,%22prg-spr-rv-mmszi%22,%22prg-spr-tm-mmszi%22,%22prg-ugc-cttsearch1%22,%22prg-ugc-nosurvey%22,%22prg-unify1s%22,%22prg-upsaip-r-t%22,%22prg-upsaip-w1-t%22,%22prg-wea-greetprv%22,%22prg-whpgridbyregionc%22,%22prg-winhp-sdt4dual%22,%22prg-wsuperip-p2%22,%22prg-wtch-annctrcv2%22,%22prg-wtch-blv3t11%22,%22prg-wtch-ofe8r1%22,%22prg-wtchdisp%22,%22prg-wx-anmpr%22,%22prg-wx-dhgrd%22,%22prg-wx-mpretry1s%22,%22prg-wx-prerenmap%22,%22prg-wx-sbn-vm%22,%22prg-wx-swtpwi%22]}"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 821,
+              "HttpStatus": 200,
+              "Size": 9552,
+              "URL": "https://ntp.msn.com/bundles/v1/edgeChromium/latest/web-worker.7753928dc9ab0f6642fd.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 188,
+              "EventId": 808,
+              "HttpStatus": 200,
+              "Size": 3488,
+              "URL": "https://ntp.msn.com/bundles/v1/edgeChromium/latest/SSR-extension.72b4de93c33984cabb9b.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 203,
+              "EventId": 714,
+              "HttpStatus": 200,
+              "Size": 34809,
+              "URL": "https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "2.22.54.144",
+          "IncludeInScript": false,
+          "Name": "assets.msn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 156,
+              "EventId": 1553,
+              "HttpStatus": 200,
+              "Size": 1649,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v6/Condition/MostlyClearNight.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 172,
+              "EventId": 1537,
+              "HttpStatus": 200,
+              "Size": 925,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v6/Teaser/humidity.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 156,
+              "EventId": 1521,
+              "HttpStatus": 200,
+              "Size": 1891,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v6/AQI/aq3.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 1519,
+              "HttpStatus": 200,
+              "Size": 1986,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weatherEplant/bubble/32x32.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 188,
+              "EventId": 1496,
+              "HttpStatus": 200,
+              "Size": 2157,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/minimap/wcicons/aqi.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/jpg",
+              "DownloadTime": 141,
+              "EventId": 1489,
+              "HttpStatus": 200,
+              "Size": 17487,
+              "URL": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/us/39_30_6_202304251700.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/jpg",
+              "DownloadTime": 203,
+              "EventId": 1471,
+              "HttpStatus": 200,
+              "Size": 20623,
+              "URL": "https://assets.msn.com/weathermapdata/1/airqualityheatmaprendered/us/38_30_6_202304251700.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/gif",
+              "DownloadTime": 219,
+              "EventId": 1460,
+              "HttpStatus": 200,
+              "Size": 223818,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weatherEplant/animation/greeting_once_cv2.gif"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 156,
+              "EventId": 1452,
+              "HttpStatus": 200,
+              "Size": 285,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v5/NoColor_Card/rightArrow.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 172,
+              "EventId": 1447,
+              "HttpStatus": 200,
+              "Size": 2144,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v5/NoColor_Card/AqiNoColor.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 172,
+              "EventId": 1445,
+              "HttpStatus": 200,
+              "Size": 1649,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v5/Condition_Card/MostlyClearNight.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 156,
+              "EventId": 1439,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "https://assets.msn.com/staticsb/statics/latest/icons/NtpTopStories.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1364,
+              "HttpStatus": 200,
+              "Size": 985,
+              "URL": "https://assets.msn.com/breakingnews/v1/cms/api/amp/article/AA1ZJNN"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 266,
+              "EventId": 1357,
+              "HttpStatus": 200,
+              "Size": 440,
+              "URL": "https://assets.msn.com/service/News/Users/me/Rewards?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=3684689C-B734-4154-A2DF-BBCC8C38F8BA&ocid=rewards-peregrine&cm=en-ca&it=app&user=m-08E2288EABF7645029433A9CAADD6558&scn=APP_ANON&version=2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 171,
+              "EventId": 1351,
+              "HttpStatus": 200,
+              "Size": 947,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB14i9Qh"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1349,
+              "HttpStatus": 200,
+              "Size": 706,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBP57ma"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1341,
+              "HttpStatus": 200,
+              "Size": 563,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AAUKhQH"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1327,
+              "HttpStatus": 200,
+              "Size": 958,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBZRtCK"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 171,
+              "EventId": 1314,
+              "HttpStatus": 200,
+              "Size": 919,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB10E6Or"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 1304,
+              "HttpStatus": 200,
+              "Size": 1247,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AAQZQUs"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 1281,
+              "HttpStatus": 200,
+              "Size": 739,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBZRacE"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1211,
+              "HttpStatus": 200,
+              "Size": 596,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AAAMZwI"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1196,
+              "HttpStatus": 200,
+              "Size": 929,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB1eLvkK"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 140,
+              "EventId": 1184,
+              "HttpStatus": 200,
+              "Size": 963,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBXZUWo"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1170,
+              "HttpStatus": 200,
+              "Size": 706,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB18LjEV"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1162,
+              "HttpStatus": 200,
+              "Size": 929,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB13LhyC"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 171,
+              "EventId": 1158,
+              "HttpStatus": 200,
+              "Size": 712,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB14pN6J"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 187,
+              "EventId": 1148,
+              "HttpStatus": 200,
+              "Size": 715,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BB1gzN7f"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1140,
+              "HttpStatus": 200,
+              "Size": 942,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBY3XmH"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1134,
+              "HttpStatus": 200,
+              "Size": 565,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AAUKhHF"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 125,
+              "EventId": 1128,
+              "HttpStatus": 200,
+              "Size": 696,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AA12DeH0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 141,
+              "EventId": 1119,
+              "HttpStatus": 200,
+              "Size": 686,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AA12Dkv9"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1105,
+              "HttpStatus": 200,
+              "Size": 696,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AA14ak2A"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 187,
+              "EventId": 1095,
+              "HttpStatus": 200,
+              "Size": 601,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBOTMVt"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1087,
+              "HttpStatus": 200,
+              "Size": 689,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/AA19e3tG"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1076,
+              "HttpStatus": 200,
+              "Size": 4162,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBI4FN9"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 983,
+              "HttpStatus": 200,
+              "Size": 4162,
+              "URL": "https://assets.msn.com/content/v1/cms/api/amp/Document/BBI4FN9"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 688,
+              "EventId": 952,
+              "HttpStatus": 200,
+              "Size": 77483,
+              "URL": "https://assets.msn.com/service/news/feed/pages/ntp?User=m-08E2288EABF7645029433A9CAADD6558&activityId=3684689C-B734-4154-A2DF-BBCC8C38F8BA&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-ca&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&infopaneCount=26&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&prerender=1&scn=APP_ANON&timeOut=1000&wposchema=byregion"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 937,
+              "HttpStatus": 200,
+              "Size": 373,
+              "URL": "https://assets.msn.com/statics/icons/favicon_newtabpage.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 891,
+              "HttpStatus": 200,
+              "Size": 373,
+              "URL": "https://assets.msn.com/statics/icons/favicon_newtabpage.png"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.203",
+          "IncludeInScript": false,
+          "Name": "api.msn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 933,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&ocid=authconstants-peregrine&activityId=3684689C-B734-4154-A2DF-BBCC8C38F8BA&scn=app_anon"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 921,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?scn=app_anon&ocid=authconstants-peregrine&apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=3684689CB7344154A2DFBBCC8C38F8BA"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 893,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&ocid=authconstants-peregrine&activityId=ECAEA1E7-2D50-498E-874D-541389331C7D&scn=app_anon"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 873,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?scn=app_anon&ocid=authconstants-peregrine&apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=ECAEA1E72D50498E874D541389331C7D"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "20.105.73.143",
+          "IncludeInScript": true,
+          "Name": "nav-edge.smartscreen.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1619,
+              "HttpStatus": 200,
+              "Size": 882,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 157,
+              "EventId": 1614,
+              "HttpStatus": 200,
+              "Size": 892,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 141,
+              "EventId": 1611,
+              "HttpStatus": 200,
+              "Size": 906,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 157,
+              "EventId": 1584,
+              "HttpStatus": 200,
+              "Size": 880,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 157,
+              "EventId": 1566,
+              "HttpStatus": 200,
+              "Size": 880,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 141,
+              "EventId": 1532,
+              "HttpStatus": 200,
+              "Size": 904,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 157,
+              "EventId": 1266,
+              "HttpStatus": 200,
+              "Size": 920,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1257,
+              "HttpStatus": 200,
+              "Size": 912,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1235,
+              "HttpStatus": 200,
+              "Size": 908,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1078,
+              "HttpStatus": 200,
+              "Size": 888,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 1071,
+              "HttpStatus": 200,
+              "Size": 886,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 140,
+              "EventId": 1061,
+              "HttpStatus": 200,
+              "Size": 876,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 813,
+              "HttpStatus": 200,
+              "Size": 2864,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 171,
+              "EventId": 810,
+              "HttpStatus": 200,
+              "Size": 2874,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 773,
+              "HttpStatus": 200,
+              "Size": 2860,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 187,
+              "EventId": 767,
+              "HttpStatus": 200,
+              "Size": 2834,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 234,
+              "EventId": 725,
+              "HttpStatus": 200,
+              "Size": 2760,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 708,
+              "HttpStatus": 200,
+              "Size": 2768,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.21.239",
+          "IncludeInScript": true,
+          "Name": "edge.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 1564,
+              "HttpStatus": 429,
+              "Size": 0,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSOglrx_Y_aj184BIFDWtomm4SBQ1Pnif4EgUNY5MnhxIFDaJZuEkSBQ34tP6gEgUNV2gsmRIFDW36Zsk=?alt=proto"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 985,
+              "EventId": 1274,
+              "HttpStatus": 200,
+              "Size": 76,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSLAnrCB0dNWv2fxIFDVRiKa0SBQ17ncSlEgUNHzs5hRIFDdqFmWESBQ2pjkq9?alt=proto"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 1066,
+              "HttpStatus": 200,
+              "Size": 618,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:QxAkkDJRxRQ7L7JDQEw1wIA-1S9isiVOp5JT5fVeo2U&cup2hreq=fbf76961f1b99349fc2a7627a9067872bf5295865676840ce32af182e3c72964"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 834,
+              "HttpStatus": 200,
+              "Size": 32,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSFwk32UHgj34xiRIFDeeNQA4SBQ3OQUx6?alt=proto"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 203,
+              "EventId": 712,
+              "HttpStatus": 200,
+              "Size": 1865,
+              "URL": "https://edge.microsoft.com/identity/api/v3/msa"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "20.105.73.143",
+          "IncludeInScript": true,
+          "Name": "data-edge.smartscreen.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 157,
+              "EventId": 837,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://data-edge.smartscreen.microsoft.com/api/browser/edge/data/bloomfilter/x/3?pushcert=false&flight=%7b%22etag%22%3a%22%5c%221eqn59vixn6fjdbv1c799ejflmyhjfkah%2fmqhjxw4py%3d%5c%22%22%2c%22ids%22%3a%5b%22p-r-1021007-4-5%2cp-r-99770-8-32%2cp-r-86682-4-40%2cp-r-73000-7-30%2cp-r-72999-7-29%2cp-r-70204-3-18%2cp-r-69385-1-5%2cp-r-68026-3-37%2cp-r-68490-1-3%2cp-r-68172-2-4%2cp-r-68175-1-6%2cp-r-68176-2-8%2cp-r-68179-1-3%2cp-r-68306-1-20%2cp-r-68307-1-3%2cp-d-68194-1-2%22%5d%2c%22settings%22%3a%7b%22names%22%3anull%2c%22ring%22%3a0%2c%22models%22%3anull%2c%22serviceclientmodeldetonate%22%3afalse%2c%22wdsifeedback%22%3afalse%2c%22npfeedbackurioverride%22%3anull%2c%22networkfilterdetonate%22%3afalse%2c%22servicephishdetonate%22%3afalse%2c%22servicephishdetonatelegacy%22%3afalse%2c%22serviceadhocdetonate%22%3afalse%2c%22npsettings2004%22%3atrue%2c%22updatesigningcert%22%3atrue%2c%22updatesigningcertforrs3rs4%22%3atrue%2c%22npsettings2004value%22%3a0%2c%22iscocoblockenabled%22%3afalse%2c%22npipblockoverridevalue%22%3a0%2c%22toptrafficv2enabled%22%3atrue%2c%22listapie5v2enabled%22%3atrue%2c%22isnppioverrideblockenabled%22%3atrue%2c%22toptrafficv2mobileflightenabled%22%3afalse%2c%22bloomfilterdeltaflag%22%3a1%2c%22srceopenabled%22%3atrue%2c%22iscurfid0loggingenabled%22%3atrue%2c%22iscurfid0blockingenabled%22%3afalse%2c%22updateonmissingetagenabled%22%3atrue%2c%22enableproxyleniency%22%3atrue%2c%22isarsfmsintegrationenabled%22%3atrue%2c%22enablenshumormatch%22%3atrue%2c%22applynshumorverdict%22%3afalse%2c%22enablenpskipnonweb%22%3afalse%2c%22sendgeomapinsettingstonewanaheimclient%22%3atrue%2c%22umssrcphishbnrtenabled%22%3afalse%2c%22mtdthrottlefactor%22%3a0.0%2c%22unsilencemodelguid%22%3anull%7d%7d&os=10.0.22621.1555.ni_release"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 188,
+              "EventId": 775,
+              "HttpStatus": 200,
+              "Size": 76,
+              "URL": "https://data-edge.smartscreen.microsoft.com/api/browser/edge/data/bloomfilter/x/3?pushcert=false&flight=%7b%22etag%22%3a%22%5c%221eqn59vixn6fjdbv1c799ejflmyhjfkah%2fmqhjxw4py%3d%5c%22%22%2c%22ids%22%3a%5b%22p-r-1021007-4-5%2cp-r-99770-8-32%2cp-r-86682-4-40%2cp-r-73000-7-30%2cp-r-72999-7-29%2cp-r-70204-3-18%2cp-r-69385-1-5%2cp-r-68026-3-37%2cp-r-68490-1-3%2cp-r-68172-2-4%2cp-r-68175-1-6%2cp-r-68176-2-8%2cp-r-68179-1-3%2cp-r-68306-1-20%2cp-r-68307-1-3%2cp-d-68194-1-2%22%5d%2c%22settings%22%3a%7b%22names%22%3anull%2c%22ring%22%3a0%2c%22models%22%3anull%2c%22serviceclientmodeldetonate%22%3afalse%2c%22wdsifeedback%22%3afalse%2c%22npfeedbackurioverride%22%3anull%2c%22networkfilterdetonate%22%3afalse%2c%22servicephishdetonate%22%3afalse%2c%22servicephishdetonatelegacy%22%3afalse%2c%22serviceadhocdetonate%22%3afalse%2c%22npsettings2004%22%3atrue%2c%22updatesigningcert%22%3atrue%2c%22updatesigningcertforrs3rs4%22%3atrue%2c%22npsettings2004value%22%3a0%2c%22iscocoblockenabled%22%3afalse%2c%22npipblockoverridevalue%22%3a0%2c%22toptrafficv2enabled%22%3atrue%2c%22listapie5v2enabled%22%3atrue%2c%22isnppioverrideblockenabled%22%3atrue%2c%22toptrafficv2mobileflightenabled%22%3afalse%2c%22bloomfilterdeltaflag%22%3a1%2c%22srceopenabled%22%3atrue%2c%22iscurfid0loggingenabled%22%3atrue%2c%22iscurfid0blockingenabled%22%3afalse%2c%22updateonmissingetagenabled%22%3atrue%2c%22enableproxyleniency%22%3atrue%2c%22isarsfmsintegrationenabled%22%3atrue%2c%22enablenshumormatch%22%3atrue%2c%22applynshumorverdict%22%3afalse%2c%22enablenpskipnonweb%22%3afalse%2c%22sendgeomapinsettingstonewanaheimclient%22%3atrue%2c%22umssrcphishbnrtenabled%22%3afalse%2c%22mtdthrottlefactor%22%3a0.0%2c%22unsilencemodelguid%22%3anull%7d%7d&os=10.0.22621.1555.ni_release"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mgid.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.19.134.78",
+          "IncludeInScript": true,
+          "Name": "cm.mgid.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 234,
+              "EventId": 1130,
+              "HttpStatus": 301,
+              "Size": 43,
+              "URL": "https://cm.mgid.com/m?cdsp=516415&c=08E2288EABF7645029433A9CAADD6558&mode=inverse&msn_src=ntp&&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mediago.io",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.208.249.213",
+          "IncludeInScript": true,
+          "Name": "trace.mediago.io",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 312,
+              "EventId": 1202,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://trace.mediago.io/cs/msn?id=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "media.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "2.17.220.29",
+          "IncludeInScript": true,
+          "Name": "hbx.media.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 171,
+              "EventId": 1097,
+              "HttpStatus": 200,
+              "Size": 61,
+              "URL": "https://hbx.media.net/cksync.php?type=nms&cs=3&ovsid=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "linkedin.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.42.14",
+          "IncludeInScript": true,
+          "Name": "px.ads.linkedin.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/png",
+              "DownloadTime": 297,
+              "EventId": 1004,
+              "HttpStatus": 200,
+              "Size": 108,
+              "URL": "https://px.ads.linkedin.com/setuid?partner=microsoftSsp&dbredirect=true&dnt=0&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "lencr.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.52.55.67",
+          "IncludeInScript": false,
+          "Name": "r3.i.lencr.org",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 15,
+              "EventId": 1180,
+              "HttpStatus": 307,
+              "Size": 0,
+              "URL": "http://r3.i.lencr.org/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "inmobi.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "20.127.253.7",
+          "IncludeInScript": true,
+          "Name": "sync.inmobi.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 313,
+              "EventId": 1233,
+              "HttpStatus": 302,
+              "Size": 994,
+              "URL": "https://sync.inmobi.com/oRTB?redirect={PubRedirectUrl}&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "id5-sync.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "141.95.33.111",
+          "IncludeInScript": true,
+          "Name": "id5-sync.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 188,
+              "EventId": 1302,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://id5-sync.com/c/495/0/0/1.gif?gdpr=1&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA&us_privacy="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 172,
+              "EventId": 1290,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://id5-sync.com/i/495/0.gif?gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA&gdpr=1&callback="
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "creativecdn.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.184.8.90",
+          "IncludeInScript": true,
+          "Name": "creativecdn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 1160,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://creativecdn.com/cm-notify?pi=mgid&tc=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 188,
+              "EventId": 1152,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://creativecdn.com/cm-notify?pi=mgid"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.221.24.75",
+          "IncludeInScript": true,
+          "Name": "www.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 868,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://www.bing.com/api/shopping/v1/getsupporteddomains?appid=67220BD2169C2EA709984467C21494086DF8CA85"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 187,
+              "EventId": 790,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://www.bing.com/api/shopping/v1/getsupporteddomains?appid=67220BD2169C2EA709984467C21494086DF8CA85"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 187,
+              "EventId": 770,
+              "HttpStatus": 400,
+              "Size": 1,
+              "URL": "https://www.bing.com/fd/auth/signin?&action=header&provider=windows_live_id&save_token=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 710,
+              "HttpStatus": 200,
+              "Size": 109,
+              "URL": "https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "88.221.24.88",
+          "IncludeInScript": true,
+          "Name": "th.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 1482,
+              "HttpStatus": 200,
+              "Size": 55849,
+              "URL": "https://th.bing.com/th?id=ORMS.08a419ec41f7755e96261c4dd0015a91&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 157,
+              "EventId": 1432,
+              "HttpStatus": 200,
+              "Size": 45363,
+              "URL": "https://th.bing.com/th?id=ORMS.be963725c2c0f0ad3d836157cf52a942&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 1425,
+              "HttpStatus": 200,
+              "Size": 39493,
+              "URL": "https://th.bing.com/th?id=ORMS.c6ac49a872ade1f3fc4c4d0a7c03571c&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 281,
+              "EventId": 1416,
+              "HttpStatus": 200,
+              "Size": 91809,
+              "URL": "https://th.bing.com/th?id=ORMS.438c90688b4fee62be26cca07a6b5bcf&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 1410,
+              "HttpStatus": 200,
+              "Size": 32553,
+              "URL": "https://th.bing.com/th?id=ORMS.114e651fb28d7e7d7a6ad61a0f9a2573&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 375,
+              "EventId": 1407,
+              "HttpStatus": 200,
+              "Size": 25517,
+              "URL": "https://th.bing.com/th?id=ORMS.4dbb429c74274f0f4a976eca8fd7403d&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 1399,
+              "HttpStatus": 200,
+              "Size": 66964,
+              "URL": "https://th.bing.com/th?id=ORMS.8fe91e39097da7f44d79e41d1c5a9a4b&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 297,
+              "EventId": 1392,
+              "HttpStatus": 200,
+              "Size": 29210,
+              "URL": "https://th.bing.com/th?id=ORMS.3fe089f48b1be595d7262b3b936087a1&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 359,
+              "EventId": 1385,
+              "HttpStatus": 200,
+              "Size": 74769,
+              "URL": "https://th.bing.com/th?id=ORMS.bc306b2caf4052f2c00e997d6a327da7&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 266,
+              "EventId": 1377,
+              "HttpStatus": 200,
+              "Size": 48845,
+              "URL": "https://th.bing.com/th?id=ORMS.c39d9bedace86371d6ae6aabfcce1227&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 157,
+              "EventId": 1367,
+              "HttpStatus": 200,
+              "Size": 42587,
+              "URL": "https://th.bing.com/th?id=ORMS.b3fe3688d7f4d59db7909287e0aeee8b&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 157,
+              "EventId": 1354,
+              "HttpStatus": 200,
+              "Size": 61689,
+              "URL": "https://th.bing.com/th?id=ORMS.878a1b54ee1d3f7d2959d14d2ce78a8d&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 1343,
+              "HttpStatus": 200,
+              "Size": 30308,
+              "URL": "https://th.bing.com/th?id=ORMS.9152ef0140ed33f6b9a0f4f59ba53c0f&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 141,
+              "EventId": 1334,
+              "HttpStatus": 200,
+              "Size": 10818,
+              "URL": "https://th.bing.com/th?id=ORMS.5b4671fda045073c66e70c2803b6be71&pid=Wdp&w=300&h=156&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 1325,
+              "HttpStatus": 200,
+              "Size": 24187,
+              "URL": "https://th.bing.com/th?id=ORMS.a464617022a678dc3bf99e6172276da0&pid=Wdp&w=300&h=156&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 547,
+              "EventId": 1318,
+              "HttpStatus": 200,
+              "Size": 13119,
+              "URL": "https://th.bing.com/th?id=ORMS.c04b06a08dc06b9bea1de9c9fd200468&pid=Wdp&w=300&h=156&qlt=90&c=1&rs=1&dpr=1&p=0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 4734,
+              "EventId": 1293,
+              "HttpStatus": 200,
+              "Size": 52570,
+              "URL": "https://th.bing.com/th?id=ORMS.32a8a0b9e892fd4ae6318bb0e79cc34b&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.21.200",
+          "IncludeInScript": true,
+          "Name": "c.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 172,
+              "EventId": 1272,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://c.bing.com/c.gif?anx_uid=6497790745994482345&Red3=MSAN_pd&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 156,
+              "EventId": 1121,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://c.bing.com/c.gif?Red3=MSAN_MI9_pd&rid=3684689CB7344154A2DFBBCC8C38F8BA&lang=en-ca&dgk=edgeChromium&imd=1&pn=dhp&rf=&tp=https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 188,
+              "EventId": 1108,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://c.bing.com/c.gif?Red3=MSNLI_pd&rid=3684689CB7344154A2DFBBCC8C38F8BA&lang=en-ca&dgk=edgeChromium&imd=1&pn=dhp&rf=&tp=https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "akamaized.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "95.101.21.51",
+          "IncludeInScript": true,
+          "Name": "img-s-msn-com.akamaized.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 1517,
+              "HttpStatus": 200,
+              "Size": 9652,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17Bcag?w=48&h=48&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 1515,
+              "HttpStatus": 200,
+              "Size": 11196,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKe0ms?w=48&h=48&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 1513,
+              "HttpStatus": 200,
+              "Size": 10632,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cKlL?w=48&h=48&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 1511,
+              "HttpStatus": 200,
+              "Size": 7884,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA17Bcae?w=48&h=48&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 1509,
+              "HttpStatus": 200,
+              "Size": 6950,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cZMi?w=48&h=48&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 1502,
+              "HttpStatus": 200,
+              "Size": 6544,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cUHj?w=48&h=48&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 1500,
+              "HttpStatus": 200,
+              "Size": 3720,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAZwaJo?w=44&h=44&q=60&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 1494,
+              "HttpStatus": 200,
+              "Size": 8192,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA19tdoo.img?w=300&h=304&q=90&m=6&f=jpg&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 172,
+              "EventId": 1443,
+              "HttpStatus": 200,
+              "Size": 1024,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBN8cFk.img?w=16&h=16&q=60&m=6&f=jpg&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 125,
+              "EventId": 1441,
+              "HttpStatus": 200,
+              "Size": 1024,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAxlCmf.img?w=16&h=16&q=60&m=6&f=jpg&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 1437,
+              "HttpStatus": 200,
+              "Size": 1390,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAgnIPB?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 1430,
+              "HttpStatus": 200,
+              "Size": 1716,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAgi0nZ?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 1414,
+              "HttpStatus": 200,
+              "Size": 1528,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAVYFs1?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 1401,
+              "HttpStatus": 200,
+              "Size": 1024,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA5Wkdg?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 125,
+              "EventId": 1397,
+              "HttpStatus": 200,
+              "Size": 1132,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAWSRJq?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 1383,
+              "HttpStatus": 200,
+              "Size": 684,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AACl6Lf?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 140,
+              "EventId": 1372,
+              "HttpStatus": 200,
+              "Size": 1128,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAfojr6?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 156,
+              "EventId": 1362,
+              "HttpStatus": 200,
+              "Size": 1300,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA122SuA?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 1339,
+              "HttpStatus": 200,
+              "Size": 512,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAm2UN1?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 141,
+              "EventId": 1332,
+              "HttpStatus": 200,
+              "Size": 512,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12rZcu?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 157,
+              "EventId": 1323,
+              "HttpStatus": 200,
+              "Size": 1430,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAvcS6D?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 1312,
+              "HttpStatus": 200,
+              "Size": 1446,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13rQvO?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 940,
+              "HttpStatus": 200,
+              "Size": 50880,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB11Y7or.img"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 235,
+              "EventId": 914,
+              "HttpStatus": 200,
+              "Size": 50880,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB11Y7or.img"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "95.101.21.59",
+          "IncludeInScript": true,
+          "Name": "img-prod-cms-rt-microsoft-com.akamaized.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 203,
+              "EventId": 993,
+              "HttpStatus": 200,
+              "Size": 461011,
+              "URL": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wtd9?ver=8b09"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adnxs.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.89.210.180",
+          "IncludeInScript": true,
+          "Name": "m.adnxs.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 1299,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://m.adnxs.com/seg?add=5159620&redir=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D483%26code%3D08E2288EABF7645029433A9CAADD6558%26gdpr%3D0%26gdpr_consent%3DCPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 218,
+              "EventId": 1286,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://m.adnxs.com/mapuid?member=280&user=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA&redir=https%3A%2F%2Fm.adnxs.com%2Fseg%3Fadd%3D5159620%26redir%3Dhttps%253A%252F%252Fib.adnxs.com%252Fsetuid%253Fentity%253D483%2526code%253D08E2288EABF7645029433A9CAADD6558%2526gdpr%253D0%2526gdpr_consent%253DCPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 1156,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://m.adnxs.com/seg?add=5159620&redir=https%3A%2F%2Fib.adnxs.com%2Fsetuid%3Fentity%3D483%26code%3D08E2288EABF7645029433A9CAADD6558%26gdpr%3D0%26gdpr_consent%3DCPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 187,
+              "EventId": 1150,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://m.adnxs.com/mapuid?member=280&user=08E2288EABF7645029433A9CAADD6558;C1BD4D0E6F58CA70FA24ECB25487E348C6684BD3&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA&redir=https%3A%2F%2Fm.adnxs.com%2Fseg%3Fadd%3D5159620%26redir%3Dhttps%253A%252F%252Fib.adnxs.com%252Fsetuid%253Fentity%253D483%2526code%253D08E2288EABF7645029433A9CAADD6558%2526gdpr%253D0%2526gdpr_consent%253DCPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "185.89.210.153",
+          "IncludeInScript": true,
+          "Name": "ib.adnxs.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 156,
+              "EventId": 1320,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://ib.adnxs.com/setuid?entity=483&code=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 1209,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://ib.adnxs.com/getuid?https://c.bing.com/c.gif?anx_uid=$UID&Red3=MSAN_pd&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 187,
+              "EventId": 1172,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://ib.adnxs.com/setuid?entity=483&code=08E2288EABF7645029433A9CAADD6558&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "3lift.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "76.223.111.18",
+          "IncludeInScript": true,
+          "Name": "eb2.3lift.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 313,
+              "EventId": 1154,
+              "HttpStatus": 200,
+              "Size": 37,
+              "URL": "https://eb2.3lift.com/getuid?ld=1&gdpr=0&cmp_cs=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA&us_privacy="
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 281,
+              "EventId": 1144,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://eb2.3lift.com/mapuid?suid=08E2288EABF7645029433A9CAADD6558&sid=16&gdpr=0&gdpr_consent=CPiSkDcPiSkDcAcABBENCFCsAP_AAEPAACiQImtf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhedt-8N3d_X_L8X52M7vF36pq4KuR4Eu3LBAQdlHOHcTUmw6IkVqzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f__-3_3__5_1---wAAB8gdzLv9____393P___9v-_9_____-CIYBJhqXkAXZljgybRpVCiBGFYSHQCgAooBhaIrCB1cFOyuAn1BCwAQCpCcCIEGIKMGAQACCQBIREBIAeCARAEQCAAEAKsBCAAjYBBYAWBgEAAoBoWIEUAQgSEGRwVHKYEBUi0UE9lYglB3saYQhlnARQIAAABABrNECwMhIWDmOAJAS8WSB5ihfIBAaBCAFYALgAhgBkADLAGyAOwAfgBAACCgEYAKeAVeAtAC0gGsAN4AdUA-QCHQEVAJEATYAnYBSIC5AGEgMPAYwAycBnIDPAGfAPwDACgBzAHUASEAkUBkYDdAHEgOzAe6BD4QALABIAOYA3gCQgEigN0AcSA7MB7oD7AIfCIDQAVgBDADIAGWANkAdgA_ACAAEYAKeAVcA1gB1QD5AIdASIAmwBOwCkQFyAMJAYeAycBnIDPgH4CoDgAFAAhgBMAC4AI4AZYA7AB-AEYAI4AVeAtAC0gG8ASCAmIBNgCmwFsALkAXmAw8BkQDOQGeAM-AbkA_ACF4oAaANoAcwA8ACCgHVAR6AkUBrwDbwHEgPsAgeBBsZAaAAoAEMAJgAjgBlgDsgH2AfgBGACOAFXAK2AbwBJwCYgE2ALRAWwAvMBh4DIgGcgM8AZ8A-IB-AELxgAwAbQA5gB4AFiAOqAj0BIoC8gG3gOJAfYBBsAA.f_gACHgAAAAA"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "192.168.8.1",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "192.168.8.1",
+          "IncludeInScript": true,
+          "Name": "192.168.8.1",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 47,
+              "EventId": 1187,
+              "HttpStatus": 200,
+              "Size": 678,
+              "URL": "http://192.168.8.1/html/redirect.html?type=guide?randid=2203166317?updataredirect=r3.i.lencr.org"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "127.0.0.1",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "127.0.0.1",
+          "IncludeInScript": true,
+          "Name": "127.0.0.1",
+          "Port": 1080,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 157,
+              "EventId": 1603,
+              "HttpStatus": 200,
+              "Size": 1490,
+              "URL": "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 32,
+              "EventId": 1601,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "http://127.0.0.1:1080/WebTours/home.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 1593,
+              "HttpStatus": 200,
+              "Size": 686,
+              "URL": "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 0,
+              "EventId": 1580,
+              "HttpStatus": 200,
+              "Size": 806,
+              "URL": "http://127.0.0.1:1080/WebTours/images/bookanother.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 140,
+              "EventId": 1575,
+              "HttpStatus": 200,
+              "Size": 2487,
+              "URL": "http://127.0.0.1:1080/cgi-bin/reservations.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 1559,
+              "HttpStatus": 200,
+              "Size": 2744,
+              "URL": "http://127.0.0.1:1080/cgi-bin/reservations.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 156,
+              "EventId": 1527,
+              "HttpStatus": 200,
+              "Size": 2442,
+              "URL": "http://127.0.0.1:1080/cgi-bin/reservations.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 1255,
+              "HttpStatus": 200,
+              "Size": 758,
+              "URL": "http://127.0.0.1:1080/WebTours/images/button_next.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 297,
+              "EventId": 1252,
+              "HttpStatus": 200,
+              "Size": 4246,
+              "URL": "http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 1248,
+              "HttpStatus": 200,
+              "Size": 688,
+              "URL": "http://127.0.0.1:1080/WebTours/images/home.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 1246,
+              "HttpStatus": 200,
+              "Size": 726,
+              "URL": "http://127.0.0.1:1080/WebTours/images/in_flights.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 219,
+              "EventId": 1231,
+              "HttpStatus": 200,
+              "Size": 1482,
+              "URL": "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 219,
+              "EventId": 1218,
+              "HttpStatus": 200,
+              "Size": 616,
+              "URL": "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 234,
+              "EventId": 1068,
+              "HttpStatus": 200,
+              "Size": 919,
+              "URL": "http://127.0.0.1:1080/cgi-bin/login.pl?intro=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 1059,
+              "HttpStatus": 200,
+              "Size": 751,
+              "URL": "http://127.0.0.1:1080/WebTours/images/signoff.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 1057,
+              "HttpStatus": 200,
+              "Size": 688,
+              "URL": "http://127.0.0.1:1080/WebTours/images/in_home.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 1051,
+              "HttpStatus": 200,
+              "Size": 733,
+              "URL": "http://127.0.0.1:1080/WebTours/images/itinerary.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 1049,
+              "HttpStatus": 200,
+              "Size": 726,
+              "URL": "http://127.0.0.1:1080/WebTours/images/flights.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 188,
+              "EventId": 998,
+              "HttpStatus": 200,
+              "Size": 1482,
+              "URL": "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 979,
+              "HttpStatus": 200,
+              "Size": 481,
+              "URL": "http://127.0.0.1:1080/cgi-bin/login.pl"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 63,
+              "EventId": 806,
+              "HttpStatus": 404,
+              "Size": 209,
+              "URL": "http://127.0.0.1:1080/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 15,
+              "EventId": 788,
+              "HttpStatus": 200,
+              "Size": 679,
+              "URL": "http://127.0.0.1:1080/WebTours/images/mer_login.gif"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 783,
+              "HttpStatus": 200,
+              "Size": 1361,
+              "URL": "http://127.0.0.1:1080/WebTours/home.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 765,
+              "HttpStatus": 200,
+              "Size": 1489,
+              "URL": "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 422,
+              "EventId": 748,
+              "HttpStatus": 200,
+              "Size": 686,
+              "URL": "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 746,
+              "HttpStatus": 200,
+              "Size": 4187,
+              "URL": "http://127.0.0.1:1080/WebTours/images/webtours.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 741,
+              "HttpStatus": 200,
+              "Size": 601,
+              "URL": "http://127.0.0.1:1080/WebTours/images/hp_logo.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 704,
+              "HttpStatus": 200,
+              "Size": 710,
+              "URL": "http://127.0.0.1:1080/WebTours/header.html"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 0,
+              "EventId": 701,
+              "HttpStatus": 200,
+              "Size": 366,
+              "URL": "http://127.0.0.1:1080/WebTours/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 15,
+              "EventId": 678,
+              "HttpStatus": 301,
+              "Size": 239,
+              "URL": "http://127.0.0.1:1080/WebTours"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 8
+}

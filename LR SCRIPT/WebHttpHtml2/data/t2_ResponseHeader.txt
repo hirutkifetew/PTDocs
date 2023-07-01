@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Sat, 15 Apr 2023 14:38:32 GMT
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: JSESSIONID=134j0ypc02v0r1b6srtxqo4zxz3633.n0; path=/
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=2LHNFm7edq2qlryvv9ovGFBTkQ6LheD%2BcLXgobJ%2FhJB%2BheUG8O6RDZDo%2BS3vYNiSb24GPfOm7BAgu7YCizHSxO8Ul1YrBld6Rkv56s%2Frd0p0he8pxdTeio41x0P8iTb0X2WtBtWhkaHqxw%3D%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 7b84eec82b10b75b-AMS
+Content-Encoding: br
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+

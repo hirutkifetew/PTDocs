@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\registered merchang
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\registered merchang\\logfile.log
+c:\users\kokob\desktop\lr script\registered merchang\\combined_registered merchang.c
+c:\users\kokob\desktop\lr script\registered merchang\\pre_cci.c

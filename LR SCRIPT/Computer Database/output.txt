@@ -1,0 +1,81 @@
+Virtual User Script started at: 2023-01-18 12:02:00 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\kokob\Desktop\LR SCRIPT\Computer Database\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "Launch" started.
+Action.c(6): web_url("computers") started  	[MsgId: MMSG-26355]
+Action.c(6): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers"  	[MsgId: MMSG-26659]
+Action.c(6): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers"  	[MsgId: MMSG-26659]
+Action.c(6): web_url("computers") was successful, 9352 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(16): Notify: Transaction "Launch" ended with a "Pass" status (Duration: 2.2828 Wasted Time: 0.1859).
+Action.c(28): Notify: Transaction "pagination_1" started.
+Action.c(31): web_url("Next →") started  	[MsgId: MMSG-26355]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?p=1&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?p=1&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): web_url("Next →") was successful, 9377 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(42): Notify: Transaction "pagination_1" ended with a "Pass" status (Duration: 0.7925 Wasted Time: 0.0341).
+Action.c(28): Notify: Transaction "pagination_2" started.
+Action.c(31): web_url("Next →") started  	[MsgId: MMSG-26355]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?p=2&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?p=2&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): web_url("Next →") was successful, 9413 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(42): Notify: Transaction "pagination_2" ended with a "Pass" status (Duration: 0.7817 Wasted Time: 0.0128).
+Action.c(28): Notify: Transaction "pagination_3" started.
+Action.c(31): web_url("Next →") started  	[MsgId: MMSG-26355]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?p=3&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?p=3&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): web_url("Next →") was successful, 9314 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(42): Notify: Transaction "pagination_3" ended with a "Pass" status (Duration: 0.8040 Wasted Time: 0.0141).
+Action.c(28): Notify: Transaction "pagination_4" started.
+Action.c(31): web_url("Next →") started  	[MsgId: MMSG-26355]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?p=4&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?p=4&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): web_url("Next →") was successful, 9368 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(42): Notify: Transaction "pagination_4" ended with a "Pass" status (Duration: 0.8430 Wasted Time: 0.0146).
+Action.c(28): Notify: Transaction "pagination_5" started.
+Action.c(31): web_url("Next →") started  	[MsgId: MMSG-26355]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?p=5&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?p=5&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(31): web_url("Next →") was successful, 9357 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(42): Notify: Transaction "pagination_5" ended with a "Pass" status (Duration: 0.7957 Wasted Time: 0.0158).
+Action.c(48): Notify: Transaction "Pagination 3" started.
+Action.c(53): web_url("Next →_2") started  	[MsgId: MMSG-26355]
+Action.c(53): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?p=2&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(53): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?p=2&n=10&s=name&d=asc"  	[MsgId: MMSG-26659]
+Action.c(53): web_url("Next →_2") was successful, 9413 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(63): Notify: Transaction "Pagination 3" ended with a "Pass" status (Duration: 0.7872 Wasted Time: 0.0126).
+Action.c(67): Notify: Transaction "Search_ computer" started.
+Action.c(71): web_submit_data("computers_2") started  	[MsgId: MMSG-26355]
+Action.c(71): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers?f=ACE"  	[MsgId: MMSG-26659]
+Action.c(71): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers?f=ACE"  	[MsgId: MMSG-26659]
+Action.c(71): web_submit_data("computers_2") was successful, 9295 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(84): Notify: Transaction "Search_ computer" ended with a "Pass" status (Duration: 0.7950 Wasted Time: 0.0130).
+Action.c(88): Notify: Transaction "Click_Computer" started.
+Action.c(93): web_url("ACE") started  	[MsgId: MMSG-26355]
+Action.c(93): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers/381"  	[MsgId: MMSG-26659]
+Action.c(93): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers/381"  	[MsgId: MMSG-26659]
+Action.c(93): web_url("ACE") was successful, 9624 body bytes, 446 header bytes  	[MsgId: MMSG-26386]
+Action.c(103): Notify: Transaction "Click_Computer" ended with a "Pass" status (Duration: 0.9378 Wasted Time: 0.0178).
+Action.c(107): Notify: Transaction "Save_C0mputer" started.
+Action.c(110): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(110): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(113): web_submit_data("381") started  	[MsgId: MMSG-26355]
+Action.c(113): Redirecting "https://computer-database.gatling.io/computers/381" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(113): To location "https://computer-database.gatling.io/computers"  	[MsgId: MMSG-26693]
+Action.c(113): Found resource "https://computer-database.gatling.io/assets/css/bootstrap.min.css" in HTML "https://computer-database.gatling.io/computers"  	[MsgId: MMSG-26659]
+Action.c(113): Found resource "https://computer-database.gatling.io/assets/css/main.css" in HTML "https://computer-database.gatling.io/computers"  	[MsgId: MMSG-26659]
+Action.c(113): web_submit_data("381") was successful, 9407 body bytes, 896 header bytes  	[MsgId: MMSG-26386]
+Action.c(128): Notify: Transaction "Save_C0mputer" ended with a "Pass" status (Duration: 1.3289 Wasted Time: 0.0211).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

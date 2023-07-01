@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, must-revalidate, no-cache, max-age=0
+Pragma: no-cache
+Content-Length: 180
+Content-Type: application/json
+Content-Encoding: gzip
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 297C5E3DB8B847968264F8F6424FDB93 Ref B: DFW311000110011 Ref C: 2023-04-16T15:48:46Z
+Date: Sun, 16 Apr 2023 15:48:46 GMT
+

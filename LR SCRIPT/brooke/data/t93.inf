@@ -1,0 +1,13 @@
+[t93]
+FileName1=t93.txt
+URL1=https://bzib.nelreports.net/api/report?cat=bingbusiness
+Total=2
+RequestHeaderFile=t93_RequestHeader.txt
+RequestBodyFile=t93_RequestBody.txt
+ResponseHeaderFile=t93_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_93.xml
+FileName2=t93_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChcKBm1zZWRnZRINMTEzLjAuMTc3NC40MhobCAEQCBoNMTY3NzEzMTM3MDQxOSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362&ei=N
+[ProtocolInfo]
+ProtocolId=QTWeb

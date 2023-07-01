@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\PRACTICAL ASSIGNMENTS
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\practical assignments\\logfile.log
+c:\users\kokob\desktop\lr script\practical assignments\\combined_PRACTICAL ASSIGNMENTS.c
+c:\users\kokob\desktop\lr script\practical assignments\\pre_cci.c

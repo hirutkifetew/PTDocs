@@ -1,0 +1,11 @@
+[t72]
+FileName1=t72.xml
+URL1=http://10.94.4.116:1581/
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_72.xml
+RequestHeaderFile=t72_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t72_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

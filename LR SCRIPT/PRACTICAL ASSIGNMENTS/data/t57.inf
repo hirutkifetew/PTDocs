@@ -1,0 +1,15 @@
+[t57]
+FileName1=t57.json
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=45EBD043982A03A4CA6B8962005A06F2B1FED569&mkt=en-us&uapimkt=en-us&features=enuapimkt
+Total=3
+RequestHeaderFile=t57_RequestHeader.txt
+RequestBodyFile=t57_RequestBody.txt
+ResponseHeaderFile=t57_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_57.xml
+FileName2=t57_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSEAlcxBYZJBVe8hIFDfP6GZc=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSEAlcxBYZJBVe8hIFDfP6GZc=?alt=proto
+FileName3=t57_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSVgkfpfYmfF7QIBIFDerw2CcSBQ1XaCyZEgUNDgKQjhIFDY6xJaYSBQ0U_OKwEgUNsD28fhIFDa--3_wSBQ2WI993EgUNpOx1uhIFDStLRTESBQ0txuFV.txt
+URL3=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSVgkfpfYmfF7QIBIFDerw2CcSBQ1XaCyZEgUNDgKQjhIFDY6xJaYSBQ0U_OKwEgUNsD28fhIFDa--3_wSBQ2WI993EgUNpOx1uhIFDStLRTESBQ0txuFV?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

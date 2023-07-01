@@ -1,0 +1,11 @@
+[t30]
+FileName1=t30.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:V6hyvHWyhfaNHqTDZRpGbOfPd4LZS_EK5AxmR2c7NWA&cup2hreq=5cad90096485154d9385313a8d127f2ccf93b6c8349cfeb89e35607b9b9645c2
+Total=1
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=t30_RequestBody.txt
+ResponseHeaderFile=t30_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_30.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

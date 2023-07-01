@@ -1,0 +1,17 @@
+[t50]
+FileName1=t50_DomainsFilterGlobal.json
+URL1=https://www.bing.com/bloomfilterfiles/DomainsFilterGlobal.json
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_50.xml
+RequestHeaderFile=t50_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t50_ResponseHeader.txt
+FileName2=t50_js.html
+URL2=https://www.googletagmanager.com/gtag/js?id=G-PBGW9BF7P6
+FileName3=t50_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2g=.txt
+URL3=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2g=?alt=proto
+FileName4=t50.jpg
+URL4=https://ecn.dev.virtualearth.net/REST/v1/Traffic/Cameras/15531/?pwd=pwd&version=1&src=7&prov=0&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&ur=us&c=en-US&animated=false&setfeatures=mp4cameras
+[ProtocolInfo]
+ProtocolId=QTWeb

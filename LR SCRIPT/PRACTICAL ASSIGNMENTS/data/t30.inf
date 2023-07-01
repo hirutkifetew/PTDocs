@@ -1,0 +1,15 @@
+[t30]
+FileName1=t30_DomainsFilterGlobal.json
+URL1=https://www.bing.com/bloomfilterfiles/DomainsFilterGlobal.json
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+FileName2=t30_th.jpg
+URL2=https://th.bing.com/th?id=ORMS.a266c5d0a743626d8b327a84bccad81e&pid=Wdp&w=300&h=156&qlt=90&c=1&rs=1&dpr=1&p=0
+FileName3=t30.jpg
+URL3=https://ecn.dev.virtualearth.net/REST/v1/Traffic/Cameras/15531/?pwd=pwd&version=1&src=7&prov=0&key=AnTcaqBi2ypp0xI-OZNi4W_ik2KhjgpqioTAtXLC8GzkMBQRMlyxvxyTnd5b73im&ur=us&c=en-US&animated=false&setfeatures=mp4cameras
+[ProtocolInfo]
+ProtocolId=QTWeb

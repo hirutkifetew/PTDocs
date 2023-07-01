@@ -1,0 +1,15 @@
+[hosts]
+edge.microsoft.com=
+www.bing.com=
+edge-http.microsoft.com=
+jpetstore.aspectran.com=
+th.bing.com=
+aspectran.com=
+www.googletagmanager.com=
+www.google-analytics.com=
+ecn.dev.virtualearth.net=
+nav-edge.smartscreen.microsoft.com=
+data-edge.smartscreen.microsoft.com=
+a.nel.cloudflare.com=
+api.edgeoffer.microsoft.com=
+telem-edge.smartscreen.microsoft.com=

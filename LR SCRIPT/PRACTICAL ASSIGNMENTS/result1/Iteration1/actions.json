@@ -1,0 +1,175 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: experiments",
+                "infFile": "t1.inf",
+                "time": 1681664543388
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: crx",
+                "infFile": "t2.inf",
+                "time": 1681664548106
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: msa",
+                "infFile": "t3.inf",
+                "time": 1681664548953
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: rewardsUserInfo",
+                "infFile": "t4.inf",
+                "time": 1681664551585
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: catalog",
+                "infFile": "t5.inf",
+                "time": 1681664554648
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: DomainsFilterGlobal.json",
+                "infFile": "t6.inf",
+                "time": 1681664559257
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: collect",
+                "infFile": "t7.inf",
+                "time": 1681664561616
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: update",
+                "infFile": "t8.inf",
+                "time": 1681664562840
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: collect_2",
+                "infFile": "t9.inf",
+                "time": 1681664564068
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: 3",
+                "infFile": "t10.inf",
+                "time": 1681664566026
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: 3_2",
+                "infFile": "t11.inf",
+                "time": 1681664568886
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: update_2",
+                "infFile": "t12.inf",
+                "time": 1681664570722
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: search",
+                "infFile": "t13.inf",
+                "time": 1681664573699
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: v3",
+                "infFile": "t14.inf",
+                "time": 1681664576766
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: v3_2",
+                "infFile": "t15.inf",
+                "time": 1681664577520
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: 3_3",
+                "infFile": "t16.inf",
+                "time": 1681664579273
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SIGN IN",
+                "rawStartTime": 1681664561634,
+                "rawEndTime": 1681664564076,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04491567611694336
+            },
+            {
+                "transactionName": "LOGIN",
+                "rawStartTime": 1681664564092,
+                "rawEndTime": 1681664566036,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011672735214233399
+            },
+            {
+                "transactionName": "Fish",
+                "rawStartTime": 1681664568899,
+                "rawEndTime": 1681664570733,
+                "thinkTime": 0.0,
+                "wastedTime": 0.013192415237426758
+            },
+            {
+                "transactionName": "product id",
+                "rawStartTime": 1681664570750,
+                "rawEndTime": 1681664570765,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "Add to cart",
+                "rawStartTime": 1681664573702,
+                "rawEndTime": 1681664573717,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "Proceed to Checkout",
+                "rawStartTime": 1681664573732,
+                "rawEndTime": 1681664573747,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "Paymnet",
+                "rawStartTime": 1681664573764,
+                "rawEndTime": 1681664573778,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "payment",
+                "rawStartTime": 1681664577530,
+                "rawEndTime": 1681664577544,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "confirm",
+                "rawStartTime": 1681664577561,
+                "rawEndTime": 1681664577577,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "signout",
+                "rawStartTime": 1681664579278,
+                "rawEndTime": 1681664579292,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]

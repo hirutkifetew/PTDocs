@@ -1,0 +1,13 @@
+[t95]
+FileName1=t95.json
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=67220BD2169C2EA709984467C21494086DF8CA85&features=persnlcashback&sf=cashback1
+Total=2
+RequestHeaderFile=t95_RequestHeader.txt
+RequestBodyFile=t95_RequestBody.txt
+ResponseHeaderFile=t95_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_95.xml
+FileName2=t95_ChRDaHJvbWUvMTEzLjAuMTc3NC41MBIXCTfZQeCPfjGJEgUN541ADhIFDc5BTHo=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEzLjAuMTc3NC41MBIXCTfZQeCPfjGJEgUN541ADhIFDc5BTHo=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

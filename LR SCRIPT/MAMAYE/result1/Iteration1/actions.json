@@ -1,0 +1,244 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1686299702002
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: v3",
+                "infFile": "t2.inf",
+                "time": 1686299703143
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: rewardsUserInfo",
+                "infFile": "t3.inf",
+                "time": 1686299704330
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: msa",
+                "infFile": "t4.inf",
+                "time": 1686299704840
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: crx",
+                "infFile": "t5.inf",
+                "time": 1686299705172
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: 3",
+                "infFile": "t6.inf",
+                "time": 1686299706588
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: 3_2",
+                "infFile": "t7.inf",
+                "time": 1686299711400
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: 3_3",
+                "infFile": "t8.inf",
+                "time": 1686299712223
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: DomainsFilterGlobal.json",
+                "infFile": "t9.inf",
+                "time": 1686299716020
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: 3_4",
+                "infFile": "t10.inf",
+                "time": 1686299717423
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: 3_5",
+                "infFile": "t11.inf",
+                "time": 1686299718619
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: search",
+                "infFile": "t12.inf",
+                "time": 1686299718903
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: update",
+                "infFile": "t13.inf",
+                "time": 1686299719329
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t14.inf",
+                "time": 1686299719818
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: 3_6",
+                "infFile": "t15.inf",
+                "time": 1686299720440
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: 3_7",
+                "infFile": "t16.inf",
+                "time": 1686299721671
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Custom Request: 3_8",
+                "infFile": "t17.inf",
+                "time": 1686299722251
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t18.inf",
+                "time": 1686299722889
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: 3_9",
+                "infFile": "t19.inf",
+                "time": 1686299723496
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: 3_10",
+                "infFile": "t20.inf",
+                "time": 1686299724105
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Custom Request: 3_11",
+                "infFile": "t21.inf",
+                "time": 1686299724675
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t22.inf",
+                "time": 1686299725096
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Custom Request: 3_12",
+                "infFile": "t23.inf",
+                "time": 1686299725704
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Submit Data: reservations.pl_2",
+                "infFile": "t24.inf",
+                "time": 1686299726125
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Custom Request: 3_13",
+                "infFile": "t25.inf",
+                "time": 1686299726770
+            },
+            {
+                "stepId": "STEP26",
+                "stepName": "Submit Data: reservations.pl_3",
+                "infFile": "t26.inf",
+                "time": 1686299727220
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Custom Request: 3_14",
+                "infFile": "t27.inf",
+                "time": 1686299727845
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: welcome.pl_2",
+                "infFile": "t28.inf",
+                "time": 1686299728372
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Custom Request: 3_15",
+                "infFile": "t29.inf",
+                "time": 1686299728982
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Custom Request: 3_16",
+                "infFile": "t30.inf",
+                "time": 1686299729909
+            },
+            {
+                "stepId": "STEP31",
+                "stepName": "Custom Request: 3_17",
+                "infFile": "t31.inf",
+                "time": 1686299730477
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "SIGN IN",
+                "rawStartTime": 1686299718924,
+                "rawEndTime": 1686299722269,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0638282299041748
+            },
+            {
+                "transactionName": "Navigate Flight",
+                "rawStartTime": 1686299722285,
+                "rawEndTime": 1686299724692,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07771730422973633
+            },
+            {
+                "transactionName": "Flind Flight",
+                "rawStartTime": 1686299724709,
+                "rawEndTime": 1686299725717,
+                "thinkTime": 0.0,
+                "wastedTime": 0.027529239654541017
+            },
+            {
+                "transactionName": "choose flight",
+                "rawStartTime": 1686299725734,
+                "rawEndTime": 1686299726781,
+                "thinkTime": 0.0,
+                "wastedTime": 0.024257898330688478
+            },
+            {
+                "transactionName": "Payment ",
+                "rawStartTime": 1686299726797,
+                "rawEndTime": 1686299727860,
+                "thinkTime": 0.0,
+                "wastedTime": 0.025533437728881837
+            },
+            {
+                "transactionName": "Sign Off",
+                "rawStartTime": 1686299727876,
+                "rawEndTime": 1686299727891,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "SIGN OFF",
+                "rawStartTime": 1686299727907,
+                "rawEndTime": 1686299730488,
+                "thinkTime": 0.0,
+                "wastedTime": 0.048659324645996097
+            }
+        ]
+    }
+]

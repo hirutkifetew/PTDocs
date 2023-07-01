@@ -1,0 +1,26 @@
+[t2]
+FileName2=t1_5_main.UNK
+RawStepEndTime=1674282568791
+FileName5=t1_2_runtime.UNK
+FileName4=t1_3_css.css
+FileName7=t1_0_scripts.UNK
+FileName6=t1_1_styles.css
+RequestBodyFile=t2_RequestBody.txt
+RawStepName=token
+ContentType=application/json
+URL1=https://www.ishatrainingsolutions.com/oauth/token?grant_type=password&username=ishatrainingsolution&password=ishatrainingsolution
+URL2=https://www.ishatrainingsolutions.com/main.a042e4fffa233502593b.js
+URL3=https://www.ishatrainingsolutions.com/polyfills.800d19885f81918311cb.js
+ResponseHeaderFile=t2_ResponseHeader.txt
+URL4=https://fonts.googleapis.com/css?family=Open+Sans
+URL5=https://www.ishatrainingsolutions.com/runtime.26209474bfa8dc87a77c.js
+URL6=https://www.ishatrainingsolutions.com/styles.beb8cb4c64504bdfb4d4.css
+URL7=https://www.ishatrainingsolutions.com/scripts.3fa900baa8ca3ef0fb6c.js
+SnapshotXmlFile=snapshot_2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1674282568170
+Total=7
+StepName=Custom Request: token
+FileName1=t2.json
+FileName3=t1_4_polyfills.UNK

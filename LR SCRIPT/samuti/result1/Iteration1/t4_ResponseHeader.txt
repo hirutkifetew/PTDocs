@@ -1,0 +1,10 @@
+HTTP/2.0 200
+Status: 200
+cache-control: max-age=0, no-cache, no-store, must-revalidate
+content-length: 1935
+content-type: application/json
+x-content-type-options: nosniff
+x-cache: CONFIG_NOCACHE
+x-msedge-ref: Ref A: 71E47A890BE34CD0B9CCA3D8BF3F7DF5 Ref B: DUS30EDGE0306 Ref C: 2023-05-22T16:57:09Z
+date: Mon, 22 May 2023 16:57:09 GMT
+

@@ -1,0 +1,15 @@
+[t24]
+FileName1=t24_DomainsFilterGlobal.json
+URL1=https://www.bing.com/bloomfilterfiles/DomainsFilterGlobal.json
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t24_ResponseHeader.txt
+FileName2=t24_js.html
+URL2=https://www.googletagmanager.com/gtag/js?id=G-PBGW9BF7P6
+FileName3=t24_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2g=.txt
+URL3=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2g=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

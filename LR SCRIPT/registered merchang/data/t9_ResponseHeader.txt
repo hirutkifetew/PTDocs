@@ -1,0 +1,12 @@
+HTTP/1.1 200 
+Server: nginx/1.16.1
+Date: Thu, 19 Jan 2023 13:41:40 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-store
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: DENY
+

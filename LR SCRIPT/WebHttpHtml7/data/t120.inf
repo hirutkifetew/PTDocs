@@ -1,0 +1,13 @@
+[t120]
+FileName1=t120.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t120_RequestHeader.txt
+RequestBodyFile=t120_RequestBody.txt
+ResponseHeaderFile=t120_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_120.xml
+FileName2=t120_mer_login.gif
+URL2=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

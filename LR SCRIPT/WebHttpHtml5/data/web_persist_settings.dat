@@ -1,0 +1,17 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/05/20 17:23:43
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/05/20 17:26:33
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2023/05/20 17:28:36
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2023/05/20 17:39:54
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2023/05/21 17:31:26
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2023/05/21 17:35:01
+StartRecordingIsDst_6=0
+[User-Agent]
+User-Agent=Crashpad/0.8.0 WinHTTP/10.0.22621.1485 Windows_NT/10.0.22621.1485 (x64)
+[Security]
+UsingPersistForAuthentication=1

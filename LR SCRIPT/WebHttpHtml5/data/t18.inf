@@ -1,0 +1,17 @@
+[t18]
+FileName1=t18.htm
+URL1=http://127.0.0.1:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+Total=4
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_18.xml
+FileName2=t18_profileValidate.html
+URL2=http://127.0.0.1:1080/WebTours/profileValidate.js
+FileName3=t18_button_next.gif
+URL3=http://127.0.0.1:1080/WebTours/images/button_next.gif
+FileName4=t18_ChRDaHJvbWUvMTEzLjAuMTc3NC41MBI6CQyJuonW6NKtEgUN541ADhIFDc5BTHoSBQ04NomHEgUNa2iabhIFDU-eJ_gSBQ1jkyeHEgUNolm4SQ==.txt
+URL4=https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEzLjAuMTc3NC41MBI6CQyJuonW6NKtEgUN541ADhIFDc5BTHoSBQ04NomHEgUNa2iabhIFDU-eJ_gSBQ1jkyeHEgUNolm4SQ==?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

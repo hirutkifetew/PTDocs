@@ -1,0 +1,6 @@
+"[{\"age\":16170,\"body\":{\"elapsed_time\":2654,\"method\":\"GET\",\"phase\":\"connection\",\""
+"protocol\":\"http/1.1\",\"referrer\":\"https://ntp.msn.com/\",\"sampling_fraction\":1.0,\"serv"
+"er_ip\":\"2.19.124.203\",\"status_code\":0,\"type\":\"tcp.closed\"},\"type\":\"network-error\""
+",\"url\":\"https://th.bing.com/th?id=ORMS.08a419ec41f7755e96261c4dd0015a91&pid=Wdp&w=612&h=304"
+"&qlt=90&c=1&rs=1&dpr=1&p=0\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW"
+"ebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58\"}]"

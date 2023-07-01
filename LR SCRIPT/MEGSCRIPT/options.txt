@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kokob\Desktop\LR SCRIPT\MAMAYE
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kokob\desktop\lr script\mamaye\\logfile.log
+c:\users\kokob\desktop\lr script\mamaye\\combined_MAMAYE.c
+c:\users\kokob\desktop\lr script\mamaye\\pre_cci.c

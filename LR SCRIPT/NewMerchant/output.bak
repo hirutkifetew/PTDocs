@@ -1,0 +1,40 @@
+Virtual User Script started at: 2023-01-21 1:57:53 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\kokob\Desktop\LR SCRIPT\NewMerchant\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(6): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(8): web_set_user started  	[MsgId: MMSG-26355]
+Action.c(8): web_set_user was successful  	[MsgId: MMSG-26392]
+Action.c(13): web_url("www.ishatrainingsolutions.com") started  	[MsgId: MMSG-26355]
+Action.c(13): Found resource "https://fonts.googleapis.com/css?family=Open+Sans" in HTML "https://www.ishatrainingsolutions.com/"  	[MsgId: MMSG-26659]
+Action.c(13): Found resource "https://www.ishatrainingsolutions.com/styles.beb8cb4c64504bdfb4d4.css" in HTML "https://www.ishatrainingsolutions.com/"  	[MsgId: MMSG-26659]
+Action.c(13): Found resource "https://www.ishatrainingsolutions.com/runtime.26209474bfa8dc87a77c.js" in HTML "https://www.ishatrainingsolutions.com/"  	[MsgId: MMSG-26659]
+Action.c(13): Found resource "https://www.ishatrainingsolutions.com/polyfills.800d19885f81918311cb.js" in HTML "https://www.ishatrainingsolutions.com/"  	[MsgId: MMSG-26659]
+Action.c(13): Found resource "https://www.ishatrainingsolutions.com/scripts.3fa900baa8ca3ef0fb6c.js" in HTML "https://www.ishatrainingsolutions.com/"  	[MsgId: MMSG-26659]
+Action.c(13): Found resource "https://www.ishatrainingsolutions.com/main.a042e4fffa233502593b.js" in HTML "https://www.ishatrainingsolutions.com/"  	[MsgId: MMSG-26659]
+Action.c(13): web_url("www.ishatrainingsolutions.com") was successful, 1750410 body bytes, 2241 header bytes  	[MsgId: MMSG-26386]
+Action.c(22): Notify: Transaction "login" started.
+Action.c(27): web_custom_request("token") started  	[MsgId: MMSG-26355]
+Action.c(27): web_custom_request("token") was successful, 1802 body bytes, 306 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(38): web_url("secQue") started  	[MsgId: MMSG-26355]
+Action.c(38): Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.ishatrainingsolutions.com/adminPortal/secQue"  	[MsgId: MERR-26630]
+Action.c(38): web_url("secQue") highest severity level was "ERROR", 142 body bytes, 356 header bytes, 11 chunking overhead bytes  	[MsgId: MMSG-26387]
+Action.c(38): Notify: Transaction "login" ended with a "Fail" status (Duration: 0.8833 Wasted Time: 0.0143).
+Action.c(38): Notify: Transaction "login" has 1 error message(s).
+Action.c(38): Notify: The 1st error message associated with transaction "login" is "Error -26630: HTTP Status-Code=401 (Unauthorized) for "https://www.ishatrainingsolutions.com/adminPortal/secQue""
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

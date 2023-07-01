@@ -1,0 +1,17 @@
+[t7]
+FileName1=t7_DomainsFilterGlobal.json
+URL1=https://www.bing.com/bloomfilterfiles/DomainsFilterGlobal.json
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+FileName2=t7f1f1.htm
+URL2=http://127.0.0.1:1080/WebTours/home.html
+FrameIndex2=0.1.1
+UseFrameIndex=1
+FileName3=t7_mer_login.gif
+URL3=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

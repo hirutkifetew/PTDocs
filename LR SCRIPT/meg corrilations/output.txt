@@ -1,0 +1,32 @@
+Error: Parameter 'p_username': Invalid column name '' for table 'p_username.dat'.
+Virtual User Script started at: 2023-01-14 4:15:41 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-27143]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action corilation_2.
+corilation_2.c(8): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+corilation_2.c(8): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+corilation_2.c(13): web_url("index.htm") started  	[MsgId: MMSG-26355]
+corilation_2.c(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/index.htm"  	[MsgId: MMSG-26574]
+corilation_2.c(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/index.htm"  	[MsgId: MMSG-26574]
+corilation_2.c(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+corilation_2.c(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+corilation_2.c(13): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+corilation_2.c(13): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+corilation_2.c(13): Notify: Saving Parameter "c_userSession = 135577.038558121zQHDHtDpQcAiDDDDtVitcptzDfcf".
+corilation_2.c(13): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+corilation_2.c(13): web_url("index.htm") was successful, 10080 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+corilation_2.c(23): web_set_sockets_option started  	[MsgId: MMSG-26355]
+corilation_2.c(23): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+corilation_2.c(25): Notify: Transaction "login" started.
+corilation_2.c(31): Notify: Transaction "login" ended with a "Stop" status (Duration: 31.1037).
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

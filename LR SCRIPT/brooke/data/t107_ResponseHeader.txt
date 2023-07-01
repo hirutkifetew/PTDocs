@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=3600
+Content-Length: 393
+Content-Type: application/json; charset=utf-8
+X-Cache: TCP_HIT
+X-Frame-Options: SAMEORIGIN
+X-MSEdge-Ref: Ref A: 2EA3CD67E0DE4185841C0A552C798BA7 Ref B: BRU30EDGE0620 Ref C: 2023-05-19T05:55:36Z
+Date: Fri, 19 May 2023 05:55:35 GMT
+

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HTTPSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="5">
+  <HTTPTask id="54" url="https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3" origin="Primary" startDateTime="2023-05-17T21:15:44.865+03:00" startTime="60352">
+    <HTTPRequest method="POST" />
+  </HTTPTask>
+</HTTPSnapshot>

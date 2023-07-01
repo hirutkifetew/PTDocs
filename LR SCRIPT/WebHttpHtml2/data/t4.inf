@@ -1,0 +1,17 @@
+[t4]
+FileName1=t4.json
+URL1=https://edge.microsoft.com/identity/api/v3/msa
+Total=4
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=t4_RequestBody.txt
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_4.xml
+FileName2=t4_modernizr-custom.html
+URL2=https://aspectran.com/assets/js/modernizr-custom.js
+FileName3=t4_aspectran.css
+URL3=https://aspectran.com/assets/css/aspectran.css
+FileName4=t4_js.html
+URL4=https://www.googletagmanager.com/gtag/js?id=G-PBGW9BF7P6
+[ProtocolInfo]
+ProtocolId=QTWeb

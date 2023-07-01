@@ -1,0 +1,600 @@
+****** Start Log Message ******
+Web Recorder version : 2021.0.0.430 
+Recording Mode: HTML-based script
+Recording headers not in list:
+	accept
+	accept-charset
+	accept-encoding
+	accept-language
+	accept-ranges
+	age
+	allow
+	cache-control
+	content-base
+	content-disposition
+	content-encoding
+	content-language
+	content-location
+	content-md5
+	content-range
+	content-type
+	date
+	etag
+	expires
+	from
+	if-modified-since
+	if-match
+	if-none-match
+	if-range
+	if-unmodified-since
+	location
+	last-modified
+	max-forwards
+	pragma
+	public
+	range
+	retry-after
+	server
+	transfer-encoding
+	upgrade
+	user-agent
+	vary
+	via
+	warning
+	method
+	path
+	scheme
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+	application/json
+Reset context between actions
+Do not record non-HTML elements
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 2021.0.0.430
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 35 ******
+POST /Telemetry.Request HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/xml
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.22621.1635 Windows_NT/10.0.22621.1635 (x64)
+MSA_DeviceTicket: t=EwC4AlN5BAAUx7kvJOvlZVsOh3du+AzMGpNViggAAafqwhVbbuQvOWQ2+jV/RZPk8ud3YeS/SscztVKbGj5gNaH3ldL6W87MyLr7VpzkaODq8C3BrJKmmh5QWHBWfp7mMJVVnxv9SoLXbq827bUJmKkqycOW7LRXRI9RqqGv0dd3UscA8+ERR6SJOeyFGT3BV1lqNwYSl178EVTqjo0dxic08D8rZXDBYm5JyYqtDCJnUkZ4ccHJMEePao0cDRvU6S0/jl6O2Qu/dYM7o6L3yVS5uB6+3P8IrP/7aH7EsXU7vrqbfHDBOFLbNGdBylehSvxYJPntRf4YgXI5zAEz22sH71GD1fX8uW5W5itK92SqYv1c1r586Q9N+2hmIa0DZgAACCf5cQECWMSjiAGAUezITlSrShBwDPbOyy2BSCIhUwk1u908WyCZ3ras4sJrvQV0eL0wDqLJtVpBDKWVWfE2EMKLHzQtgvncusClgGQdq9+HO5vt9/d6COQk0gB+IWxUFzs1Vnu9q7SFoMIFukClTQ5IvFub6ylN/f/miEzNfmrqqLWawp67ZCiRRvt3pgJ5RuraxcSZl40sQwQC0ETF3GdmKgiGTZgE1eu4MzE3uk/aWsXnQd9uYnWIkux8vvzH0vH2fHZeFfZapiXJrCwb7zIu0mSeEyqzdoOG4t9XM3YWozTC6OXv19sQIG2sQDCv0uQef+vU0Oqe6uf3LCcC7EzzVjUIVWNh2NXl3qFhHR5+NE+5nG/gW2wAvbvQ9qAnUpElOXqqMIqimmFcy06inn/TCbPn0uKdkhNo5830G6NLtKmwUg0QrYydQFNO71fkg1F8q/hX6gVYgzR/qg3UtZqKr+jFVFuxZLN9chYaGrLhmQUCXNtEoMy+fo08scj9Gsb2Ot4nHPEsQaB9kFIv1Kw0GbgB&p=
+Content-Length: 3748
+Host: nw-umwatson.events.data.microsoft.com
+
+
+$$$$$$ Request Header For Transaction With Id 35 Ended $$$$$$
+
+****** Request Body For Transaction With Id 35 ******
+\xA0\x0E\x00\x00<?xml version="1.0"?>
+<req ver="2">
+ <tlm>
+  <src>
+   <desc>
+    <mach>
+     <os>
+      <arg nm="vermaj" val="10"/>
+      <arg nm="vermin" val="0"/>
+      <arg nm="verbld" val="22621"/>
+      <arg nm="vercsdbld" val="1702"/>
+      <arg nm="verqfe" val="1702"/>
+      <arg nm="csdbld" val="1702"/>
+      <arg nm="versp" val="0"/>
+      <arg nm="arch" val="9"/>
+      <arg nm="lcid" val="1033"/>
+      <arg nm="geoid" val="39"/>
+      <arg nm="sku" val="101"/>
+      <arg nm="domain" val="0"/>
+      <arg nm="portos" val="0"/>
+      <arg nm="ram" val="14255"/>
+      <arg nm="svolsz" val="476"/>
+      <arg nm="wimbt" val="0"/>
+      <arg nm="blddt" val="220506"/>
+      <arg nm="bldtm" val="1250"/>
+      <arg nm="bldbrch" val="ni_release"/>
+      <arg nm="os" val="Windows"/>
+      <arg nm="osver" val="10.0.22621.1702.amd64fre.ni_release.220506-1250"/>
+      <arg nm="buildflightid" val="BF0C001B-134C-4339-B0E2-ACA19BEB7787.1"/>
+      <arg nm="expid" val="RS:13F1A"/>
+      <arg nm="edition" val="Core"/>
+     </os>
+  
+$$$$$$ Request Body For Transaction With Id 35 Ended $$$$$$
+
+****** Response Header For Transaction With Id 35 ******
+HTTP/1.1 200 200 OK
+Content-Length: 634
+Content-Type: text/xml
+Server: Microsoft-HTTPAPI/2.0
+Strict-Transport-Security: max-age=31536000
+Date: Mon, 22 May 2023 16:27:49 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 35 Ended $$$$$$
+
+****** Response Body For Transaction With Id 35 ******
+<?xml version="1.0" encoding="UTF-8"?><resp ver="2"><tlm><resps><resp key="1"><namespace svc="watson" ptr="generic" gp="generic" app="msedge.exe"><arg nm="p1" val="msedge.exe" /><arg nm="p2" val="113.0.1774.50" /><arg nm="p3" val="msedge_elf.dll" /><arg nm="p4" val="113.0.1774.50" /><arg nm="p5" val="2374807" /><arg nm="p6" val="utility" /><arg nm="p7" val="0x517a7ed" /><arg nm="p8" val="0" /></namespace><cmd nm="receipt"><arg nm="tm" val="133292464457946106" /><arg nm="buckettbl" val="5" /><arg nm="bucket" val="d9d40f2da8917cfe941a32bcfce249a5" /><arg nm="ibucket" val="1448526017430964645" /></cmd></resp></resps></tlm></resp>
+$$$$$$ Response Body For Transaction With Id 35 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SSL version to 'AUTO'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 35 ****** (Location Flag : tFlagInsertEnd, Location ID : 35)
+	web_custom_request("Telemetry.Request",
+		"URL=https://nw-umwatson.events.data.microsoft.com/Telemetry.Request",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t1.inf",
+		"Mode=HTML",
+		"EncType=application/xml",
+		"BodyBinary=\\xA0\\x0E\\x00\\x00<?xml version=\"1.0\"?>\n"
+		"<req ver=\"2\">\n"
+		" <tlm>\n"
+		"  <src>\n"
+		"   <desc>\n"
+		"    <mach>\n"
+		"     <os>\n"
+		"      <arg nm=\"vermaj\" val=\"10\"/>\n"
+		"      <arg nm=\"vermin\" val=\"0\"/>\n"
+		"      <arg nm=\"verbld\" val=\"22621\"/>\n"
+		"      <arg nm=\"vercsdbld\" val=\"1702\"/>\n"
+		"      <arg nm=\"verqfe\" val=\"1702\"/>\n"
+		"      <arg nm=\"csdbld\" val=\"1702\"/>\n"
+		"      <arg nm=\"versp\" val=\"0\"/>\n"
+		"      <arg nm=\"arch\" val=\"9\"/>\n"
+		"      <arg nm=\"lcid\" val=\"1033\"/>\n"
+		"      <arg nm=\"geoid\" val=\"39\"/>\n"
+		"      <arg nm=\"sku\" val=\"101\"/>\n"
+		"      <arg nm=\"domain\" val=\"0\"/>\n"
+		"      <arg nm=\"portos\" val=\"0\"/>\n"
+		"      <arg nm=\"ram\" val=\"14255\"/>\n"
+		"      <arg nm=\"svolsz\" val=\"476\"/>\n"
+		"      <arg nm=\"wimbt\" val=\"0\"/>\n"
+		"      <arg nm=\"blddt\" val=\"220506\"/>\n"
+		"      <arg nm=\"bldtm\" val=\"1250\"/>\n"
+		"      <arg nm=\"bldbrch\" val=\"ni_release\"/>\n"
+		"      <arg nm=\"os\" val=\"Windows\"/>\n"
+		"      <arg nm=\"osver\" val=\"10.0.22621.1702.amd64fre.ni_release.220506-1250\"/>\n"
+		"      <arg nm=\"buildflightid\" val=\"BF0C001B-134C-4339-B0E2-ACA19BEB7787.1\"/>\n"
+		"      <arg nm=\"expid\" val=\"RS:13F1A\"/>\n"
+		"      <arg nm=\"edition\" val=\"Core\"/>\n"
+		"     </os>\n"
+		"     <hw>\n"
+		"      <arg nm=\"form\" val=\"2\"/>\n"
+		"      <arg nm=\"arch\" val=\"9\"/>\n"
+		"      <arg nm=\"deviceclass\" val=\"Windows.Desktop\"/>\n"
+		"      <arg nm=\"sysmfg\" val=\"HP\"/>\n"
+		"      <arg nm=\"syspro\" val=\"HP Laptop 15-ef1xxx\"/>\n"
+		"      <arg nm=\"bv\" val=\"F.54\"/>\n"
+		"      <arg nm=\"ram\" val=\"16384\"/>\n"
+		"      <arg nm=\"proccnt\" val=\"4\"/>\n"
+		"      <arg nm=\"proclsp\" val=\"2396\"/>\n"
+		"      <arg nm=\"wscpusc\" val=\"0\"/>\n"
+		"      <arg nm=\"wsdsksc\" val=\"0\"/>\n"
+		"      <arg nm=\"wscpudn\" val=\"AMD Athlon Gold 3150U with Radeon Graphics     \"/>\n"
+		"      <arg nm=\"wsdgsc\" val=\"0\"/>\n"
+		"      <arg nm=\"aoac\" val=\"0\"/>\n"
+		"      <arg nm=\"bssku\" val=\"2L7R6UA#ABL\"/>\n"
+		"      <arg nm=\"chid\" val=\"{dc2408da-5161-57d1-bde4-047dcc1973b2}\"/>\n"
+		"      <arg nm=\"sdksz\" val=\"476\"/>\n"
+		"     </hw>\n"
+		"     <ctrl>\n"
+		"      <arg nm=\"tm\" val=\"133292464184632400\"/>\n"
+		"      <arg nm=\"mid\" val=\"378D4F79-26F4-4FAC-A6EA-5A43C51D4A91\"/>\n"
+		"      <arg nm=\"sample\" val=\"59206375\"/>\n"
+		"      <arg nm=\"msft\" val=\"0\"/>\n"
+		"      <arg nm=\"test\" val=\"0\"/>\n"
+		"      <arg nm=\"scf\" val=\"0\"/>\n"
+		"      <arg nm=\"commercialid\" val=\"\"/>\n"
+		"      <arg nm=\"telemetry\" val=\"Required\"/>\n"
+		"     </ctrl>\n"
+		"    </mach>\n"
+		"   </desc>\n"
+		"  </src>\n"
+		"  <reqs>\n"
+		"   <req key=\"1\">\n"
+		"    <namespace svc=\"watson\" ptr=\"generic\" gp=\"generic\" app=\"msedge.exe\">\n"
+		"     <arg nm=\"p1\" val=\"msedge.exe\"/>\n"
+		"     <arg nm=\"p2\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p3\" val=\"msedge_elf.dll\"/>\n"
+		"     <arg nm=\"p4\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p5\" val=\"2374807\"/>\n"
+		"     <arg nm=\"p6\" val=\"utility\"/>\n"
+		"     <arg nm=\"p7\" val=\"0x517a7ed\"/>\n"
+		"     <arg nm=\"p8\" val=\"0\"/>\n"
+		"    </namespace>\n"
+		"    <ctrl>\n"
+		"     <arg nm=\"reportid\" val=\"0775edce-d8d3-47e8-a435-1aa425b2566a\"/>\n"
+		"     <arg nm=\"procmeta.Channel\" val=\"\"/>\n"
+		"     <arg nm=\"procmeta.MetricsClientId\" val=\"b2f25a6c-6acf-4be3-9a1a-8a3007ccdd40\"/>\n"
+		"     <arg nm=\"procmeta.MetricsClientIdHash\" val=\"6921235004802684617\"/>\n"
+		"     <arg nm=\"procmeta.MetricsSessionId\" val=\"721\"/>\n"
+		"     <arg nm=\"procmeta.OfficialBuild\" val=\"1\"/>\n"
+		"     <arg nm=\"procmeta.RuntimeVariationsSeedETag\" val=\"&quot;47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=&quot;\"/>\n"
+		"     <arg nm=\"procmeta.UXConfigCorrelationId\" val=\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\"/>\n"
+		"     <arg nm=\"procmeta.VariationsSeedETag\" val=\"&quot;bpO8td1Lze1n/8ryvE2+SC6mqtDH1CaehGmAvKQm7Hk=&quot;\"/>\n"
+		"    </ctrl>\n"
+		"    <cmd nm=\"event\">\n"
+		"     <arg nm=\"eventtype\" val=\"crashpad_exp\"/>\n"
+		"     <arg nm=\"cat\" val=\"generic\"/>\n"
+		"     <arg nm=\"p1\" val=\"msedge.exe\"/>\n"
+		"     <arg nm=\"p2\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p3\" val=\"msedge_elf.dll\"/>\n"
+		"     <arg nm=\"p4\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p5\" val=\"2374807\"/>\n"
+		"     <arg nm=\"p6\" val=\"utility\"/>\n"
+		"     <arg nm=\"p7\" val=\"0x517a7ed\"/>\n"
+		"     <arg nm=\"p8\" val=\"0\"/>\n"
+		"     <arg nm=\"appsessionguid\" val=\"0000014c-0003-0023-ae95-0233ca8cd901\"/>\n"
+		"    </cmd>\n"
+		"   </req>\n"
+		"  </reqs>\n"
+		" </tlm>\n"
+		"</req>\n",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 35 Ended $$$$$$
+
+****** Request Header For Transaction With Id 46 ******
+POST /Telemetry.Request HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/xml
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.22621.1635 Windows_NT/10.0.22621.1635 (x64)
+MSA_DeviceTicket: t=EwC4AlN5BAAUx7kvJOvlZVsOh3du+AzMGpNViggAAafqwhVbbuQvOWQ2+jV/RZPk8ud3YeS/SscztVKbGj5gNaH3ldL6W87MyLr7VpzkaODq8C3BrJKmmh5QWHBWfp7mMJVVnxv9SoLXbq827bUJmKkqycOW7LRXRI9RqqGv0dd3UscA8+ERR6SJOeyFGT3BV1lqNwYSl178EVTqjo0dxic08D8rZXDBYm5JyYqtDCJnUkZ4ccHJMEePao0cDRvU6S0/jl6O2Qu/dYM7o6L3yVS5uB6+3P8IrP/7aH7EsXU7vrqbfHDBOFLbNGdBylehSvxYJPntRf4YgXI5zAEz22sH71GD1fX8uW5W5itK92SqYv1c1r586Q9N+2hmIa0DZgAACCf5cQECWMSjiAGAUezITlSrShBwDPbOyy2BSCIhUwk1u908WyCZ3ras4sJrvQV0eL0wDqLJtVpBDKWVWfE2EMKLHzQtgvncusClgGQdq9+HO5vt9/d6COQk0gB+IWxUFzs1Vnu9q7SFoMIFukClTQ5IvFub6ylN/f/miEzNfmrqqLWawp67ZCiRRvt3pgJ5RuraxcSZl40sQwQC0ETF3GdmKgiGTZgE1eu4MzE3uk/aWsXnQd9uYnWIkux8vvzH0vH2fHZeFfZapiXJrCwb7zIu0mSeEyqzdoOG4t9XM3YWozTC6OXv19sQIG2sQDCv0uQef+vU0Oqe6uf3LCcC7EzzVjUIVWNh2NXl3qFhHR5+NE+5nG/gW2wAvbvQ9qAnUpElOXqqMIqimmFcy06inn/TCbPn0uKdkhNo5830G6NLtKmwUg0QrYydQFNO71fkg1F8q/hX6gVYgzR/qg3UtZqKr+jFVFuxZLN9chYaGrLhmQUCXNtEoMy+fo08scj9Gsb2Ot4nHPEsQaB9kFIv1Kw0GbgB&p=
+Content-Length: 3748
+Host: nw-umwatson.events.data.microsoft.com
+
+
+$$$$$$ Request Header For Transaction With Id 46 Ended $$$$$$
+
+****** Request Body For Transaction With Id 46 ******
+\xA0\x0E\x00\x00<?xml version="1.0"?>
+<req ver="2">
+ <tlm>
+  <src>
+   <desc>
+    <mach>
+     <os>
+      <arg nm="vermaj" val="10"/>
+      <arg nm="vermin" val="0"/>
+      <arg nm="verbld" val="22621"/>
+      <arg nm="vercsdbld" val="1702"/>
+      <arg nm="verqfe" val="1702"/>
+      <arg nm="csdbld" val="1702"/>
+      <arg nm="versp" val="0"/>
+      <arg nm="arch" val="9"/>
+      <arg nm="lcid" val="1033"/>
+      <arg nm="geoid" val="39"/>
+      <arg nm="sku" val="101"/>
+      <arg nm="domain" val="0"/>
+      <arg nm="portos" val="0"/>
+      <arg nm="ram" val="14255"/>
+      <arg nm="svolsz" val="476"/>
+      <arg nm="wimbt" val="0"/>
+      <arg nm="blddt" val="220506"/>
+      <arg nm="bldtm" val="1250"/>
+      <arg nm="bldbrch" val="ni_release"/>
+      <arg nm="os" val="Windows"/>
+      <arg nm="osver" val="10.0.22621.1702.amd64fre.ni_release.220506-1250"/>
+      <arg nm="buildflightid" val="BF0C001B-134C-4339-B0E2-ACA19BEB7787.1"/>
+      <arg nm="expid" val="RS:13F1A"/>
+      <arg nm="edition" val="Core"/>
+     </os>
+  
+$$$$$$ Request Body For Transaction With Id 46 Ended $$$$$$
+
+****** Response Header For Transaction With Id 46 ******
+HTTP/1.1 200 200 OK
+Content-Length: 634
+Content-Type: text/xml
+Server: Microsoft-HTTPAPI/2.0
+Strict-Transport-Security: max-age=31536000
+Date: Mon, 22 May 2023 16:28:21 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 46 Ended $$$$$$
+
+****** Response Body For Transaction With Id 46 ******
+<?xml version="1.0" encoding="UTF-8"?><resp ver="2"><tlm><resps><resp key="1"><namespace svc="watson" ptr="generic" gp="generic" app="msedge.exe"><arg nm="p1" val="msedge.exe" /><arg nm="p2" val="113.0.1774.50" /><arg nm="p3" val="msedge_elf.dll" /><arg nm="p4" val="113.0.1774.50" /><arg nm="p5" val="2374807" /><arg nm="p6" val="utility" /><arg nm="p7" val="0x517a7ed" /><arg nm="p8" val="0" /></namespace><cmd nm="receipt"><arg nm="tm" val="133292464810633289" /><arg nm="buckettbl" val="5" /><arg nm="bucket" val="d9d40f2da8917cfe941a32bcfce249a5" /><arg nm="ibucket" val="1448526017430964645" /></cmd></resp></resps></tlm></resp>
+$$$$$$ Response Body For Transaction With Id 46 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/Telemetry.Request
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 46 ****** (Location Flag : tFlagInsertEnd, Location ID : 46)
+	web_custom_request("Telemetry.Request_2",
+		"URL=https://nw-umwatson.events.data.microsoft.com/Telemetry.Request",
+		"Method=POST",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t2.inf",
+		"Mode=HTML",
+		"EncType=application/xml",
+		"BodyBinary=\\xA0\\x0E\\x00\\x00<?xml version=\"1.0\"?>\n"
+		"<req ver=\"2\">\n"
+		" <tlm>\n"
+		"  <src>\n"
+		"   <desc>\n"
+		"    <mach>\n"
+		"     <os>\n"
+		"      <arg nm=\"vermaj\" val=\"10\"/>\n"
+		"      <arg nm=\"vermin\" val=\"0\"/>\n"
+		"      <arg nm=\"verbld\" val=\"22621\"/>\n"
+		"      <arg nm=\"vercsdbld\" val=\"1702\"/>\n"
+		"      <arg nm=\"verqfe\" val=\"1702\"/>\n"
+		"      <arg nm=\"csdbld\" val=\"1702\"/>\n"
+		"      <arg nm=\"versp\" val=\"0\"/>\n"
+		"      <arg nm=\"arch\" val=\"9\"/>\n"
+		"      <arg nm=\"lcid\" val=\"1033\"/>\n"
+		"      <arg nm=\"geoid\" val=\"39\"/>\n"
+		"      <arg nm=\"sku\" val=\"101\"/>\n"
+		"      <arg nm=\"domain\" val=\"0\"/>\n"
+		"      <arg nm=\"portos\" val=\"0\"/>\n"
+		"      <arg nm=\"ram\" val=\"14255\"/>\n"
+		"      <arg nm=\"svolsz\" val=\"476\"/>\n"
+		"      <arg nm=\"wimbt\" val=\"0\"/>\n"
+		"      <arg nm=\"blddt\" val=\"220506\"/>\n"
+		"      <arg nm=\"bldtm\" val=\"1250\"/>\n"
+		"      <arg nm=\"bldbrch\" val=\"ni_release\"/>\n"
+		"      <arg nm=\"os\" val=\"Windows\"/>\n"
+		"      <arg nm=\"osver\" val=\"10.0.22621.1702.amd64fre.ni_release.220506-1250\"/>\n"
+		"      <arg nm=\"buildflightid\" val=\"BF0C001B-134C-4339-B0E2-ACA19BEB7787.1\"/>\n"
+		"      <arg nm=\"expid\" val=\"RS:13F1A\"/>\n"
+		"      <arg nm=\"edition\" val=\"Core\"/>\n"
+		"     </os>\n"
+		"     <hw>\n"
+		"      <arg nm=\"form\" val=\"2\"/>\n"
+		"      <arg nm=\"arch\" val=\"9\"/>\n"
+		"      <arg nm=\"deviceclass\" val=\"Windows.Desktop\"/>\n"
+		"      <arg nm=\"sysmfg\" val=\"HP\"/>\n"
+		"      <arg nm=\"syspro\" val=\"HP Laptop 15-ef1xxx\"/>\n"
+		"      <arg nm=\"bv\" val=\"F.54\"/>\n"
+		"      <arg nm=\"ram\" val=\"16384\"/>\n"
+		"      <arg nm=\"proccnt\" val=\"4\"/>\n"
+		"      <arg nm=\"proclsp\" val=\"2396\"/>\n"
+		"      <arg nm=\"wscpusc\" val=\"0\"/>\n"
+		"      <arg nm=\"wsdsksc\" val=\"0\"/>\n"
+		"      <arg nm=\"wscpudn\" val=\"AMD Athlon Gold 3150U with Radeon Graphics     \"/>\n"
+		"      <arg nm=\"wsdgsc\" val=\"0\"/>\n"
+		"      <arg nm=\"aoac\" val=\"0\"/>\n"
+		"      <arg nm=\"bssku\" val=\"2L7R6UA#ABL\"/>\n"
+		"      <arg nm=\"chid\" val=\"{dc2408da-5161-57d1-bde4-047dcc1973b2}\"/>\n"
+		"      <arg nm=\"sdksz\" val=\"476\"/>\n"
+		"     </hw>\n"
+		"     <ctrl>\n"
+		"      <arg nm=\"tm\" val=\"133292464782090460\"/>\n"
+		"      <arg nm=\"mid\" val=\"378D4F79-26F4-4FAC-A6EA-5A43C51D4A91\"/>\n"
+		"      <arg nm=\"sample\" val=\"59206375\"/>\n"
+		"      <arg nm=\"msft\" val=\"0\"/>\n"
+		"      <arg nm=\"test\" val=\"0\"/>\n"
+		"      <arg nm=\"scf\" val=\"0\"/>\n"
+		"      <arg nm=\"commercialid\" val=\"\"/>\n"
+		"      <arg nm=\"telemetry\" val=\"Required\"/>\n"
+		"     </ctrl>\n"
+		"    </mach>\n"
+		"   </desc>\n"
+		"  </src>\n"
+		"  <reqs>\n"
+		"   <req key=\"1\">\n"
+		"    <namespace svc=\"watson\" ptr=\"generic\" gp=\"generic\" app=\"msedge.exe\">\n"
+		"     <arg nm=\"p1\" val=\"msedge.exe\"/>\n"
+		"     <arg nm=\"p2\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p3\" val=\"msedge_elf.dll\"/>\n"
+		"     <arg nm=\"p4\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p5\" val=\"2374807\"/>\n"
+		"     <arg nm=\"p6\" val=\"utility\"/>\n"
+		"     <arg nm=\"p7\" val=\"0x517a7ed\"/>\n"
+		"     <arg nm=\"p8\" val=\"0\"/>\n"
+		"    </namespace>\n"
+		"    <ctrl>\n"
+		"     <arg nm=\"reportid\" val=\"cf10eabe-456b-4a9e-9722-1f7261809f03\"/>\n"
+		"     <arg nm=\"procmeta.Channel\" val=\"\"/>\n"
+		"     <arg nm=\"procmeta.MetricsClientId\" val=\"b2f25a6c-6acf-4be3-9a1a-8a3007ccdd40\"/>\n"
+		"     <arg nm=\"procmeta.MetricsClientIdHash\" val=\"6921235004802684617\"/>\n"
+		"     <arg nm=\"procmeta.MetricsSessionId\" val=\"721\"/>\n"
+		"     <arg nm=\"procmeta.OfficialBuild\" val=\"1\"/>\n"
+		"     <arg nm=\"procmeta.RuntimeVariationsSeedETag\" val=\"&quot;47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=&quot;\"/>\n"
+		"     <arg nm=\"procmeta.UXConfigCorrelationId\" val=\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\"/>\n"
+		"     <arg nm=\"procmeta.VariationsSeedETag\" val=\"&quot;bpO8td1Lze1n/8ryvE2+SC6mqtDH1CaehGmAvKQm7Hk=&quot;\"/>\n"
+		"    </ctrl>\n"
+		"    <cmd nm=\"event\">\n"
+		"     <arg nm=\"eventtype\" val=\"crashpad_exp\"/>\n"
+		"     <arg nm=\"cat\" val=\"generic\"/>\n"
+		"     <arg nm=\"p1\" val=\"msedge.exe\"/>\n"
+		"     <arg nm=\"p2\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p3\" val=\"msedge_elf.dll\"/>\n"
+		"     <arg nm=\"p4\" val=\"113.0.1774.50\"/>\n"
+		"     <arg nm=\"p5\" val=\"2374807\"/>\n"
+		"     <arg nm=\"p6\" val=\"utility\"/>\n"
+		"     <arg nm=\"p7\" val=\"0x517a7ed\"/>\n"
+		"     <arg nm=\"p8\" val=\"0\"/>\n"
+		"     <arg nm=\"appsessionguid\" val=\"00001af8-0003-0023-1e7c-ae58ca8cd901\"/>\n"
+		"    </cmd>\n"
+		"   </req>\n"
+		"  </reqs>\n"
+		" </tlm>\n"
+		"</req>\n",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 46 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 35)
+	web_add_auto_header("MSA_DeviceTicket",
+		"t=EwC4AlN5BAAUx7kvJOvlZVsOh3du+AzMGpNViggAAafqwhVbbuQvOWQ2+jV/RZPk8ud3YeS/SscztVKbGj5gNaH3ldL6W87MyLr7VpzkaODq8C3BrJKmmh5QWHBWfp7mMJVVnxv9SoLXbq827bUJmKkqycOW7LRXRI9RqqGv0dd3UscA8+ERR6SJOeyFGT3BV1lqNwYSl178EVTqjo0dxic08D8rZXDBYm5JyYqtDCJnUkZ4ccHJMEePao0cDRvU6S0/jl6O2Qu/dYM7o6L3yVS5uB6+3P8IrP/7aH7EsXU7vrqbfHDBOFLbNGdBylehSvxYJPntRf4YgXI5zAEz22sH71GD1fX8uW5W5itK92SqYv1c1r586Q9N+2hmIa0DZgAACCf5cQECWMSjiAGAUezITlSrShBwDPbOyy2BSCIhUwk1u908WyCZ3ras4sJrvQV0eL0wDqLJtVpBDKWVWfE2EMKLHzQtgvncusClgGQdq9+HO5vt9/d6COQk0gB+IWxUFzs1Vnu9q7SFoMIFukClTQ5IvFub6ylN/f/miEzNfmrqqLWawp67ZCiRRvt3pgJ5RuraxcSZl40sQwQC0ETF3GdmKgiGTZgE1eu4MzE3uk/aWsXnQd9uYnWIkux8vvzH0vH2fHZeFfZapiXJrCwb7zIu0mSeEyqzdoOG4t9XM3YWozTC6OXv19sQIG2sQDCv0uQef+vU0Oqe6uf3LCcC7EzzVjUIVWNh2NXl3qFhHR5+NE+5nG/gW2wAvbvQ9qAnUpElOXqqMIqimmFcy06inn/TCbPn0uKdkhNo5830G6NLtKmwUg0QrYydQFNO71fkg1F8q/hX6gVYgzR/qg3UtZqKr+jFVFuxZLN9chYaGrLhmQUCXNtEoMy+fo08scj9Gsb2Ot4nHPEsQaB9kFIv1Kw0GbgB&p=");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 50 ******
+GET /extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+EdgeFeatureFlags: {"ExtensionUseNewStoreKeys":true,"UseHttpsForDownload":true}
+Update-Interactivity: bg
+MS-CV: EHXGIQMrUntCRgJEfyCmeP
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 50 Ended $$$$$$
+
+****** Response Header For Transaction With Id 50 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 413
+Content-Type: text/xml; charset=utf-8
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: EF0BB2ADEA79437F9628A9F46BAB4C17 Ref B: CO1EDGE1214 Ref C: 2023-05-22T16:28:26Z
+Date: Mon, 22 May 2023 16:28:26 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 50 Ended $$$$$$
+
+****** Response Body For Transaction With Id 50 ******
+<?xml version="1.0" encoding="utf-8"?><gupdate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" server="prod" protocol="2.0" xmlns="http://www.google.com/update2/response"><daystart elapsed_days="1602" elapsed_seconds="59306" /><app appid="jmjflgjpcpepeafmmgdpfkogkghcpiha" cv="EHXGIQMrUntCRgJEfyCmeP" status="ok"><updatecheck status="noupdate" /></app></gupdate>
+$$$$$$ Response Body For Transaction With Id 50 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/Telemetry.Request
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 50 ****** (Location Flag : tFlagInsertEnd, Location ID : 50)
+	web_url("crx",
+		"URL=https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t3.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 50 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_revert_auto_header("MSA_DeviceTicket");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 64 ******
+GET /extensionrevocation/v1/threatListUpdates:fetch?req=ChcKBm1zZWRnZRINMTEzLjAuMTc3NC41MBobCAEQCBoNMTY3NzEzMTM3MDQxOSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362&ei=N HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+X-HTTP-Method-Override: POST
+Sec-Mesh-Client-Edge-Version: 113.0.1774.50
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22621
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+
+
+$$$$$$ Request Header For Transaction With Id 64 Ended $$$$$$
+
+****** Response Header For Transaction With Id 64 ******
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=900
+Transfer-Encoding: chunked
+Content-Type: application/x-protobuf
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: TCP_HIT
+X-MSEdge-Ref: Ref A: C35250DD8B5444C487B9056ACA9A9516 Ref B: CO1EDGE1609 Ref C: 2023-05-22T16:28:35Z
+Date: Mon, 22 May 2023 16:28:35 GMT
+
+
+$$$$$$ Response Header For Transaction With Id 64 Ended $$$$$$
+
+****** Response Body For Transaction With Id 64 ******
+
+\x15\x08\x01\x10\x04\x18\x08:1677131370419\x12\x04\x08\xE0\xA8\x01
+$$$$$$ Response Body For Transaction With Id 64 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_add_header("EdgeFeatureFlags",
+		"{\"ExtensionUseNewStoreKeys\":true,\"UseHttpsForDownload\":true}");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_add_header("MS-CV",
+		"EHXGIQMrUntCRgJEfyCmeP");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_add_header("Sec-Fetch-Dest",
+		"empty");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_add_header("Sec-Fetch-Mode",
+		"no-cors");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_add_header("Sec-Fetch-Site",
+		"none");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 50)
+	web_add_header("Update-Interactivity",
+		"bg");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+

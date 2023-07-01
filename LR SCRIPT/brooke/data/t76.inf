@@ -1,0 +1,13 @@
+[t76]
+FileName1=t76.json
+URL1=https://edge.microsoft.com/identity/api/v3/msa
+Total=2
+RequestHeaderFile=t76_RequestHeader.txt
+RequestBodyFile=t76_RequestBody.txt
+ResponseHeaderFile=t76_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_76.xml
+FileName2=t76_mer_login.gif
+URL2=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

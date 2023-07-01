@@ -1,0 +1,11 @@
+[t101]
+FileName1=t101.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:77uwpKHl6OOLQocS0VOKyprdyfeUpPPFzxC9mVwkMA0&cup2hreq=6cf6ec639075f82557ec8d93f45bf3bd919cd09960d950ee1820c54de92f7366
+Total=1
+RequestHeaderFile=t101_RequestHeader.txt
+RequestBodyFile=t101_RequestBody.txt
+ResponseHeaderFile=t101_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_101.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

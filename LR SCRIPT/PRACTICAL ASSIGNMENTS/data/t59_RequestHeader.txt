@@ -1,0 +1,9 @@
+POST /report/v3?s=RS0c8b8esofmIvCKID6%2Fp2Z%2Bv7w7%2FyQw8b9GA2yjsogcmuZhAuWo8EuYpZFJRkgrQKnCkl%2BKtqjLGJhC0esRzQ3bCxHDEC1q%2BdcPeqJTdU2JkUkC9NoFMEyKYcWACTyXOdM0rQ4lF0hAeg%3D%3D HTTP/1.1
+Host: a.nel.cloudflare.com
+Connection: keep-alive
+Content-Length: 470
+Content-Type: application/reports+json
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

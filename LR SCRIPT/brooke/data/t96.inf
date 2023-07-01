@@ -1,0 +1,13 @@
+[t96]
+FileName1=t96_crx.xml
+URL1=https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.42&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D0.0.0.0%26installedby%3Dother%26uc%26ping%3Dr%253D-1%2526e%253D1
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_96.xml
+RequestHeaderFile=t96_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t96_ResponseHeader.txt
+FileName2=t96_f86d8688-be59-4ce5-9f0b-4da16f12f4f5.html
+URL2=https://msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/f86d8688-be59-4ce5-9f0b-4da16f12f4f5?P1=1685040704&P2=404&P3=2&P4=F1jNADhUAYK%2fajnV2cofatnGngPDSVRPuoVokY2%2b%2bwGeSbfyHbQVu2f0vlFLIYpiJFsExKWI6NpfIKxu513psw%3d%3d
+[ProtocolInfo]
+ProtocolId=QTWeb

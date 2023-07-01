@@ -1,0 +1,70 @@
+Virtual User Script started at: 2023-04-21 9:32:05 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\kokob\Desktop\LR SCRIPT\DINISH ASIGNMENT\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(30): web_url("catalog") started  	[MsgId: MMSG-26355]
+Action.c(30): Warning -26604: Unsupported "Content-Encoding"  	[MsgId: MWAR-26604]
+Action.c(30): web_url("catalog") highest severity level was "warning", 5586 body bytes, 668 header bytes  	[MsgId: MMSG-26388]
+Action.c(124): Notify: Transaction "SIGN IN" started.
+Action.c(141): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(141): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(144): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(144): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(147): web_add_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(147): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(150): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(150): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(153): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(153): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(156): web_custom_request("collect") started  	[MsgId: MMSG-26355]
+Action.c(156): web_custom_request("collect") was successful, 0 body bytes, 421 header bytes  	[MsgId: MMSG-26386]
+Action.c(167): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(167): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(167): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(180): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(180): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(182): Notify: Transaction "SIGN IN" ended with a "Pass" status (Duration: 1.0224 Wasted Time: 0.0351).
+Action.c(184): Notify: Transaction "LOGIN" started.
+Action.c(186): web_remove_auto_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(186): Previous automatically added web header for "sec-ch-ua" removed  	[MsgId: MMSG-26587]
+Action.c(186): web_remove/revert_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(188): web_remove_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(188): Previous automatically added web header for "sec-ch-ua-mobile" removed  	[MsgId: MMSG-26587]
+Action.c(188): web_remove/revert_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(190): web_remove_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(190): Previous automatically added web header for "sec-ch-ua-platform" removed  	[MsgId: MMSG-26587]
+Action.c(190): web_remove/revert_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(192): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(192): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(210): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(210): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(227): Notify: Transaction "LOGIN" ended with a "Pass" status (Duration: 0.0922).
+Action.c(231): Notify: Transaction "FISH" started.
+Action.c(248): Notify: Transaction "FISH" ended with a "Pass" status (Duration: 0.0031).
+Action.c(252): Notify: Transaction "PRODUCT ID" started.
+Action.c(269): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(269): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(271): Notify: Transaction "PRODUCT ID" ended with a "Pass" status (Duration: 0.0307).
+Action.c(275): Notify: Transaction "ADD TO CART" started.
+Action.c(292): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(292): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(294): Notify: Transaction "ADD TO CART" ended with a "Pass" status (Duration: 0.0316).
+Action.c(347): Notify: Transaction "PROCEED TO CHECKOUT" started.
+Action.c(364): Notify: Transaction "PROCEED TO CHECKOUT" ended with a "Pass" status (Duration: 0.0151).
+Action.c(385): Notify: Transaction "PAYMENT" started.
+Action.c(417): Notify: Transaction "PAYMENT" ended with a "Pass" status (Duration: 0.0154).
+Action.c(421): Notify: Transaction "SIGNOUT" started.
+Action.c(453): Notify: Transaction "SIGNOUT" ended with a "Pass" status (Duration: 0.0152).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

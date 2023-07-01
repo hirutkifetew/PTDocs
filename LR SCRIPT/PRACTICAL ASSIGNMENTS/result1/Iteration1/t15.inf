@@ -1,0 +1,13 @@
+[t15]
+SnapshotXmlFile=snapshot_15.xml
+ContentType=text/html
+StepName=Custom Request: v3_2
+Total=1
+FileName1=t5.html
+RequestHeaderFile=t15_RequestHeader.txt
+ResponseHeaderFile=t15_ResponseHeader.txt
+RawStepEndTime=1681664577485
+RawStepName=v3_2
+RequestBodyFile=t15_RequestBody.txt
+RawStepStartTime=1681664576785
+URL1=file:

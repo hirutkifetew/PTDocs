@@ -1,0 +1,13 @@
+[t10]
+FileName1=t10.json
+URL1=https://www.bing.com/api/shopping/v1/telemetry
+Total=2
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=t10_RequestBody.txt
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_driving.png
+URL2=https://ecn.dev.virtualearth.net/REST/v1/Imagery/Map/RoadVibrant/Routes/driving?ms=266,166&culture=en-ca&waypoint.1=51.5315704345703,4.45984792709351;drsp.f;+&waypoint.2=51.4941024780273,4.28784322738647;drep.f;+&mapLayer=TrafficFlow,Basemap,trafficroute,OsmBuildings&key=AugYTsAbLKj7moSUfsxalWlCFq3qnO8wjRy5Pp4tXwCpwW0gClh_Eq0gwMSHPcLK&fmt=png&da=ro&logo=n
+[ProtocolInfo]
+ProtocolId=QTWeb

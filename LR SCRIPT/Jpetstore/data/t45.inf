@@ -1,0 +1,13 @@
+[t45]
+FileName1=t45.htm
+URL1=https://petstore.octoperf.com/actions/Catalog.action?viewItem=&itemId=EST-6
+Total=2
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_45.xml
+FileName2=t45_dog2.gif
+URL2=https://petstore.octoperf.com/images/dog2.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

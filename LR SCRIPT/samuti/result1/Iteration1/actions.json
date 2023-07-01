@@ -1,0 +1,156 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: v3",
+                "infFile": "t1.inf",
+                "time": 1684774624074
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1684774624957
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: crx",
+                "infFile": "t3.inf",
+                "time": 1684774626371
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: msa",
+                "infFile": "t4.inf",
+                "time": 1684774628334
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: 3",
+                "infFile": "t5.inf",
+                "time": 1684774632669
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: 3_2",
+                "infFile": "t6.inf",
+                "time": 1684774640940
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: 3_3",
+                "infFile": "t7.inf",
+                "time": 1684774651422
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: 3_4",
+                "infFile": "t8.inf",
+                "time": 1684774659254
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: 3_5",
+                "infFile": "t9.inf",
+                "time": 1684774674339
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: rewardsUserInfo",
+                "infFile": "t10.inf",
+                "time": 1684774678409
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t11.inf",
+                "time": 1684774679132
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: 3_6",
+                "infFile": "t12.inf",
+                "time": 1684774681733
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: 3_7",
+                "infFile": "t13.inf",
+                "time": 1684774683447
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: 3_8",
+                "infFile": "t14.inf",
+                "time": 1684774685703
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: update",
+                "infFile": "t15.inf",
+                "time": 1684774697585
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: update_2",
+                "infFile": "t16.inf",
+                "time": 1684774697875
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t17.inf",
+                "time": 1684774698708
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Custom Request: 3_9",
+                "infFile": "t18.inf",
+                "time": 1684774754368
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: 3_10",
+                "infFile": "t19.inf",
+                "time": 1684774755988
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: 3_11",
+                "infFile": "t20.inf",
+                "time": 1684774756654
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Submit Data: reservations.pl",
+                "infFile": "t21.inf",
+                "time": 1684774757147
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1684774678429,
+                "rawEndTime": 1684774697601,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07419729232788086
+            },
+            {
+                "transactionName": "navigate flight",
+                "rawStartTime": 1684774697882,
+                "rawEndTime": 1684774756658,
+                "thinkTime": 0.0,
+                "wastedTime": 0.07041764259338379
+            },
+            {
+                "transactionName": "find flight",
+                "rawStartTime": 1684774756675,
+                "rawEndTime": 1684774757151,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011647462844848633
+            }
+        ]
+    }
+]

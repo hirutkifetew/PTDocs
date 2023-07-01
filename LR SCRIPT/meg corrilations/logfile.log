@@ -1,0 +1,10 @@
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: illegal expression
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: syntax error; found `s' expecting `)'
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: syntax error; found `s' expecting `)'
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: syntax error; found `s' expecting `;'
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: undeclared identifier `s'
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: warning: expression with no effect elided
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: syntax error; found `)' expecting `;'
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: illegal statement termination
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: corilation_2.c:114: error: skipping `)'
+c:\users\kokob\desktop\lr script\meg corrilations\\pre_cci.c: c:\\users\\kokob\\desktop\\lr script\\meg corrilations\\\\combined_meg corrilations.c:7: error: 8 errors, not writing pre_cci.ci

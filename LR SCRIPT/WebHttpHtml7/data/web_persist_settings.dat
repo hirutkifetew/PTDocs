@@ -1,0 +1,39 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/05/21 17:42:16
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/05/21 17:45:18
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2023/05/22 16:46:58
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2023/05/22 16:50:51
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2023/05/22 17:23:21
+StartRecordingIsDst_5=0
+StartRecordingGMT_6=2023/05/22 17:24:56
+StartRecordingIsDst_6=0
+StartRecordingGMT_7=2023/05/22 17:28:34
+StartRecordingIsDst_7=0
+StartRecordingGMT_8=2023/05/22 17:31:02
+StartRecordingIsDst_8=0
+StartRecordingGMT_9=2023/05/22 17:35:38
+StartRecordingIsDst_9=0
+StartRecordingGMT_10=2023/05/22 17:40:50
+StartRecordingIsDst_10=0
+StartRecordingGMT_11=2023/05/22 17:44:21
+StartRecordingIsDst_11=0
+StartRecordingGMT_12=2023/05/22 17:48:18
+StartRecordingIsDst_12=0
+StartRecordingGMT_13=2023/05/23 09:51:12
+StartRecordingIsDst_13=0
+StartRecordingGMT_14=2023/05/23 09:55:00
+StartRecordingIsDst_14=0
+StartRecordingGMT_15=2023/05/23 19:13:32
+StartRecordingIsDst_15=0
+StartRecordingGMT_16=2023/05/24 08:22:33
+StartRecordingIsDst_16=0
+StartRecordingGMT_17=2023/05/24 08:54:50
+StartRecordingIsDst_17=0
+[User-Agent]
+User-Agent=Crashpad/0.8.0 WinHTTP/10.0.22621.1485 Windows_NT/10.0.22621.1485 (x64)
+[Security]
+UsingPersistForAuthentication=1

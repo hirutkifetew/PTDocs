@@ -1,0 +1,8 @@
+"{\"msisdn\":\"202301198425\",\"name\":\"alttab\",\"emailAddress\":\"alttab@abc.com\",\"languag"
+"e\":\"English\",\"protocolVersion\":\"\",\"serviceUri\":\"\",\"walletStatus\":\"1\",\"dfsWalle"
+"tBank\":[{\"bankwalletid\":\"154\",\"bankAccount\":\"1234567895\",\"bankAccountHashCode\":null"
+",\"walletBankId\":null}],\"dfsRegisterAgent\":{\"companyName\":\"alttab\",\"alternativeEmailAd"
+"dress1\":\"\",\"alternativeEmailAddress2\":\"\",\"smsAddress\":\"\",\"kvkId\":\"\",\"contactNo"
+"\":\"\",\"locality\":\"Bengaluru-South\",\"companyAddress\":\"\",\"type_id\":\"1\",\"registerA"
+"gentId\":\"\"},\"dfsProfilePictureDto\":{\"profilePicture\":\"\"},\"walletId\":\"\",\"file\":\""
+"\",\"date\":\"2023-01-19T13:55:38.108Z\"}"

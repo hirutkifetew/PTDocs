@@ -1,0 +1,27 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2023/01/19 11:50:03
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2023/01/19 12:09:51
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2023/01/19 12:14:30
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2023/01/19 13:41:12
+StartRecordingIsDst_4=0
+StartRecordingGMT_5=2023/01/19 13:44:05
+StartRecordingIsDst_5=0
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+[Security]
+UsingPersistForAuthentication=1
+UserName_2_1=USER_CLIENT_APP
+Password_2_1=password
+Realm_2_1=www.ishatrainingsolutions.com:443
+EventId_2_1=3557
+UserName_4_1=USER_CLIENT_APP
+Password_4_1=password
+Realm_4_1=www.ishatrainingsolutions.com:443
+EventId_4_1=5308
+UserName_5_1=USER_CLIENT_APP
+Password_5_1=password
+Realm_5_1=www.ishatrainingsolutions.com:443
+EventId_5_1=6164

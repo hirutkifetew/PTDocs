@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Content-Encoding: br
+Vary: Accept-Encoding
+X-Ceto-ref: 644817c4528941418583ee8f2261955a|2023-04-25T18:11:16.559Z
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 560BF5B3791743CABC1CAC2ED96199F6 Ref B: PRAEDGE0913 Ref C: 2023-04-25T18:11:16Z
+Set-Cookie: _EDGE_S=F=1&SID=19AD41ACF6886EB61E385352F73C6F01; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Sun, 19-May-2024 18:11:16 GMT; domain=bing.com
+Set-Cookie: MUID=28DF1CCB409867B631900E35412C66A7; samesite=none; path=/; secure; expires=Sun, 19-May-2024 18:11:16 GMT; domain=bing.com
+Set-Cookie: MUIDB=28DF1CCB409867B631900E35412C66A7; path=/; httponly; expires=Sun, 19-May-2024 18:11:16 GMT
+Date: Tue, 25 Apr 2023 18:11:15 GMT
+

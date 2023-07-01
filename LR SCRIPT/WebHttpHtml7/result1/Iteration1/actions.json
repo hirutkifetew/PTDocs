@@ -1,0 +1,125 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: Telemetry.Request",
+                "infFile": "t1.inf",
+                "time": 1684918777742
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1684918778207
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: v3",
+                "infFile": "t3.inf",
+                "time": 1684918779628
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: 3",
+                "infFile": "t4.inf",
+                "time": 1684918780818
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: crx",
+                "infFile": "t5.inf",
+                "time": 1684918781261
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: msa",
+                "infFile": "t6.inf",
+                "time": 1684918781673
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: 3_2",
+                "infFile": "t7.inf",
+                "time": 1684918782617
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: 3_3",
+                "infFile": "t8.inf",
+                "time": 1684918783734
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: rewardsUserInfo",
+                "infFile": "t9.inf",
+                "time": 1684918785057
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: DomainsFilterGlobal.json",
+                "infFile": "t10.inf",
+                "time": 1684918787622
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: 3_4",
+                "infFile": "t11.inf",
+                "time": 1684918788640
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: 3_5",
+                "infFile": "t12.inf",
+                "time": 1684918789980
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: search",
+                "infFile": "t13.inf",
+                "time": 1684918790573
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: update",
+                "infFile": "t14.inf",
+                "time": 1684918791516
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: telemetry",
+                "infFile": "t15.inf",
+                "time": 1684918792517
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: data",
+                "infFile": "t16.inf",
+                "time": 1684918798794
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t17.inf",
+                "time": 1684918799114
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1684918798804,
+                "rawEndTime": 1684918799120,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008535385131835938
+            },
+            {
+                "transactionName": "Navigate Flight",
+                "rawStartTime": 1684918799136,
+                "rawEndTime": 1684918799339,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]

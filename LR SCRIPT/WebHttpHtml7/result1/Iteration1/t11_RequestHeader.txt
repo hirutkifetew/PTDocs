@@ -1,0 +1,13 @@
+POST /api/browser/edge/navigate/3 HTTP/1.1
+Content-Type: application/json; charset=utf-8
+Sec-Fetch-Site: none
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.22621.1485 Windows_NT/10.0.22621.1485 (x64)
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: nav-edge.smartscreen.microsoft.com
+Content-Length: 1687
+

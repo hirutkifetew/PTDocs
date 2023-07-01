@@ -1,0 +1,14 @@
+GET /adminPortal/secQue HTTP/1.1
+Host: www.ishatrainingsolutions.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiVVNFUl9DTElFTlRfUkVTT1VSQ0UiLCJVU0VSX0FETUlOX1JFU09VUkNFIl0sInJvbGUiOjMsInVzZXJfbmFtZSI6ImlzaGF0cmFpbmluZ3NvbHV0aW9uIiwic2NvcGUiOlsicm9sZV9zdGF0aWMiXSwiaWQiOjUsImV4cCI6MTY3NDE0NDcwMCwiYXV0aG9yaXRpZXMiOlsicm9sZV9zdGF0aWMiXSwianRpIjoiYjFhMWEwMjItN2ExNC00ZGU0LWJmM2UtZTU0ZTM2Nzc4Y2U1IiwiZW1haWwiOiJpc2hhdHJhaW5pbmdzb2x1dGlvbkBnbWFpbC5jb20iLCJjbGllbnRfaWQiOiJVU0VSX0NMSUVOVF9BUFAifQ.QMYGcP4b-iaJncqLlo91n1ZfcJmbl_-HrC0NNqeM-UzhEZSOGvdkYAZQow9zVHmb5nP05BNpRO8MK7XAjLesCf1D2hlhveGkLGJBqY0RVCDRFYqmfa7XIg2lr0GL9lIRXsIQXhg3qLkiQrqNpwwDc5jIsrv-3MqMcPV-A7L3QKjiqJ358wMxdAf4-f0vz6zPflCsEc_qJN_WeelSxru-t9hfQIQXzvc9JFdgXVkkIACpwgqTE4s_d4v66jsUamqN2I2VzybK98vwAisYt9MqH6MtuXhBY-waRhYWuDtYH7vHOUGftfyKJThnavsKjWqbSLnVi4lckzKmSrkoKN2BvA
+DNT: 1
+Connection: keep-alive
+Referer: https://www.ishatrainingsolutions.com/validate
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+

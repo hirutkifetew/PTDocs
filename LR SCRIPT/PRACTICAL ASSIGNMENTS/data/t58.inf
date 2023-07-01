@@ -1,0 +1,11 @@
+[t58]
+FileName1=t58.html
+URL1=https://a.nel.cloudflare.com/report/v3?s=RS0c8b8esofmIvCKID6%2Fp2Z%2Bv7w7%2FyQw8b9GA2yjsogcmuZhAuWo8EuYpZFJRkgrQKnCkl%2BKtqjLGJhC0esRzQ3bCxHDEC1q%2BdcPeqJTdU2JkUkC9NoFMEyKYcWACTyXOdM0rQ4lF0hAeg%3D%3D
+Total=1
+RequestHeaderFile=t58_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t58_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_58.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

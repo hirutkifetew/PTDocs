@@ -1,0 +1,17 @@
+[t31]
+FileName1=t31_data.json
+URL1=https://www.bing.com/profile/history/data?do=2&userAccountType=0
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_31.xml
+RequestHeaderFile=t31_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t31_ResponseHeader.txt
+FileName2=t31_th.jpg
+URL2=https://th.bing.com/th?id=ORMS.27a8280809ec089bf3c434d9a45dd090&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+FileName3=t31_th.jpg
+URL3=https://th.bing.com/th?id=ORMS.b6731f25be300d1924255ba57840e409&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+FileName4=t31_th.jpg
+URL4=https://th.bing.com/th?id=ORMS.6792d89de01f029b7bdc3bcd45362502&pid=Wdp&w=612&h=304&qlt=90&c=1&rs=1&dpr=1&p=0
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,6 @@
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c: Action.c:67: error: undeclared identifier `LB'
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c: Action.c:67: error: operands of = have illegal types `int' and `pointer to char'
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c: Action.c:67: error: undeclared identifier `RB'
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c: Action.c:67: error: illegal character `\'
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c: Action.c:67: error: operands of = have illegal types `int' and `pointer to char'
+c:\users\kokob\desktop\lr script\computer database\\pre_cci.c: c:\\users\\kokob\\desktop\\lr script\\computer database\\\\combined_Computer Database.c:6: error: 5 errors, not writing pre_cci.ci

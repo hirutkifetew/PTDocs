@@ -1,0 +1,670 @@
+Virtual User Script started at: 2023-06-09 11:35:01 AM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (Jan 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\kokob\Desktop\LR SCRIPT\MAMAYE\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): web_add_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(6): web_add_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(9): web_add_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(9): web_add_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(12): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(12): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(15): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(15): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(18): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(18): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(21): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(21): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(24): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(24): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(27): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(27): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(29): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(29): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(34): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(34): Redirecting "http://127.0.0.1:1080/WebTours" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(34): To location "http://127.0.0.1:1080/WebTours/"  	[MsgId: MMSG-26693]
+Action.c(34): Detected non-resource "http://127.0.0.1:1080/WebTours/header.html" in "http://127.0.0.1:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(34): Detected non-resource "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true" in "http://127.0.0.1:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(34): Found resource "http://127.0.0.1:1080/WebTours/images/hp_logo.png" in HTML "http://127.0.0.1:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(34): Found resource "http://127.0.0.1:1080/WebTours/images/webtours.png" in HTML "http://127.0.0.1:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(34): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(34): Detected non-resource "http://127.0.0.1:1080/WebTours/home.html" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(34): Notify: Saving Parameter "userSession = 136597.788659376HAczctipHftVzzzHtcVfHptQcfcf".
+Action.c(34): Found resource "http://127.0.0.1:1080/WebTours/images/mer_login.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(34): web_url("WebTours") was successful, 10319 body bytes, 2637 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(43): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(43): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(46): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(46): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(49): web_add_header("Sec-Mesh-Client-Arch") started  	[MsgId: MMSG-26355]
+Action.c(49): web_add_header("Sec-Mesh-Client-Arch") was successful  	[MsgId: MMSG-26392]
+Action.c(52): web_add_header("Sec-Mesh-Client-Edge-Channel") started  	[MsgId: MMSG-26355]
+Action.c(52): web_add_header("Sec-Mesh-Client-Edge-Channel") was successful  	[MsgId: MMSG-26392]
+Action.c(55): web_add_header("Sec-Mesh-Client-Edge-Version") started  	[MsgId: MMSG-26355]
+Action.c(55): web_add_header("Sec-Mesh-Client-Edge-Version") was successful  	[MsgId: MMSG-26392]
+Action.c(58): web_add_header("Sec-Mesh-Client-OS") started  	[MsgId: MMSG-26355]
+Action.c(58): web_add_header("Sec-Mesh-Client-OS") was successful  	[MsgId: MMSG-26392]
+Action.c(61): web_add_header("Sec-Mesh-Client-OS-Version") started  	[MsgId: MMSG-26355]
+Action.c(61): web_add_header("Sec-Mesh-Client-OS-Version") was successful  	[MsgId: MMSG-26392]
+Action.c(64): web_add_header("Sec-Mesh-Client-WebView") started  	[MsgId: MMSG-26355]
+Action.c(64): web_add_header("Sec-Mesh-Client-WebView") was successful  	[MsgId: MMSG-26392]
+Action.c(67): web_url("v3") started  	[MsgId: MMSG-26355]
+Action.c(67): web_url("v3") was successful, 131 body bytes, 326 header bytes  	[MsgId: MMSG-26386]
+Action.c(76): web_custom_request("rewardsUserInfo") started  	[MsgId: MMSG-26355]
+Action.c(76): Warning: The string '"anid":"61DA64BFEC386413636BD286FFFFFFFF"' with parameter delimiters is not a parameter.
+Action.c(76): web_custom_request("rewardsUserInfo") was successful, 109 body bytes, 992 header bytes  	[MsgId: MMSG-26386]
+Action.c(88): web_add_cookie started  	[MsgId: MMSG-26355]
+Action.c(88): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(90): web_add_header("Sec-Mesh-Client-Arch") started  	[MsgId: MMSG-26355]
+Action.c(90): web_add_header("Sec-Mesh-Client-Arch") was successful  	[MsgId: MMSG-26392]
+Action.c(93): web_add_header("Sec-Mesh-Client-Edge-Channel") started  	[MsgId: MMSG-26355]
+Action.c(93): web_add_header("Sec-Mesh-Client-Edge-Channel") was successful  	[MsgId: MMSG-26392]
+Action.c(96): web_add_header("Sec-Mesh-Client-Edge-Version") started  	[MsgId: MMSG-26355]
+Action.c(96): web_add_header("Sec-Mesh-Client-Edge-Version") was successful  	[MsgId: MMSG-26392]
+Action.c(99): web_add_header("Sec-Mesh-Client-OS") started  	[MsgId: MMSG-26355]
+Action.c(99): web_add_header("Sec-Mesh-Client-OS") was successful  	[MsgId: MMSG-26392]
+Action.c(102): web_add_header("Sec-Mesh-Client-OS-Version") started  	[MsgId: MMSG-26355]
+Action.c(102): web_add_header("Sec-Mesh-Client-OS-Version") was successful  	[MsgId: MMSG-26392]
+Action.c(105): web_add_header("Sec-Mesh-Client-WebView") started  	[MsgId: MMSG-26355]
+Action.c(105): web_add_header("Sec-Mesh-Client-WebView") was successful  	[MsgId: MMSG-26392]
+Action.c(108): web_custom_request("msa") started  	[MsgId: MMSG-26355]
+Action.c(108): Warning: The string '"disable_features":"4a945acb,b9528075,82a866e9,6c715cfb,e0075c8a,3f6a1a2,322c815,d02d1be8,6d39f62e,dee07e4,95a29f90,603d2fd8,93277d03,f55b74df,b9047d,de7bc63a,eb936fc6","enable_features":"42f76cc4,e8b8fc5b,ac1a31c6,b44b62e1,ddfd6cd3,eb6bda0a,2d23ba84,b9d9753f,21004d55,c073554e,15ee0d7f,8c56fcfe,3b92f82f,3915a3ff,209911b6,49c628a9,f040bc88,3242f4fd,8918c4bc,4862aa13,7e84a6e5,8f5c2922,ec70e985,9aec59c7,bbccaf61,c428869,657a13f8,bfd715c,e54d9e38,49f8975c,d0dc3263,8ea1baf,c6e89c63,45ed8495,fe8f254,da54791,ec7d8af9,87e7bcb0,3d47a1e6,aa9752f4,cd614abf,6d667393,e314f18e,3d52c6a2,a47c71da,8656b6b2,14666474,6918470a,963f18b5,dc7d21dd,473bc83f,a4c17ac,106e2e85,956f91b8,51d50e41,7930653d,8fb8c332,33cc9bc8,174bb60,bd8fc42a,61431c7,6e607227,15f0c840,13fe26d0,694dde77,17178ab5,41c26479,9cffea93,75b1b341,7b3b305b,60806046,7b1870e,8832ce78,fc1ff333,732c732a,1207cc22,329d828e,3891021f,6286c2b2,12e2660f,3b76ae01,19857ae4,faf0abfc,9f191260,2373949a,5cfd95dc,8a2adb0,e7c29515,56181917,6a07a97c,a49949fb,7de23af1,3a94d1fb,9c4f24cc,69a90326,6b9993b7,1cf10166,16649177,44f7971e,fbaa04bd,3e7788d0,58568926,4ed13a13,5727cfbf,f2c76ca4,8ebd6d8b,b547d3e4,382a708,6046b072,b217214c,1df7f9ab,5f000ce,926a891a,2442314,4fbc7741,bf8cde40,8b578039,9155bb95,d486bb42,b9ce036a,a6fd2304,39910341,f658bba8,58e0343e,6e71f66e,868da52a,6099ff4d,caa6d356,10bc8c5b,57cfd418,3d95853,4d578363,8a1d22f,f26b1d9f,e16e3ae1,60ff3cac,71272018,ace2c02,badd9207,20984807,686d65ac,5c793004,5fe48b97,15f16891,2d289c6b,dbac1097,313163e0,ff72c049,f8746649,8543db20,ec121b81,cfea09b1,aa84b360,7aef631d,62fd93b7,6e775e3,ac6af412,d29e7da8,43d8ef41,a2f3a356,8c22a23,63f6405a,39aa9578,fba29c0,c2c703ac,5c82f28f,8aacb961,5bb92a39,4b4c3b98,5b66afe0,6c0bf1c,72f1fc48,ce975dfa,be978d29,151580ae,59e7987a,beeacc0d,d8dbe509,4f50853c,53e63c76,ebb2abb8,7c336ddf,ddcca13f,9b833520,26a23df5,6a0f795a,c38b4943,b83652bc,f7d05a59,bd8aded9,609df054,1e558647,8a094058,2c3ab10f,1347160e,ce3a2f9b,55476aab,c0c69710,50cbb1f,cd20ec4f,33a7e900,3693d98b,d52f7bea,d7595bfb,b31e492c,3e1e1ad1,3061cce0,7c940d4b,39e38478,2e4fce77,710e2548,a85c2524,a1f2654e,15a8d884,c0fc353a,d5427798,60428d40,3e057f56,d8990b6c,5222cfba,ab6121a5,73176314,7499d66a,e3ce9af1,9b42372,5605d13f,f34a4bc1,f276d9d,55248c83,9ba6613a,5182d9e4,3ffeaa11,b4627894,a606eeb4,88c758b7,66171647,37ad8f9b,c256496d,bc5dfc53,e3cf7468,5e47e9af,9afb0488,bda73cc8,7d2dcff4"' with parameter delimiters is not a parameter.
+Action.c(108): web_custom_request("msa") was successful, 1935 body bytes, 345 header bytes  	[MsgId: MMSG-26386]
+Action.c(124): web_add_header("EdgeFeatureFlags") started  	[MsgId: MMSG-26355]
+Action.c(124): Warning: The string '"ExtensionUseNewStoreKeys":true,"UseHttpsForDownload":true' with parameter delimiters is not a parameter.
+Action.c(124): web_add_header("EdgeFeatureFlags") was successful  	[MsgId: MMSG-26392]
+Action.c(127): web_add_header("MS-CV") started  	[MsgId: MMSG-26355]
+Action.c(127): web_add_header("MS-CV") was successful  	[MsgId: MMSG-26392]
+Action.c(130): web_add_header("Update-Interactivity") started  	[MsgId: MMSG-26355]
+Action.c(130): web_add_header("Update-Interactivity") was successful  	[MsgId: MMSG-26392]
+Action.c(133): web_url("crx") started  	[MsgId: MMSG-26355]
+Action.c(133): web_url("crx") was successful, 413 body bytes, 318 header bytes  	[MsgId: MMSG-26386]
+Action.c(142): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(142): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(144): web_custom_request("3") started  	[MsgId: MMSG-26355]
+Action.c(144): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(144): Warning: The string '"uri":"http://127.0.0.1:1080/WebTours/","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(144): web_custom_request("3") was successful, 2895 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(159): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(159): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(161): web_custom_request("3_2") started  	[MsgId: MMSG-26355]
+Action.c(161): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"uri":"http://127.0.0.1:1080/WebTours/header.html","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(161): Warning: The string '"uri":"http://127.0.0.1:1080/WebTours/","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(161): web_custom_request("3_2") was successful, 2961 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(178): web_custom_request("3_3") started  	[MsgId: MMSG-26355]
+Action.c(178): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(178): Warning: The string '"uri":"http://127.0.0.1:1080/WebTours/","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(178): web_custom_request("3_3") was successful, 2987 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(195): web_url("DomainsFilterGlobal.json") started  	[MsgId: MMSG-26355]
+Action.c(195): web_url("DomainsFilterGlobal.json") was successful, 453883 body bytes, 605 header bytes  	[MsgId: MMSG-26386]
+Action.c(204): web_custom_request("3_4") started  	[MsgId: MMSG-26355]
+Action.c(204): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?in=home","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(204): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(204): web_custom_request("3_4") was successful, 3001 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(219): web_custom_request("3_5") started  	[MsgId: MMSG-26355]
+Action.c(219): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"uri":"http://127.0.0.1:1080/WebTours/home.html","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(219): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(219): web_custom_request("3_5") was successful, 2991 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(234): web_custom_request("search") started  	[MsgId: MMSG-26355]
+Action.c(234): Warning: The string '"name":"msShoppingExp1","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"msEdgeShoppingAutoShowScenariosFirstMask","value":"1"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"msEdgeShoppingAutoShowScenariosSecondMask","value":"83890176"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"variant","value":"ControlUserPref"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msShoppingExp10","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msShoppingExp26","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msShoppingExp31","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msWebAssistQuery","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msAutofillAutoPopup","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"duration","value":"3"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingPriceHistory","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingExpressCheckout","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"duration","value":"3"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingEncryptionKey","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingRewards","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingExpressCheckoutFillDetails","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingRebatesSignUp","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingAutoShowControlForFeature","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingAutoShowMuteForFeature","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgePwiloPriceHistory","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingBackgroundAutoApply","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingOtherSeller","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingWalmartOtherSeller","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgePwiloAsyncFallback","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingClarityEnabled","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"duration","value":"3"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"key":"duration","value":"3"' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msShoppingEdgeTemplateAutomation","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingWebAssistForScript","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingProductPageScript","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingBackgroundAutoApplyForPDPAndHomePage","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingEnableAccelerateStrategyForBgaaWebContents","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msShoppingCheckoutMultiMessage","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingAutoOpenControllerScript","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingAutoOpenControllerOnCheckout","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingPwiloNotifications","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingPwiloNotificationsProductTracking","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"name":"msEdgeShoppingRebatesAutoShowExistingUser","params":[]' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(234): Warning: The string '"IsEdgeRebatesFlow":false,"domain":"127.0.0.1","path":"/WebTours/"' with parameter delimiters is not a parameter.
+Action.c(234): web_custom_request("search") was successful, 712 body bytes, 744 header bytes  	[MsgId: MMSG-26386]
+Action.c(252): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(252): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(254): Notify: Transaction "SIGN IN" started.
+Action.c(256): web_add_header("Sec-Mesh-Client-Arch") started  	[MsgId: MMSG-26355]
+Action.c(256): web_add_header("Sec-Mesh-Client-Arch") was successful  	[MsgId: MMSG-26392]
+Action.c(259): web_add_header("Sec-Mesh-Client-Edge-Channel") started  	[MsgId: MMSG-26355]
+Action.c(259): web_add_header("Sec-Mesh-Client-Edge-Channel") was successful  	[MsgId: MMSG-26392]
+Action.c(262): web_add_header("Sec-Mesh-Client-Edge-Version") started  	[MsgId: MMSG-26355]
+Action.c(262): web_add_header("Sec-Mesh-Client-Edge-Version") was successful  	[MsgId: MMSG-26392]
+Action.c(265): web_add_header("Sec-Mesh-Client-OS") started  	[MsgId: MMSG-26355]
+Action.c(265): web_add_header("Sec-Mesh-Client-OS") was successful  	[MsgId: MMSG-26392]
+Action.c(268): web_add_header("Sec-Mesh-Client-OS-Version") started  	[MsgId: MMSG-26355]
+Action.c(268): web_add_header("Sec-Mesh-Client-OS-Version") was successful  	[MsgId: MMSG-26392]
+Action.c(271): web_add_header("Sec-Mesh-Client-WebView") started  	[MsgId: MMSG-26355]
+Action.c(271): web_add_header("Sec-Mesh-Client-WebView") was successful  	[MsgId: MMSG-26392]
+Action.c(274): web_add_header("X-Microsoft-Update-AppId") started  	[MsgId: MMSG-26355]
+Action.c(274): web_add_header("X-Microsoft-Update-AppId") was successful  	[MsgId: MMSG-26392]
+Action.c(278): web_add_header("X-Microsoft-Update-Interactivity") started  	[MsgId: MMSG-26355]
+Action.c(278): web_add_header("X-Microsoft-Update-Interactivity") was successful  	[MsgId: MMSG-26392]
+Action.c(281): web_add_header("X-Microsoft-Update-Service-Cohort") started  	[MsgId: MMSG-26355]
+Action.c(281): web_add_header("X-Microsoft-Update-Service-Cohort") was successful  	[MsgId: MMSG-26392]
+Action.c(284): web_add_header("X-Microsoft-Update-Updater") started  	[MsgId: MMSG-26355]
+Action.c(284): web_add_header("X-Microsoft-Update-Updater") was successful  	[MsgId: MMSG-26392]
+Action.c(289): web_custom_request("update") started  	[MsgId: MMSG-26355]
+Action.c(289): Warning: The string '"fp":"1.8BFD50D350D47445B57BB1D61BBDE41CEDA7AC43DC81FCE95BF1AC646D97D2A0"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.81","AppMajorVersion":"112","AppRollout":0.81,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.8F3CA7027E9AF306E210170760F05487A86C0C4F7C3B64C1E22B492A8EB31125"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.24","AppMajorVersion":"112","AppRollout":0.24,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.42AF0D1905C8F1D8F6167365271C4549A73603B838BA58B9A664C57C00DB1EE5"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.47","AppMajorVersion":"112","AppRollout":0.47,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.26123BEF7D73536450862D2C4D44963D720AA80B6FC2D8496F559CB9C1FDEB00"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.95","AppMajorVersion":"112","AppRollout":0.95,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.A81D1959892AE4180554347DF1B97834ABBA2E1A5E6B9AEBA000ECEA26EABECC"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.11","AppMajorVersion":"112","AppRollout":0.11,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.FDBBAED3B7A4C6AD0DB7ACEA2484CDCC8A836A1892B32451A2DA25150FDDC667"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.68","AppMajorVersion":"112","AppRollout":0.68,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.19","AppMajorVersion":"112","AppRollout":0.19,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.69","AppMajorVersion":"112","AppRollout":0.69,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.85","AppMajorVersion":"112","AppRollout":0.85,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.B310248F30249CE0887C7346EF05478A5E744C7482BC8B6CDF7555FD7260CCC6"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.19","AppMajorVersion":"112","AppRollout":0.19,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.8DB8EE0201AAEE92134313B2CDF5C6EF621CC95B61F0817A056E5020111EF340"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.48","AppMajorVersion":"112","AppRollout":0.48,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.B907A02104C0FA2B6802F7FBDC823789DB1577719EE0978E2FCF5451D0221735"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.19","AppMajorVersion":"112","AppRollout":0.19,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.4A3EB5DC42FB58DB1BB1D2EA960D6AABCE6907CD1C84FFDE6F2268E77FA61013"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.84","AppMajorVersion":"112","AppRollout":0.84,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.A6A52F9D482FBF40243313DE9CBA3A58E8C08CBE5FD75AE77C7F56824A47AAFE"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.94","AppMajorVersion":"112","AppRollout":0.94,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.799ADA27074CE86B3B24F3DACB569FA9F4A0D52D28181C866E1022F36FEF0846"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.59","AppMajorVersion":"112","AppRollout":0.59,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.0A896B25442E25516B574F8632D6D38AFF3938B0E5F6502A6E5B16C2ADFFF2BD"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.72","AppMajorVersion":"112","AppRollout":0.72,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.2F0CDE41A4FF73810239C650DC9B1769D6DE63D3562518F686AEAEBD56D591E0"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.77","AppMajorVersion":"112","AppRollout":0.77,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.8F202CFB86D1EF0B5FE116718DFEDB375BB50534A1D45F02FC95BD099FDC183F"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.76","AppMajorVersion":"112","AppRollout":0.76,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.DD91C7C496E4D9E8DF5BEAA3D33D45F9EF196B4F888D0FAC50EAF08CAD6B29D7"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.43","AppMajorVersion":"112","AppRollout":0.43,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"fp":"1.01ABB1A14967FB06B48808C1FF9C7EE1FBEA741E3688997639BE0A5D428DDE66"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"r":-2' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"AppCohort":"rrf@0.91","AppMajorVersion":"112","AppRollout":0.91,"AppVersion":"112.0.1722.58","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"avx":1,"physmemory":14,"sse":1,"sse2":1,"sse3":1,"sse41":1,"sse42":1,"ssse3":1' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"arch":"x86_64","platform":"Windows","sku":"desktop","version":"10.0.22621.1555"' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '18fc0114-332b-4a84-a729-a5e19657ab1c' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '0022df16-c68b-4969-ab96-9bf93447b278' with parameter delimiters is not a parameter.
+Action.c(289): Warning: The string '"autoupdatecheckenabled":true,"ismachine":1,"lastchecked":0,"laststarted":0,"name":"Omaha","updatepolicy":-1,"version":"1.3.173.55"' with parameter delimiters is not a parameter.
+Action.c(289): web_custom_request("update") was successful, 2817 body bytes, 933 header bytes  	[MsgId: MMSG-26386]
+Action.c(323): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(323): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(326): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(326): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(329): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(329): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(332): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(332): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(335): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(335): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(338): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(338): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(341): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(341): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(344): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(344): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(347): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(347): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(352): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(352): Notify: Parameter Substitution: parameter "userSession" =  "136597.788659376HAczctipHftVzzzHtcVfHptQcfcf"
+Action.c(352): Notify: Parameter Substitution: parameter "P_username" =  "jojo1"
+Action.c(352): Notify: Parameter Substitution: parameter "P_password" =  "j2ee1"
+Action.c(352): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?username=jojo1&password=j2ee1" in "http://127.0.0.1:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(352): Detected non-resource "http://127.0.0.1:1080/cgi-bin/error.pl?error=badPassword" in "http://127.0.0.1:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(352): Resource "http://127.0.0.1:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(352): web_submit_data("login.pl") was successful, 2984 body bytes, 701 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(368): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(368): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(371): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(371): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(374): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(374): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(377): web_custom_request("3_6") started  	[MsgId: MMSG-26355]
+Action.c(377): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/login.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(377): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?in=home","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(377): web_custom_request("3_6") was successful, 2981 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(392): web_custom_request("3_7") started  	[MsgId: MMSG-26355]
+Action.c(392): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(392): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/login.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(392): web_custom_request("3_7") was successful, 2991 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(407): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(407): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(409): web_custom_request("3_8") started  	[MsgId: MMSG-26355]
+Action.c(409): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/login.pl?intro=true","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(409): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/login.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(409): web_custom_request("3_8") was successful, 2993 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(424): Notify: Transaction "SIGN IN" ended with a "Pass" status (Duration: 3.3442 Wasted Time: 0.0638).
+Action.c(426): Notify: Transaction "Navigate Flight" started.
+Action.c(428): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(428): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(431): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(431): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(434): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(434): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(437): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(437): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(440): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(440): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(443): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(443): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(446): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(446): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(449): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(449): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(455): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(455): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(460): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(460): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(465): web_url("welcome.pl") started  	[MsgId: MMSG-26355]
+Action.c(465): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+Action.c(465): Detected non-resource "http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search"  	[MsgId: MMSG-26574]
+Action.c(465): Found resource "http://127.0.0.1:1080/WebTours/images/in_flights.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(465): Found resource "http://127.0.0.1:1080/WebTours/images/itinerary.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(465): Found resource "http://127.0.0.1:1080/WebTours/images/home.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(465): Found resource "http://127.0.0.1:1080/WebTours/images/signoff.gif" in HTML "http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights"  	[MsgId: MMSG-26659]
+Action.c(465): Notify: Saving Parameter "c_city = Denver".
+Action.c(465): Notify: Saving Parameter "c_city1 = Frankfurt".
+Action.c(465): Found resource "http://127.0.0.1:1080/WebTours/images/button_next.gif" in HTML "http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+Action.c(465): web_url("welcome.pl") was successful, 10000 body bytes, 2215 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(474): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(474): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(477): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(477): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(480): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(480): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(483): web_custom_request("3_9") started  	[MsgId: MMSG-26355]
+Action.c(483): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(483): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(483): web_custom_request("3_9") was successful, 3013 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(498): web_custom_request("3_10") started  	[MsgId: MMSG-26355]
+Action.c(498): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(498): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(498): web_custom_request("3_10") was successful, 3017 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(513): web_custom_request("3_11") started  	[MsgId: MMSG-26355]
+Action.c(513): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(513): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?page=search","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(513): web_custom_request("3_11") was successful, 3025 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(528): Notify: Transaction "Navigate Flight" ended with a "Pass" status (Duration: 2.4076 Wasted Time: 0.0777).
+Action.c(530): Notify: Transaction "Flind Flight" started.
+Action.c(532): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(532): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(535): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(535): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(538): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(538): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(541): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(541): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(544): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(544): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(547): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(547): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(550): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(550): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(553): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(553): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(556): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(556): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(561): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(561): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(566): web_submit_data("reservations.pl") started  	[MsgId: MMSG-26355]
+Action.c(566): Notify: Parameter Substitution: parameter "c_city" =  "Denver"
+Action.c(566): Notify: Parameter Substitution: parameter "c_city1" =  "Frankfurt"
+Action.c(566): Notify: Saving Parameter "outboundFlight = 010;386;04/29/2023".
+Action.c(566): Resource "http://127.0.0.1:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(566): web_submit_data("reservations.pl") was successful, 2442 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(589): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(589): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(592): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(592): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(595): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(595): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(598): web_custom_request("3_12") started  	[MsgId: MMSG-26355]
+Action.c(598): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(598): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl?page=welcome","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(598): web_custom_request("3_12") was successful, 3009 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(613): Notify: Transaction "Flind Flight" ended with a "Pass" status (Duration: 1.0083 Wasted Time: 0.0275).
+Action.c(615): Notify: Transaction "choose flight" started.
+Action.c(617): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(617): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(620): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(620): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(623): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(623): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(626): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(626): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(629): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(629): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(632): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(632): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(635): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(635): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(638): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(638): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(641): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(641): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(646): web_submit_data("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(646): Notify: Parameter Substitution: parameter "outboundFlight" =  "010;386;04/29/2023"
+Action.c(646): Resource "http://127.0.0.1:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(646): web_submit_data("reservations.pl_2") was successful, 2634 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(663): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(663): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(665): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(665): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(668): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(668): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(671): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(671): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(674): web_custom_request("3_13") started  	[MsgId: MMSG-26355]
+Action.c(674): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(674): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(674): web_custom_request("3_13") was successful, 2985 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(689): Notify: Transaction "choose flight" ended with a "Pass" status (Duration: 1.0470 Wasted Time: 0.0243).
+Action.c(691): Notify: Transaction "Payment " started.
+Action.c(693): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(693): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(696): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(696): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(699): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(699): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(702): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(702): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(705): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(705): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(708): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(708): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(711): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(711): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(714): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(714): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(717): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(717): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(722): web_submit_data("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(722): Notify: Parameter Substitution: parameter "P_firstname" =  "hirutt"
+Action.c(722): Notify: Parameter Substitution: parameter "P_lastname" =  "shenkutee"
+Action.c(722): Notify: Parameter Substitution: parameter "P_address1" =  "ontario 21st"
+Action.c(722): Notify: Parameter Substitution: parameter "P_addres2" =  "1103"
+Action.c(722): Notify: Parameter Substitution: parameter "P_pass1" =  "hirutt shenkutee"
+Action.c(722): Notify: Parameter Substitution: parameter "P_creditcard" =  "123 456 7890"
+Action.c(722): Notify: Parameter Substitution: parameter "P_expDate" =  "14/25"
+Action.c(722): Notify: Parameter Substitution: parameter "P_oldCCoption" =  "Value"
+Action.c(722): Notify: Parameter Substitution: parameter "P_numPassengers" =  "Value=1"
+Action.c(722): Notify: Parameter Substitution: parameter "P_seatType" =  "Value=Coach"
+Action.c(722): Notify: Parameter Substitution: parameter "P_seatPref" =  "Value=None"
+Action.c(722): Notify: Parameter Substitution: parameter "outboundFlight" =  "010;386;04/29/2023"
+Action.c(722): Found resource "http://127.0.0.1:1080/WebTours/images/bookanother.gif" in HTML "http://127.0.0.1:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(722): web_submit_data("reservations.pl_3") was successful, 3292 body bytes, 585 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(750): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(750): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(753): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(753): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(756): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(756): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(759): web_custom_request("3_14") started  	[MsgId: MMSG-26355]
+Action.c(759): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(759): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/reservations.pl","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(759): web_custom_request("3_14") was successful, 2985 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(774): Notify: Transaction "Payment " ended with a "Pass" status (Duration: 1.0623 Wasted Time: 0.0255).
+Action.c(776): Notify: Transaction "Sign Off" started.
+Action.c(778): Notify: Transaction "Sign Off" ended with a "Pass" status (Duration: 0.0149).
+Action.c(780): Notify: Transaction "SIGN OFF" started.
+Action.c(782): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(782): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(785): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(785): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(788): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(788): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(791): web_add_header("Sec-Fetch-User") started  	[MsgId: MMSG-26355]
+Action.c(791): web_add_header("Sec-Fetch-User") was successful  	[MsgId: MMSG-26392]
+Action.c(794): web_add_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(794): web_add_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(797): web_add_header("sec-ch-ua") started  	[MsgId: MMSG-26355]
+Action.c(797): web_add_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+Action.c(800): web_add_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+Action.c(800): web_add_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+Action.c(803): web_add_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+Action.c(803): web_add_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+Action.c(808): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(808): Detected non-resource "http://127.0.0.1:1080/cgi-bin/nav.pl?in=home" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(808): Detected non-resource "http://127.0.0.1:1080/WebTours/home.html" in "http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(808): Retrieving data from cache for "http://127.0.0.1:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(808): Resource "http://127.0.0.1:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(808): web_url("welcome.pl_2") was successful, 2174 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(817): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(817): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(819): web_add_auto_header("Sec-Fetch-Dest") started  	[MsgId: MMSG-26355]
+Action.c(819): web_add_auto_header("Sec-Fetch-Dest") was successful  	[MsgId: MMSG-26392]
+Action.c(822): web_add_auto_header("Sec-Fetch-Mode") started  	[MsgId: MMSG-26355]
+Action.c(822): web_add_auto_header("Sec-Fetch-Mode") was successful  	[MsgId: MMSG-26392]
+Action.c(825): web_add_auto_header("Sec-Fetch-Site") started  	[MsgId: MMSG-26355]
+Action.c(825): web_add_auto_header("Sec-Fetch-Site") was successful  	[MsgId: MMSG-26392]
+Action.c(828): web_custom_request("3_15") started  	[MsgId: MMSG-26355]
+Action.c(828): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(828): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(828): web_custom_request("3_15") was successful, 3011 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(843): web_custom_request("3_16") started  	[MsgId: MMSG-26355]
+Action.c(843): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/nav.pl?in=home","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(843): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(843): web_custom_request("3_16") was successful, 2997 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(858): web_custom_request("3_17") started  	[MsgId: MMSG-26355]
+Action.c(858): Warning: The string '"locale":"en-US"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"internet_explorer":"9.11.22621.0"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"locale":"en-US","name":"anaheim","version":"112.0.1722.58 (Official build) "' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","synchronousLookupUris":"638182804467893276","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"level":"anywhere"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"enforcedByPolicy":false,"level":"warn"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"uri":"http://127.0.0.1:1080/WebTours/home.html","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(858): Warning: The string '"uri":"http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1","ip":"127.0.0.1"' with parameter delimiters is not a parameter.
+Action.c(858): web_custom_request("3_17") was successful, 2987 body bytes, 553 header bytes  	[MsgId: MMSG-26386]
+Action.c(873): Notify: Transaction "SIGN OFF" ended with a "Pass" status (Duration: 2.5807 Wasted Time: 0.0487).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Vuser 0 (thread 17948), ended OK."

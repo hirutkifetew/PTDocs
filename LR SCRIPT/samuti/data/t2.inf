@@ -1,0 +1,13 @@
+[t2]
+FileName1=t2.htm
+URL1=http://127.0.0.1:1080/WebTours/
+Total=2
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_experiments.html
+URL2=https://api.edgeoffer.microsoft.com/edgeoffer/pb/experiments?appId=edge-extensions&country=CA
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t116]
+FileName1=t116.json
+URL1=https://edge.microsoft.com/identity/api/v3/msa
+Total=2
+RequestHeaderFile=t116_RequestHeader.txt
+RequestBodyFile=t116_RequestBody.txt
+ResponseHeaderFile=t116_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_116.xml
+FileName2=t116_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChcKBm1zZWRnZRINMTEzLjAuMTc3NC40MhobCAEQCBoNMTY3NzEzMTM3MDQxOSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362&ei=N
+[ProtocolInfo]
+ProtocolId=QTWeb

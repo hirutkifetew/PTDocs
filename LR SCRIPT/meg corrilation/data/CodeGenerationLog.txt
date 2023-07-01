@@ -1,0 +1,751 @@
+****** Start Log Message ******
+Web Recorder version : 2021.0.0.430 
+Recording Mode: HTML-based script containing explicit URLs only
+Recording headers not in list:
+	accept
+	accept-charset
+	accept-encoding
+	accept-language
+	accept-ranges
+	age
+	allow
+	cache-control
+	content-base
+	content-disposition
+	content-encoding
+	content-language
+	content-location
+	content-md5
+	content-range
+	content-type
+	date
+	etag
+	expires
+	from
+	if-modified-since
+	if-match
+	if-none-match
+	if-range
+	if-unmodified-since
+	location
+	last-modified
+	max-forwards
+	pragma
+	public
+	range
+	retry-after
+	server
+	transfer-encoding
+	upgrade
+	user-agent
+	vary
+	via
+	warning
+	method
+	path
+	scheme
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+	application/json
+Reset context between actions
+Do not record non-HTML elements
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 2021.0.0.430
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 23 ******
+GET /WebTours/index.htm HTTP/1.1
+Host: localhost:1080
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 23 Ended $$$$$$
+
+****** Response Header For Transaction With Id 23 ******
+HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2023 06:41:34 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Wed, 16 Nov 2022 12:42:15 GMT
+ETag: "800000003fd7b-16e-5ed95cd684a40"
+Accept-Ranges: bytes
+Content-Length: 366
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+$$$$$$ Response Header For Transaction With Id 23 Ended $$$$$$
+
+****** Response Body For Transaction With Id 23 ******
+<HTML>
+<HEAD>
+<title>Web Tours</title>
+<frameset rows = "65,*" border="1" bordercolor="#E0E7F1">
+<frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2" marginwidth="2"/>
+<frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="noresize" marginheight="2" marginwidth="2" />
+</frameset>
+</HEAD>
+</HTML>
+
+
+$$$$$$ Response Body For Transaction With Id 23 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SSL version to 'AUTO'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 23 ****** (Location Flag : tFlagInsertEnd, Location ID : 23)
+	web_url("index.htm",
+		"URL=http://localhost:1080/WebTours/index.htm",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t1.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 23 Ended $$$$$$
+
+****** Request Header For Transaction With Id 28 ******
+GET / HTTP/1.1
+Host: 192.168.1.8:1614
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+
+
+$$$$$$ Request Header For Transaction With Id 28 Ended $$$$$$
+
+****** Response Header For Transaction With Id 28 ******
+HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2023 06:41:36 GMT
+Server: WebOS/1.5 UPnP/1.0
+Content-Length: 1223
+Content-Type: text/xml; charset="utf-8"
+Application-URL: http://192.168.1.8:36866/apps
+
+
+$$$$$$ Response Header For Transaction With Id 28 Ended $$$$$$
+
+****** Response Body For Transaction With Id 28 ******
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0" xmlns:dlna="urn:schemas-dlna-org:device-1-0">
+  <specVersion>
+    <major>1</major>
+    <minor>0</minor>
+  </specVersion>
+  <device>
+    <deviceType>urn:dial-multiscreen-org:service:dial:1</deviceType>
+    <friendlyName>LG TVgggg</friendlyName>
+    <manufacturer>LG Electronics</manufacturer>
+    <manufacturerURL>http://www.lge.com</manufacturerURL>
+    <modelDescription></modelDescription>
+    <modelName>LG Smart TV</modelName>
+    <modelURL>http://www.lge.com</modelURL>
+    <modelNumber>WEBOS</modelNumber>
+    <serialNumber></serialNumber>
+    <UDN>uuid:2df57f66-9c76-263b-04fb-8ac4f1a707f7</UDN>
+    <serviceList>
+      <service>
+        <serviceType>urn:dial-multiscreen-org:service:dial:1</serviceType>
+        <serviceId>urn:dial-multiscreen-org:serviceId:dial</serviceId>
+        <SCPDURL>/WebOS_Dial/2df57f66-9c76-263b-04fb-8ac4f1a707f7/scpd.xml</SCPDURL>
+        <controlURL>/WebOS_Dial/2df57f66-9c76-263b-04fb-8ac4f1a707f7/control.xml</controlURL>
+        <eventSubURL>/WebOS_Dial/2df57f66-9c76-263b-04fb-8ac4f1a707f7/event.xml</eventSubURL>
+      </service>
+    </serviceList>
+  </device>
+</root>
+$$$$$$ Response Body For Transaction With Id 28 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/WebTours/index.htm
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 28 ****** (Location Flag : tFlagInsertEnd, Location ID : 28)
+	web_url("192.168.1.8:1614",
+		"URL=http://192.168.1.8:1614/",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t2.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 28 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("Sec-Fetch-Dest",
+		"document");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("Sec-Fetch-Mode",
+		"navigate");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("Sec-Fetch-Site",
+		"none");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("Sec-Fetch-User",
+		"?1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("Upgrade-Insecure-Requests",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("sec-ch-ua",
+		"\"Not?A_Brand\";v=\"8\", \"Chromium\";v=\"108\", \"Google Chrome\";v=\"108\"");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("sec-ch-ua-mobile",
+		"?0");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 23)
+	web_add_header("sec-ch-ua-platform",
+		"\"Windows\"");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 30 ******
+GET /sony/webapi/ssdp/dd.xml HTTP/1.1
+Host: 192.168.1.3:48006
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+
+
+$$$$$$ Request Header For Transaction With Id 30 Ended $$$$$$
+
+****** Response Header For Transaction With Id 30 ******
+HTTP/1.1 200 OK
+Application-URL: http://192.168.1.3:80/DIAL/apps/
+Accept-Range: none
+Content-Length: 5777
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Date: Sun, 08 Jan 2023 06:41:35 GMT
+Server: FedoraCore/2 UPnP/1.0 MINT-X/1.8.1
+
+
+$$$$$$ Response Header For Transaction With Id 30 Ended $$$$$$
+
+****** Response Body For Transaction With Id 30 ******
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+  <specVersion>
+    <major>1</major>
+    <minor>0</minor>
+  </specVersion>
+  <device>
+    <deviceType>urn:schemas-upnp-org:device:Basic:1</deviceType>
+    <friendlyName>SONY KD-65A8H</friendlyName>
+    <manufacturer>Sony Corporation</manufacturer>
+    <manufacturerURL>http://www.sony.net/</manufacturerURL>
+    <modelName>KD-65A8H</modelName>
+    <UDN>uuid:3907a188-2046-4d18-b4dc-65b161cf3477</UDN>
+    
+<iconList>
+      <icon>
+        <mimetype>image/png</mimetype>
+        <width>120</width>
+        <height>120</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_120.png</url>
+      </icon>
+      <icon>
+        <mimetype>image/jpeg</mimetype>
+        <width>48</width>
+        <height>48</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_48.jpg</url>
+      </icon>
+      <icon>
+        <mimetype>image/jpeg</mimetype>
+        <width>32</width>
+        <height>32</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_32.jpg</url>
+      </icon>
+      <icon>
+        <mimetype>image/jpeg</mimetype>
+        <width>120</width>
+        <height>120</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_120.jpg</url>
+      </icon>
+      <icon>
+        <mimetype>image/png</mimetype>
+        <width>32</width>
+        <height>32</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_32.png</url>
+      </icon>
+      <icon>
+        <mimetype>image/png</mimetype>
+        <width>60</width>
+        <height>60</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_60.png</url>
+      </icon>
+      <icon>
+        <mimetype>image/png</mimetype>
+        <width>48</width>
+        <height>48</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_48.png</url>
+      </icon>
+      <icon>
+        <mimetype>image/jpeg</mimetype>
+        <width>60</width>
+        <height>60</height>
+        <depth>24</depth>
+        <url>/sony/webapi/ssdp/icon/dlna_tv_60.jpg</url>
+      </icon>
+</iconList>
+    <serviceList>
+      <service>
+        <serviceType>urn:schemas-sony-com:service:ScalarWebAPI:1</serviceType>
+        <serviceId>urn:schemas-sony-com:serviceId:ScalarWebAPI</serviceId>
+        <SCPDURL>/sony/webapi/ssdp/scpd/WebApiSCPD.xml</SCPDURL>
+        <controlURL>http://192.168.1.3/sony</controlURL>
+        <eventSubURL></eventSubURL>
+      </service>
+
+       <service>
+           <serviceType>urn:dial-multiscreen-org:service:dial:1</serviceType>
+           <serviceId>urn:dial-multiscreen-org:serviceId:dial</serviceId>
+           <SCPDURL>/DIALSCPD.xml</SCPDURL>
+           <controlURL>/upnp/control/DIAL</controlURL>
+           <eventSubURL></eventSubURL>
+       </service>
+
+      <service>
+        <serviceType>urn:schemas-sony-com:service:IRCC:1</serviceType>
+        <serviceId>urn:schemas-sony-com:serviceId:IRCC</serviceId>
+        <SCPDURL>http://192.168.1.3/sony/ircc/IRCCSCPD.xml</SCPDURL>
+        <controlURL>http://192.168.1.3/sony/ircc</controlURL>
+        <eventSubURL/>
+      </service>
+    </serviceList>
+    <av:X_ScalarWebAPI_DeviceInfo xmlns:av="urn:schemas-sony-com:av">
+      <av:X_ScalarWebAPI_Version>1.0</av:X_ScalarWebAPI_Version>
+      <av:X_ScalarWebAPI_BaseURL>http://192.168.1.3/sony</av:X_ScalarWebAPI_BaseURL>
+      <av:X_ScalarWebAPI_ServiceList>
+        <av:X_ScalarWebAPI_ServiceType>guide</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>avContent</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>system</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>videoScreen</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>audio</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>encryption</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>cec</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>accessControl</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>browser</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>appControl</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>dial/dd.xml</av:X_ScalarWebAPI_ServiceType>
+        <av:X_ScalarWebAPI_ServiceType>video</av:X_ScalarWebAPI_ServiceType>
+      </av:X_ScalarWebAPI_ServiceList>
+    </av:X_ScalarWebAPI_DeviceInfo>
+
+<av:X_DIALEX_DeviceInfo xmlns:av="urn:schemas-sony-com:av">
+  <av:X_DIALEX_AppsListURL>http://192.168.1.3:80/DIAL/sony/applist</av:X_DIALEX_AppsListURL>
+  <av:X_DIALEX_DeviceType>Android_TV_DIAL_v2.0.0</av:X_DIALEX_DeviceType>
+</av:X_DIALEX_DeviceInfo>
+
+    <av:X_IRCC_DeviceInfo xmlns:av="urn:schemas-sony-com:av">
+      <av:X_IRCC_Version>1.0</av:X_IRCC_Version>
+      <av:X_IRCC_CategoryList>
+        <av:X_IRCC_Category>
+          <av:X_CategoryInfo>AAEAAAAB</av:X_CategoryInfo>
+        </av:X_IRCC_Category>
+        <av:X_IRCC_Category>
+          <av:X_CategoryInfo>AAIAAACk</av:X_CategoryInfo>
+        </av:X_IRCC_Category>
+        <av:X_IRCC_Category>
+          <av:X_CategoryInfo>AAIAAACX</av:X_CategoryInfo>
+        </av:X_IRCC_Category>
+        <av:X_IRCC_Category>
+          <av:X_CategoryInfo>AAIAAAB3</av:X_CategoryInfo>
+        </av:X_IRCC_Category>
+        <av:X_IRCC_Category>
+          <av:X_CategoryInfo>AAIAAAAa</av:X_CategoryInfo>
+        </av:X_IRCC_Category>
+      </av:X_IRCC_CategoryList>
+    </av:X_IRCC_DeviceInfo>
+    <av:X_IRCCCodeList xmlns:av="urn:schemas-sony-com:av">
+      <av:X_IRCCCode command="Power">AAAAAQAAAAEAAAAVAw==</av:X_IRCCCode>
+    </av:X_IRCCCodeList>
+  </device>
+</root>
+
+$$$$$$ Response Body For Transaction With Id 30 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 30 ****** (Location Flag : tFlagInsertEnd, Location ID : 30)
+	web_url("dd.xml",
+		"URL=http://192.168.1.3:48006/sony/webapi/ssdp/dd.xml",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t3.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 30 Ended $$$$$$
+
+****** Request Header For Transaction With Id 32 ******
+GET /ssdp/device-desc.xml HTTP/1.1
+Host: 192.168.1.3:8008
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate
+
+
+$$$$$$ Request Header For Transaction With Id 32 Ended $$$$$$
+
+****** Response Header For Transaction With Id 32 ******
+HTTP/1.1 200 OK
+Application-URL:http://192.168.1.3:8008/apps/
+Content-Length:1072
+Content-Type:application/xml
+
+
+$$$$$$ Response Header For Transaction With Id 32 Ended $$$$$$
+
+****** Response Body For Transaction With Id 32 ******
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+ 
+$$$$$$ Response Body For Transaction With Id 32 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/sony/webapi/ssdp/dd.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+[Traffic Filtering] Filtering clientservices.googleapis.com
+****** Request Header For Transaction With Id 45 ******
+GET /chrome-variations/seed?osname=win&channel=stable&milestone=108 HTTP/1.1
+Host: clientservices.googleapis.com
+Connection: keep-alive
+If-None-Match: SMChYyMDIzMDEwNi0wODAwNTIuNjk2MDAwEggIABADGGwgAA==#+7OFfz+URDA=
+A-IM: x-bm,gzip
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+
+
+$$$$$$ Request Header For Transaction With Id 45 Ended $$$$$$
+
+****** Response Header For Transaction With Id 45 ******
+HTTP/1.1 304 Not Modified
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 0
+Date: Sun, 08 Jan 2023 06:41:38 GMT
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+
+$$$$$$ Response Header For Transaction With Id 45 Ended $$$$$$
+
+****** Request Header For Transaction With Id 53 ******
+GET /WebTours/header.html HTTP/1.1
+Host: localhost:1080
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: frame
+Referer: http://localhost:1080/WebTours/index.htm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 53 Ended $$$$$$
+
+****** Response Header For Transaction With Id 53 ******
+HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2023 06:41:37 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Wed, 16 Nov 2022 12:42:15 GMT
+ETag: "800000003fcde-2c6-5ed95cd66dbe9"
+Accept-Ranges: bytes
+Content-Length: 710
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+$$$$$$ Response Header For Transaction With Id 53 Ended $$$$$$
+
+****** Response Body For Transaction With Id 53 ******
+<!DOCTYPE html>
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<HEAD></HEAD>
+<BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt="" height="45" width="130" align="absmiddle" border="0"/></td>
+				<td align="right"></td>
+				<td></td>
+			</tr>
+		</table>
+	</BODY>
+</HTML>
+$$$$$$ Response Body For Transaction With Id 53 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/sony/webapi/ssdp/dd.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 55 ******
+GET /WebTours/images/hp_logo.png HTTP/1.1
+Host: localhost:1080
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:1080/WebTours/header.html
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 55 Ended $$$$$$
+
+****** Response Header For Transaction With Id 55 ******
+HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2023 06:41:37 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Wed, 16 Nov 2022 12:42:16 GMT
+ETag: "d000000040348-259-5ed95cd7473fa"
+Accept-Ranges: bytes
+Content-Length: 601
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/png
+
+
+$$$$$$ Response Header For Transaction With Id 55 Ended $$$$$$
+
+****** Response Body For Transaction With Id 55 ******
+\x89PNG
+\x1A
+\x00\x00\x00IHDR\x00\x00\x00E\x00\x00\x00-\x08\x03\x00\x00\x00\xCF\xF4V,\x00\x00\x00\x04gAMA\x00\x00\xD6\xD8\xD4OX2\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\xC9e<\x00\x00\x000PLTE\x01/c<b\x89\xFF\xFF\xFF\x15Cr_~\x9E\x7F\x99\xB2\x9C\xB0\xC4\xF2\xF5\xF7\xCD\xD7\xE1\xC1\xCE\xDA\xB1\xC0\xD0\xD9\xE1\xE8\xE2\xE7\xEE\xEA\xEE\xF2\xEE\xF2\xF5\x003fJQw \x00\x00\x00\x10tRNS\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\x00\xE0#]\x19\x00\x00\x01\x93IDATx\xDA\xECV]o\xC3 \x0C\xC4\x18L\x08$\xFB\xFF\xFFv\xFE\x80uM2\xA2\xBDL\xCA=\xD0\xAA\x8A/>s\xB6\xEB>\xFE\x02\xEEa\xF9\x9F,H\xE9\x88\x80\xB5\x1D'\xEC\xD1]\xB2\x90?\xA2b\xF4~\xC3\x90\xFC\x15\xE2%\xCB~|\x8C\xC0-|:\x04\x08T\xCF\xEF\xB8d9\xBCq\x01\xE7\x80?\x83S`(\x07\x964\xC0B\xC8\xA1,\xB2\xA0k@\x9Af!\x8D+\xA2\xFE\x858\xC9\x925\x03\x11\x04\xEE'\x9A_Y\x92\xC5\xB2\x84\xC5\xBD!\xCF\xB0\x90\x15\xA2\x8A \xCD
+\x15\x9C]\x1Agi\xA9\x04\xFD\xBEs\x9D\x81m\xE6SZ\xD1\xD18K\xB6\xF4W\xEF\xF7\xAAw-\xB1E\x8D\x06\xE3,v/\xC8?\x04+\xB0\xDC\x15n\xEA\x9D2\xCC\x02\xFDBvi\x81\xAA\xD2 H3h\x82S,Y\xAA\xAC-@"r\xB5\xA2\xC7Q\x16+\xAEj\xD1\x03w\x11\xD4\x9A!\xCC\xB1Dq\x7F\x14\xC7p`\xC2 ->\xC3b\x8A\x8A(P\xC7\xB0\x96\xD5\xF4\xCD(\xD2\xCC\xBB\xA0\x04\xAA\xE5\xAB\x19\xC6\xABK\xDD\xFDZ\xD6\xD8\xC6\x955\xC3\xF8Ms\x01\xC4\x1D\xCD"|M\x1Bm\xCDE\x13\xAE\xE3P(\xCB\x82|d\xEC\xADc\x83f\xA2\x03\xFC\x82o\xD3\xA0\x00\xC3fE\x9A\x99/\xAF\xD9\x84\xA5\xB7\xF8\xF4d\xE8]\xDD\xFC\x01\xF7\xA6\x14wP\x8F\x94\xD1{wb\xF23\xE1\xDB\xA4\xBA;\xBD\x19+\x98 S7\xBAIN[\xCD\xE7 V\xCD\xBC\xD6\xC6\xB7\x1A],Q\xF5\x1D\xD6\x89\x8B\xEBq\xA3\xCB\x8ANU\x8E\x0B\xF08~\xFEK=,\x13\xF8\x14`\x00G2p	^\xC8\xDBu\x00\x00\x00\x00IEND\xAEB`\x82
+$$$$$$ Response Body For Transaction With Id 55 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/sony/webapi/ssdp/dd.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 57 ******
+GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1
+Host: localhost:1080
+Connection: keep-alive
+sec-ch-ua: "Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: frame
+Referer: http://localhost:1080/WebTours/index.htm
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+
+
+$$$$$$ Request Header For Transaction With Id 57 Ended $$$$$$
+
+****** Response Header For Transaction With Id 57 ******
+HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2023 06:41:37 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&1673160098; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Sat, 07-Jan-2023 06:41:38 GMT
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 57 Ended $$$$$$
+
+****** Response Body For Transaction With Id 57 ******
+<!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ --->
+
+<html>
+<title>Web Tours</title>
+   <!-- Frame Set -->
+   <frameset cols="160,*" border="1" frameborder="1">
+      <!-- Navigation Frame -->
+      <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+      <!-- Home Frame -->
+      <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+   </frameset>
+</html>
+
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 57 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/sony/webapi/ssdp/dd.xml
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+[Traffic Filtering] Filtering accounts.google.com
+****** Request Header For Transaction With Id 60 ******
+POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 1
+Origin: https://www.google.com
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: ACCOUNT_CHOOSER=AFx_qI433BRRBEqVdcwAd3K0TzK5csdca_2mOrcBVJW2xkFnSv7gZHOdc5HgRgo6rdZTMbbU_34Il4gORiG3p9YCRebmA6Xn_vM-tJ8l0W8qqNsH_uZZ71IWeoykPcw0jfCNGCXGjK4hwkTPoO0uE6lOYjtnUsKh5g; SEARCH_SAMESITE=CgQIz5YB; AEC=AakniGNEHwXdM4VqAIJc_zVb1_LOJtJeLxxbox5AKx9xUhGKpaVgtQWFyWo; 1P_JAR=2022-12-23-15; OTZ=6846154_88_88_104280_84_446940; SID=Sgjrr6THvhW_Nenc4ZySgU0UoBpxmWnbWcewDeT3M4XudiUMtTFrhy4pm9PiUOEGBB5K9g.; __Secure-1PSID=Sgjrr6THvhW_Nenc4ZySgU0UoBpxmWnbWcewDeT3M4XudiUMTGOe_NoEYqjAtFvTveb-ig.; __Secure-3PSID=Sgjrr6THvhW_Nenc4ZySgU0UoBpxmWnbWcewDeT3M4XudiUM4B9Ex37ock3IyT77tGLdNg.; HSID=AjottRQbHTJMG4z2_; SSID=ApIpsDI548C3N4hSS; APISID=AzFacMmxtwmLfLLr/AxyHD3E1FFb27HwSm; SAPISID=U84EDIRMSa3DjgZF/AvSxSx2dm8sx5k70e; __Secure-1PAPISID=U84EDIRMSa3DjgZF/AvSxSx2dm8sx5k70e; __Secure-3PAPISID=U84EDIRMSa3DjgZF/AvSxSx2dm8sx5k70e; __Host-GAPS=1:cq4Eq34xy649f08kdNXWGv5EISdRRprC-7M9ULTdv2SR1VYjPNAUUEi1Yd1ryh1CIcBjR_iRLS2yu1eFRmTLqS5BRA4QuA:yx-8NMk4tkkgP9-Z; LSID=o.mail.google.com|s.ET|s.youtube:SgjrrxAX5tKKvBdy_Am3vig1OtHSWAUVf_EhNETVhl2RV3V3FAoIL4UEuxDeQJslbIZGpA.; __Host-1PLSID=o.mail.google.com|s.ET|s.youtube:SgjrrxAX5tKKvBdy_Am3vig1OtHSWAUVf_EhNETVhl2RV3V3tqWDe8quiXCBdSbRTjyb-Q.; __Host-3PLSID=o.mail.google.com|s.ET|s.youtube:SgjrrxAX5tKKvBdy_Am3vig1OtHSWAUVf_EhNETVhl2RV3V3tSbqfFQqHkorsYaC6jyU3w.; NID=511=P63hwqTetJ-uFCXNzyCKwv2Si8cDSFx8vIm2Awh8kDd_QwuhXO15j7Hf32DyYfmd-iX3MPG21kJjmMF6T0XarBZhQE87v9OAxbtK7IzzVILLyspgX-5C31fdFz0DGjo9PGd1UHhRkZJFx2_i6FYx4Vq1vmC_-kO4GO5BLcmvD2oSfl_5zI_ADL_FhBdBNIzSzOKrF-k1pE6cFu-_R81IZxhw-uRfMES957OeoLebhKmY5yDQYGNTmicgiPVl2LwMqgQ; SIDCC=AIKkIs0_GqkFjGeN2LSyvlHqgQMZK2IN8ilVEUc4USK6TChSJLwZR-lyJtSH_2YByAhZv9nvrg; __Secure-1PSIDCC=AIKkIs3talLCEG9DcibQcxX8QPMSgzH1ZxQIYFPVLf7GeAt0X1WlNVROJ-QUhbEhwIjDZdaW; __Secure-3PSIDCC=AIKkIs0fxb8_r3GwVFQiyqxfzUQN7UxyDtj4pJGP2VjhACou9B06HSHkks3GtldjaZsk85iVn04
+
+
+$$$$$$ Request Header For Transaction With Id 60 Ended $$$$$$
+
+****** Request Body For Transaction With Id 60 ******
+ 
+$$$$$$ Request Body For Transaction With Id 60 Ended $$$$$$
+
+****** Response Header For Transaction With Id 60 ******
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: https://www.google.com
+Access-Control-Allow-Credentials: true
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sun, 08 Jan 2023 06:41:39 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: script-src 'report-sample' 'nonce-n9Q1TFRIr8-TbxUCGELTRQ' 'unsafe-inline';object-src 'none';base-uri 'self';report-uri /_/IdentityListAccountsHttp/cspreport;worker-src 'self'
+Content-Security-Policy: script-src 'unsafe-inline' 'self' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com;report-uri /_/IdentityListAccountsHttp/cspreport/allowlist
+Content-Security-Policy: require-trusted-types-for 'script';report-uri /_/IdentityListAccountsHttp/cspreport
+Cross-Origin-Opener-Policy: same-origin
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-platform=*, ch-ua-platform-version=*
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Content-Encoding: gzip
+Server: ESF
+X-XSS-Protection: 0
+Set-Cookie: SIDCC=AIKkIs0kImTZIPaxaceKrRmNPRXpZbbM3SPcuEKYNXdsUY8ko3-3OQt50zxbvPDmKjLx-p5Org; expires=Mon, 08-Jan-2024 06:41:39 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AIKkIs2ZIBZtvgifLRyAqHnOrJzcG5TDrPQ32jPj-gnlWWyUt2qNOvHCxaTyXMeS3Qn1vZjd; expires=Mon, 08-Jan-2024 06:41:39 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AIKkIs2CjtdKmBR6Ll3MoOWNeq7k9RZKFZg9x740hH-6Pd6ss_XZVfPzfVOc0q532K-AERid-78; expires=Mon, 08-Jan-2024 06:41:39 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 60 Ended $$$$$$
+
+****** Response Body For Transaction With Id 60 ******
+["gaia.l.a.r",[["gaia.l.a",1,"hirut kifetew","hirutkifetew1977@gmail.com","https://lh3.googleusercontent.com/-sdHVOB4SmuI/AAAAAAAAAAI/AAAAAAAAAAA/-mPv2W7avTc/s48-c/photo.jpg",1,1,0,null,1,"110527588749498001484",null,null,null,null,1]]]
+$$$$$$ Response Body For Transaction With Id 60 Ended $$$$$$
+

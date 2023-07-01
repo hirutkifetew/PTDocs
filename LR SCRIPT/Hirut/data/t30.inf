@@ -1,0 +1,13 @@
+[t30]
+FileName1=t30_DomainsFilterGlobal.json
+URL1=https://www.bing.com/bloomfilterfiles/DomainsFilterGlobal.json
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_30.xml
+RequestHeaderFile=t30_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t30_ResponseHeader.txt
+FileName2=t30_ChRDaHJvbWUvMTEzLjAuMTc3NC40MhIXCTfZQeCPfjGJEgUN541ADhIFDc5BTHo=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEzLjAuMTc3NC40MhIXCTfZQeCPfjGJEgUN541ADhIFDc5BTHo=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

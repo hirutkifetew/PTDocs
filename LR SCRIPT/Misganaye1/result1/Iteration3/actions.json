@@ -1,0 +1,38 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: WebTours",
+                "infFile": "t1.inf",
+                "time": 1684347343148
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Custom Request: 3",
+                "infFile": "t2.inf",
+                "time": 1684347343635
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Custom Request: rewardsUserInfo",
+                "infFile": "t3.inf",
+                "time": 1684347344210
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Custom Request: msa",
+                "infFile": "t4.inf",
+                "time": 1684347344856
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Custom Request: 3_2",
+                "infFile": "t5.inf",
+                "time": 1684347365949
+            }
+        ],
+        "transactions": []
+    }
+]

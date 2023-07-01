@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Length: 137
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Fri, 21 Apr 2023 18:50:24 GMT
+Connection: keep-alive
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Methods: *
+Access-Control-Allow-Methods: GET, OPTIONS, POST
+Access-Control-Allow-Origin: *
+

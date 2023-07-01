@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Application-URL: http://192.168.1.3:80/DIAL/apps/
+Accept-Range: none
+Content-Length: 5777
+Content-Type: text/xml; charset="utf-8"
+Connection: close
+Date: Sun, 08 Jan 2023 06:41:35 GMT
+Server: FedoraCore/2 UPnP/1.0 MINT-X/1.8.1
+

@@ -1,0 +1,11 @@
+[t42]
+FileName1=t42.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:x5hjcxPIhcT8LVo8mS7AbrRrmhMxEZ1_obR93OCS7mw&cup2hreq=d2508d8ea3e40d65281d42264797a94b487d5a75e87e636569ee7e484a28b075
+Total=1
+RequestHeaderFile=t42_RequestHeader.txt
+RequestBodyFile=t42_RequestBody.txt
+ResponseHeaderFile=t42_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_42.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

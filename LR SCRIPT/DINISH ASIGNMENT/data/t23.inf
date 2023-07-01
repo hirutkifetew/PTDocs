@@ -1,0 +1,15 @@
+[t23]
+FileName1=t23.json
+URL1=https://www.bing.com/api/shopping/v1/savings/rewards/rewardsUserInfo
+Total=3
+RequestHeaderFile=t23_RequestHeader.txt
+RequestBodyFile=t23_RequestBody.txt
+ResponseHeaderFile=t23_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_23.xml
+FileName2=t23_modernizr-custom.html
+URL2=https://aspectran.com/assets/js/modernizr-custom.js
+FileName3=t23_jquery.min.html
+URL3=https://aspectran.com/assets/js/jquery.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

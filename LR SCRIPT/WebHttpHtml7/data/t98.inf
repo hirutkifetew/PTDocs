@@ -1,0 +1,11 @@
+[t98]
+FileName1=t98.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:xFnSbofd3BFGzCNsC0h0iYAPonoqMLB8uPhmW1FD5rU&cup2hreq=d57cc08850c2b06ca030397273bace571ce7c9ffa8204f85fdc0815090619f26
+Total=1
+RequestHeaderFile=t98_RequestHeader.txt
+RequestBodyFile=t98_RequestBody.txt
+ResponseHeaderFile=t98_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_98.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

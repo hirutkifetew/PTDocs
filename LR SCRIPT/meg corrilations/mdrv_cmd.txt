@@ -1,0 +1,1 @@
+-usr "C:\Users\kokob\Desktop\LR SCRIPT\meg corrilations\meg corrilations.usr" -compile_only -out "C:\Users\kokob\Desktop\LR SCRIPT\meg corrilations\" -drv_log_file "C:\Users\kokob\Desktop\LR SCRIPT\meg corrilations\mdrv.log" -cfg "C:\Users\kokob\Desktop\LR SCRIPT\meg corrilations\default.cfg" -product_name vugen

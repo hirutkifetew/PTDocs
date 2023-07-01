@@ -1,0 +1,11 @@
+[t78]
+FileName1=t78.json
+URL1=https://edge.microsoft.com/serviceexperimentation/v3/?osname=win&channel=stable&scpfull=0&scpguard=0&scpver=0&osver=10.0.22621&devicefamily=desktop&clientversion=113.0.1774.50&experimentationmode=2
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_78.xml
+RequestHeaderFile=t78_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t78_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

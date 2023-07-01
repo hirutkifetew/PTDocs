@@ -1,0 +1,13 @@
+[t38]
+FileName1=t38.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t38_RequestHeader.txt
+RequestBodyFile=t38_RequestBody.txt
+ResponseHeaderFile=t38_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_38.xml
+FileName2=t38_ChRDaHJvbWUvMTEzLjAuMTc3NC40MhIXCTfZQeCPfjGJEgUN541ADhIFDc5BTHo=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEzLjAuMTc3NC40MhIXCTfZQeCPfjGJEgUN541ADhIFDc5BTHo=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

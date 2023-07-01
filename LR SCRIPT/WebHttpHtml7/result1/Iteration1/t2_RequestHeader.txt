@@ -1,0 +1,16 @@
+GET /WebTours HTTP/1.1
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: none
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.22621.1485 Windows_NT/10.0.22621.1485 (x64)
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: 127.0.0.1:1080
+

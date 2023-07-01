@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=application/json
+StepName=Url: experiments
+Total=1
+FileName1=t1.json
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=1681664543364
+RawStepName=experiments
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1681664541067
+URL1=https://api.edgeoffer.microsoft.com/edgeoffer/experiments?appId=edge-extensions&country=CA

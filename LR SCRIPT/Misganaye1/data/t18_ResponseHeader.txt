@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Set-Cookie: SessionID=mat0slHGS8pNCnBLRIfZm3oru6vxYPPggI1fMje5vhET7YkxEb5GOvQcMqF47gI00HLlOEqhAEkI0ZeFkWBOcYYi9I76Q97YJfGMbyX7lKQSSpABCUdb3T8rWTd0L4HQ; path=/; HttpOnly;
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Content-Type: text/html
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'
+X-Content-Type-Options: nosniff
+Date: Tue, 25 Apr 2023 18:11:54 GMT
+Connection: Keep-Alive
+Content-Language: en
+Content-Length: 678
+

@@ -1,0 +1,1 @@
+-usr "C:\Users\kokob\Desktop\LR SCRIPT\Computer Database\Computer Database.usr" -compile_only -out "C:\Users\kokob\Desktop\LR SCRIPT\Computer Database\" -drv_log_file "C:\Users\kokob\Desktop\LR SCRIPT\Computer Database\mdrv.log" -cfg "C:\Users\kokob\Desktop\LR SCRIPT\Computer Database\default.cfg" -product_name vugen

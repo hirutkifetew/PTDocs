@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache,max-age=3600
+Content-Length: 16740
+Content-Type: application/json
+Content-Encoding: gzip
+Expires: Mon, 22 May 2023 14:29:11 GMT
+ETag: "bpO8td1Lze1n/8ryvE2+SC6mqtDH1CaehGmAvKQm7Hk="
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Report-To: {"group":"NelEcsUpload1","max_age":604800,"endpoints":[{"url":"https://ecs.nel.measure.office.net?TenantId=Edge&DestinationEndpoint=Edge-Prod-DUS30r4a&FrontEnd=AFD"}],"include_subdomains":true}
+NEL: {"report_to":"NelEcsUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 47CCBE1ED250477E8BF559253151F3DC Ref B: DUS30EDGE0312 Ref C: 2023-05-22T13:29:11Z
+Date: Mon, 22 May 2023 13:29:12 GMT
+

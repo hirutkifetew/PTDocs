@@ -1,0 +1,13 @@
+[t24]
+FileName1=t24_find-assets.json
+URL1=https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets?name=domains_config&version=2.*.*&channel=stable&key=d414dd4f9db345fa8003e32adc81b362
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_24.xml
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t24_ResponseHeader.txt
+FileName2=t24_mer_login.gif
+URL2=http://127.0.0.1:1080/WebTours/images/mer_login.gif
+[ProtocolInfo]
+ProtocolId=QTWeb

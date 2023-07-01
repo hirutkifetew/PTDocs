@@ -1,0 +1,15 @@
+[t5]
+FileName1=t5.htm
+URL1=https://computer-database.gatling.io/computers?p=2&n=10&s=name&d=asc
+Total=3
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_main.css
+URL2=https://computer-database.gatling.io/assets/css/main.css
+FileName3=t5_bootstrap.min.css
+URL3=https://computer-database.gatling.io/assets/css/bootstrap.min.css
+[ProtocolInfo]
+ProtocolId=QTWeb

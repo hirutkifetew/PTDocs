@@ -1,0 +1,7 @@
+[hosts]
+127.0.0.1=
+config.edge.skype.com=
+nav-edge.smartscreen.microsoft.com=
+data-edge.smartscreen.microsoft.com=
+www.bing.com=
+ecn.dev.virtualearth.net=

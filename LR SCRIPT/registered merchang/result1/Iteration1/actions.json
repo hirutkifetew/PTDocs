@@ -1,0 +1,34 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: www.ishatrainingsolutions.com",
+                "infFile": "t1.inf",
+                "time": 1674282568046
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: token",
+                "infFile": "t2.inf",
+                "time": 1674282568811
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: secQue",
+                "infFile": "t3.inf",
+                "time": 1674282569102
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1674282568076,
+                "rawEndTime": 1674282569105,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01244044303894043
+            }
+        ]
+    }
+]

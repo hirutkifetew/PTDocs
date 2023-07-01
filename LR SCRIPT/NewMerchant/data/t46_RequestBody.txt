@@ -1,0 +1,8 @@
+"{\"msisdn\":\"2023012181499\",\"name\":\"Ayemerchant\",\"emailAddress\":\"ayemerchant@abc.com\""
+",\"language\":\"English\",\"protocolVersion\":\"\",\"serviceUri\":\"\",\"walletStatus\":\"1\","
+"\"dfsWalletBank\":[{\"bankwalletid\":\"154\",\"bankAccount\":\"2244785599\",\"bankAccountHashC"
+"ode\":null,\"walletBankId\":null}],\"dfsRegisterAgent\":{\"companyName\":\"Ayemerchant\",\"alt"
+"ernativeEmailAddress1\":\"\",\"alternativeEmailAddress2\":\"\",\"smsAddress\":\"\",\"kvkId\":\""
+"\",\"contactNo\":\"\",\"locality\":\"Bengaluru-South\",\"companyAddress\":\"\",\"type_id\":\"1"
+"\",\"registerAgentId\":\"\"},\"dfsProfilePictureDto\":{\"profilePicture\":\"\"},\"walletId\":\""
+"\",\"file\":\"\",\"date\":\"2023-01-21T10:26:21.333Z\"}"

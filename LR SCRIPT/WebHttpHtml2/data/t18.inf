@@ -1,0 +1,11 @@
+[t18]
+FileName1=t18.txt
+URL1=https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=830011882&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fcategories%2FFISH&dt=JPetStore%20Demo&en=user_engagement&_et=8405
+Total=1
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_18.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

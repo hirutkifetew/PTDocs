@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Sun, 16 Apr 2023 16:51:02 GMT
+Server: Microsoft-IIS/10.0
+Content-Encoding: gzip
+Set-Cookie: ARRAffinity=b117089b1a5b7b9a50c2cc282e38356b81e58203b74a0f971ffe7c1652435406;Path=/;HttpOnly;Secure;Domain=api.edgeoffer.microsoft.com
+Set-Cookie: ARRAffinitySameSite=b117089b1a5b7b9a50c2cc282e38356b81e58203b74a0f971ffe7c1652435406;Path=/;HttpOnly;SameSite=None;Secure;Domain=api.edgeoffer.microsoft.com
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Request-Context: appId=cid-v1:54dd6cb5-576f-4336-9d64-a929d73adefd
+X-Powered-By: ASP.NET
+

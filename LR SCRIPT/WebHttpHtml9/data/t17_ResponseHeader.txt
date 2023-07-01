@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 1935
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 25E2FC3B30C045FB9F28A062129655B3 Ref B: BY3EDGE0212 Ref C: 2023-05-22T13:35:52Z
+Date: Mon, 22 May 2023 13:35:52 GMT
+

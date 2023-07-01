@@ -1,0 +1,21 @@
+GET /profile/history/data?do=2&userAccountType=0 HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+Cache-Control: max-age=0
+sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+content-type: text/plain
+Accept: */*
+Origin: https://ntp.msn.com
+Sec-MS-GEC: 367ACE4C7DB98FE959798947A65833BDD2CC8D97D653E0913C05B854C1DBF2D1
+Sec-MS-GEC-Version: 1-113.0.1774.50
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://ntp.msn.com/
+Accept-Encoding: gzip, deflate, br, zsdch
+Accept-Language: en-US,en;q=0.9
+Cookie: SRCHD=AF=NOFORM; SRCHUID=V=2&GUID=ACB19E7C638B460D931F4FD0161797CD&dmnchg=1; MSCCSC=1; MUID=08E2288EABF7645029433A9CAADD6558; ANON=A=61DA64BFEC386413636BD286FFFFFFFF&E=1b91&W=1; MMCASM=ID=27348DD9A19C45F88BDBA7AE4FCD9418; ABDEF=V=13&ABDV=11&MRNB=1682103964725&MRB=0; USRLOC=HS=1&ELOC=LAT=9.002052307128906|LON=38.77179718017578|N=Addis%20Ababa%2C%20Addis%20Ababa|ELT=6|; SRCHUSR=DOB=20220901&T=1684869365000; _RwBf=W=0&ilt=28&ihpd=0&ispd=3&rc=55&rb=55&gb=0&rg=0&pc=52&mtu=0&rbb=0.0&g=0&cid=&clo=0&v=6&l=2023-05-23T07:00:00.0000000Z&lft=0001-01-01T00:00:00.0000000&aof=0&o=0&p=BINGCOPILOTWAITLIST&c=MR000T&t=1166&s=2023-03-28T18:47:27.9431173+00:00&ts=2023-05-23T19:30:14.1956935+00:00&rwred=0&wls=2&lka=0&lkt=0&TH=&mta=0&mte=0&e=8FfM6KlArB-1aONrPGllAs3S1dcp7g2jBXyaldKLRThrHvQ0ZORx_slY47p0InR83284s__rh9OROG8lSRsWHER_12TYiC4uycUp4thzu3s; SRCHHPGUSR=SRCHLANG=en&PV=15.0.0&BRW=XW&BRH=M&CW=1482&CH=714&SCW=1465&SCH=3109&DPR=1.3&UTC=180&DM=1&PRVCW=1482&PRVCH=714&EXLTT=7&HV=1684870212&THEME=1&WTS=63818556680; SUID=A
+

@@ -1,0 +1,13 @@
+[t80]
+FileName1=t80.json
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=67220BD2169C2EA709984467C21494086DF8CA85&features=persnlcashback&sf=cashback1
+Total=2
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=t80_RequestBody.txt
+ResponseHeaderFile=t80_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_80.xml
+FileName2=t80_asset.html
+URL2=https://edgeassetservice.azureedge.net/assets/domains_config/2.8.65/asset?sv=2017-07-29&sr=c&sig=VBUha8aZq2CR6BVgg4iR2AzxZ9sd72hf%2BVSuB6e%2BhKA%3D&st=2021-01-01T00%3A00%3A00Z&se=2023-07-30T00%3A00%3A00Z&sp=r&assetgroup=EntityExtractionDomainsConfig
+[ProtocolInfo]
+ProtocolId=QTWeb

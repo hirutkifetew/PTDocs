@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 18
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 67861B4B7672400E8CE2F4ABA3714BA6 Ref B: PRAEDGE0717 Ref C: 2023-05-17T18:28:51Z
+Set-Cookie: _EDGE_S=F=1&SID=05FD0DCB468E6E8F1AE81EDF473A6F33; path=/; httponly; domain=bing.com
+Set-Cookie: _EDGE_V=1; path=/; httponly; expires=Mon, 10-Jun-2024 18:28:51 GMT; domain=bing.com
+Set-Cookie: MUID=3903297CF4826EB00AFF3A68F5366F31; samesite=none; path=/; secure; expires=Mon, 10-Jun-2024 18:28:51 GMT; domain=bing.com
+Set-Cookie: MUIDB=3903297CF4826EB00AFF3A68F5366F31; path=/; httponly; expires=Mon, 10-Jun-2024 18:28:51 GMT
+Date: Wed, 17 May 2023 18:28:51 GMT
+

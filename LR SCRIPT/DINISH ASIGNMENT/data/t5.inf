@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5.htm
+URL1=https://jpetstore.aspectran.com/catalog/
+Total=2
+ContentType=text/html
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+FileName2=t5_jpetstore.css
+URL2=https://jpetstore.aspectran.com/css/jpetstore.css
+[ProtocolInfo]
+ProtocolId=QTWeb

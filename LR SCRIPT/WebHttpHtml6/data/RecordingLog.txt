@@ -1,0 +1,90 @@
+[API Trapper      (6824:6518)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (2c78:60b8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (5f60:22ac)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (61cc:34f4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (61cc: ecc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (61cc: ecc)] Load Network Traffic Analyzers:
+[Network Analyzer (61cc: ecc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (61cc: ecc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (61cc: ecc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (61cc: ecc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (61cc: ecc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (61cc: ecc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (61cc: ecc)]     Analyzer Module: local_server (value=)
+[Network Analyzer (61cc: ecc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (61cc:5790)] Address lookup for hirut = 10.2.0.2
+[API Trapper      (25d0:48f4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (48c0:34e8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\113.0.1774.50\identity_helper.exe
+[Network Analyzer (61cc: ecc)] Address lookup for hirut = 10.2.0.2
+[API Trapper      (3ce4:4d90)] Recording in 64-bit mode: C:\WINDOWS\system32\wermgr.exe
+[Network Analyzer (61cc: ecc)] Request Connection: Remote Server @ 204.79.197.239:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (3ce4:4ea8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3ce4:4ea8)] Load Network Traffic Analyzers:
+[Network Analyzer (3ce4:4ea8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (3ce4:4ea8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (3ce4:4ea8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (3ce4:4ea8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (3ce4:4ea8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (3ce4:4ea8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (3ce4:4ea8)]     Analyzer Module: local_server (value=)
+[Network Analyzer (3ce4:4ea8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (3ce4:2d9c)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (2c78:65a0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2c78:65a0)] Load Network Traffic Analyzers:
+[Network Analyzer (2c78:65a0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2c78:65a0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (2c78:65a0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2c78:65a0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (2c78:65a0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (2c78:65a0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2c78:65a0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2c78:65a0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2c78:24e8)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (3ce4:4ea8)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (3ce4:4ea8)] Request Connection: Remote Server @ 20.42.73.29:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2c78:65a0)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (2c78:65a0)] Request Connection: Remote Server @ 13.89.179.12:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (3ce4:69b8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (3ce4:69b8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[API Trapper      (5d50:64b4)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (4b30:2ca8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (3ce4:23bc)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (3ce4:23bc)] Request Connection: Remote Server @ 173.223.117.131:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2c78:5218)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2c78:5218)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (3ce4:2d9c)] "GET /pkiops/crl/MicSecSerCA2011_2011-10-18.crl"   
+[Network Analyzer (3ce4:2d9c)]   (Sid:  2) Client -> Server @ : 159 bytes (Service=HTTP)
+[Network Analyzer (2c78:24e8)]   (Sid:  1) Client -> Server @ : 1196 bytes (SSL)(Service=HTTP)
+[Web Request      (2c78:24e8)] "POST /Telemetry.Request"   
+[Network Analyzer (2c78:24e8)]   (Sid:  1) Client -> Server @ : 3748 bytes (SSL)(Service=HTTP)
+[Network Analyzer (3ce4:2d9c)]   (Sid:  2) Server -> Client : 1306 bytes  (Service=HTTP)
+[Web Request      (3ce4:2d9c)] "GET /pkiops/crl/MicSecSerCA2011_2011-10-18.crl"   
+[Network Analyzer (3ce4:2d9c)]   (Sid:  2) Client -> Server @ : 202 bytes (Service=HTTP)
+[Network Analyzer (3ce4:2d9c)]   (Sid:  2) Server -> Client : 1306 bytes  (Service=HTTP)
+[Network Analyzer (3ce4:2d9c)]   (Sid:  1) Client -> Server @ : 1093 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2c78:24e8)]   (Sid:  1) Server -> Client : 815 bytes (SSL) (Service=HTTP)
+[API Trapper      (12d0:6438)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (12d0:155c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (12d0:155c)] Load Network Traffic Analyzers:
+[Network Analyzer (12d0:155c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (12d0:155c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (12d0:155c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (12d0:155c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (12d0:155c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (12d0:155c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (12d0:155c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (12d0:155c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (12d0:5f14)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (12d0:155c)] Address lookup for hirut = 10.2.0.2
+[Network Analyzer (12d0:155c)] Request Connection: Remote Server @ 204.79.197.239:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2c78:24e8)]   (Sid:  1) Client -> Server @ : 1196 bytes (SSL)(Service=HTTP)
+[Web Request      (2c78:24e8)] "POST /Telemetry.Request"   
+[Network Analyzer (2c78:24e8)]   (Sid:  1) Client -> Server @ : 3748 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2c78:24e8)]   (Sid:  1) Server -> Client : 815 bytes (SSL) (Service=HTTP)
+[Network Analyzer (12d0:5b50)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (12d0:5b50)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (12d0:5f14)] "GET /extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=113.0.1774.50&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.3%26installedby%3Dother%26uc"   
+[Network Analyzer (12d0:5f14)]   (Sid:  1) Client -> Server @ : 723 bytes (SSL)(Service=HTTP)
+[Network Analyzer (12d0:5f14)]   (Sid:  1) Server -> Client : 721 bytes (SSL) (Service=HTTP)
+[API Trapper      (46f8:5a44)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (1ec0:1200)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe

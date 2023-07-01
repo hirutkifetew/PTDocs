@@ -1,0 +1,334 @@
+[API Trapper      (15c4:5854)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (4af4:26f0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      ( b7c:32c4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( b7c:1618)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( b7c:1618)] Load Network Traffic Analyzers:
+[Network Analyzer ( b7c:1618)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( b7c:1618)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( b7c:1618)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( b7c:1618)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( b7c:1618)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( b7c:1618)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( b7c:1618)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( b7c:1618)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( b7c: 1f0)] Address lookup for hirut = 192.168.183.63
+[API Trapper      (208c:4a0c)] Recording in 64-bit mode: C:\windows\system32\cmd.exe
+[API Trapper      (5890:1fc8)] Recording in 64-bit mode: C:\windows\system32\cmd.exe
+[API Trapper      ( 744:2c4c)] Recording in 64-bit mode: C:\Program Files\McAfee\WebAdvisor\browserhost.exe
+[API Trapper      (38d0:5a4c)] Recording in 64-bit mode: C:\Program Files\McAfee\MSC\MfeBrowserHost.exe
+[API Trapper      ( 944:48f4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 142.250.185.35:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 172.217.169.237:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( b7c:3c84)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( b7c:4a38)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 142.250.181.163:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 142.250.185.42:443   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /WebTours/index.htm"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Client -> Server @ : 675 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( b7c:4a38)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( b7c:3c84)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/header.html"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Client -> Server @ : 712 bytes (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=108"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  1) Client -> Server @ : 469 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Client -> Server @ : 2341 bytes (SSL)(Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  6) Client -> Server @ : 723 bytes (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Server -> Client : 1007 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  6) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  6) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( b7c:58a0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  1) Server -> Client : 322 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Server -> Client : 2230 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Server -> Client : 283 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Server -> Client : 43 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 8b8)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  6) Connection Terminated (by Server)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:58a0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( b7c: 8b8)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  7) Client -> Server @ : 755 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  7) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  7) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  7) Connection Terminated (by Server)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 74.125.133.188:5228 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 74.125.133.188:5228 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 74.125.133.188:5228 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10060)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 74.125.133.188:5228   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /WebTours/home.html"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Client -> Server @ : 751 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 142.250.181.163:443   (Service=)  (Sid= 10)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  9) Client -> Server @ : 620 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  9) Server -> Client : 4487 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Client -> Server @ : 651 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /favicon.ico"   
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Client -> Server @ : 629 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:4820)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 216.58.209.138:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( b7c:4820)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( b7c: 1f0)] "POST /service/update2/json?cup2key=12:fMtMqBmh3X9OIHNbPys_ShzhxS9ceiWyrbPJejhpMYE&cup2hreq=f1a4c297576fbd316df024127dcaa17928afc308ba1aa33e9946ed0459b9b3ba"
+[Network Analyzer ( b7c: 1f0)]   (Sid: 10) Client -> Server @ : 1399 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 10) Client -> Server @ : 9588 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b7c:5950)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 10) Server -> Client : 1261 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 10) Server -> Client : 1121 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 10) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c:5950)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( b7c: 1f0)] "GET /v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSFwlN-SI5wUW4MBIFDeeNQA4SBQ3OQUx6?alt=proto"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 11) Client -> Server @ : 531 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 11) Server -> Client : 623 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  8) Connection Terminated (by Server)
+[API Trapper      (49cc:3f94)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[User action                 ] StartTransactionEvent Login [Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 172.217.19.170:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( b7c:2efc)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( b7c:2efc)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Web Request      ( b7c: 1f0)] "GET /v4/threatListUpdates:fetch?$req=Ch4KDGdvb2dsZWNocm9tZRIOMTA4LjAuNTM1OS4xMjUaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARCJyA8aAhgEhRXHQCIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQ688LGgIYBJhQrWUiBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABENynDBoCGATozV6ZIgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYBBkqY64iBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEENAwGgIYBNerjqQiBCABIAIoBBooCA8QARoaCg0IDxAGGAEiAzAwMTABEKBzGgIYBB0wlSIiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgEzoLCRyIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIBoCGATfnPf1IgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARDkERoCGAQJTCV8IgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARCh2AEaAhgEOG9RIiIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQzMYLGgIYBPMMwH0iBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABEPTnBhoCGASqY7GPIgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARDAFhoCGAQt127MIgQgASACKAEiAggB&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 12) Client -> Server @ : 1221 bytes (SSL)(Service=HTTP)
+[Web Request      ( b7c: 1f0)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Client -> Server @ : 1009 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Server -> Client : 871 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Client -> Server @ : 884 bytes (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 14) Client -> Server @ : 879 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 14) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 12) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 12) Server -> Client : 70 bytes (SSL) (Service=HTTP)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 14) Connection Terminated (by Server)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 15) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 15) Server -> Client : 986 bytes  (Service=HTTP)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 15) Connection Terminated (by Server)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 16) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 16) Server -> Client : 1049 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 17) Client -> Server @ : 795 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 17) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c: 1f0)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 142.250.185.35:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( b7c:2254)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    ( b7c:2254)] SSLAccept(ssl_id = 2015682638512 = 000001D5500C32B0) Failed, ctx = 000001D54C94CBC0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    ( b7c:2254)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 17) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid:  2) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Navigate Flight [Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Client -> Server @ : 918 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Client -> Server @ : 901 bytes (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 20) Client -> Server @ : 902 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Client -> Server @ : 799 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 20) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 20) Server -> Client : 286 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Server -> Client : 1023 bytes  (Service=HTTP)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 20) Connection Terminated (by Server)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSLAlBQlOibcsVChIFDVRiKa0SBQ17ncSlEgUNHzs5hRIFDdqFmWESBQ2pjkq9?alt=proto"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 11) Client -> Server @ : 559 bytes (SSL)(Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 21) Client -> Server @ : 793 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 21) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 21) Client -> Server @ : 801 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 21) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 11) Server -> Client : 630 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent Navigate Flight [Network Analyzer ( b7c: 1f0)]   (Sid: 21) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Find Flight [Web Request      ( b7c: 1f0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 22) Client -> Server @ : 1278 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 22) Server -> Client : 2693 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 22) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Find Flight [Network Analyzer ( b7c: 1f0)]   (Sid: 10) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Choose Flight [Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Web Request      ( b7c: 1f0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 23) Client -> Server @ : 1174 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 23) Server -> Client : 3007 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 23) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 23) Connection Terminated (by Server)
+[Web Request      ( b7c: 1f0)] "GET /v1/pages/ChVDaHJvbWUvMTA4LjAuNTM1OS4xMjUSOgk5ylnIzuC4ABIFDWtomm4SBQ1Pnif4EgUNY5MnhxIFDaJZuEkSBQ34tP6gEgUNV2gsmRIFDW36Zsk=?alt=proto"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 11) Client -> Server @ : 579 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 11) Server -> Client : 681 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent Choose Flight [Web Request      ( b7c: 1f0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 24) Client -> Server @ : 1345 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 24) Server -> Client : 2886 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 24) Client -> Server @ : 785 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 24) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 24) Connection Terminated (by Server)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 12) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Payment [Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Web Request      ( b7c: 1f0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 25) Client -> Server @ : 1342 bytes (Service=HTTP)
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( b7c: 1f0)]   (Sid: 25) Server -> Client : 2886 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 25) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent Payment [Network Analyzer ( b7c: 1f0)]   (Sid: 25) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent Logoff [Web Request      ( b7c: 1f0)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Client -> Server @ : 916 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( b7c: 1f0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Client -> Server @ : 752 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Server -> Client : 1751 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 26) Connection Terminated (by Server)
+[Net An. Warning  ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( b7c:1618)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( b7c:1618)] Address lookup for hirut = 192.168.183.63
+[Network Analyzer ( b7c:1618)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 27)  PROXIED!
+[Web Request      ( b7c: 1f0)] "GET /WebTours/home.html"   
+[Network Analyzer ( b7c: 1f0)]   (Sid: 27) Client -> Server @ : 848 bytes (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 27) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( b7c: 1f0)]   (Sid: 27) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Logoff 

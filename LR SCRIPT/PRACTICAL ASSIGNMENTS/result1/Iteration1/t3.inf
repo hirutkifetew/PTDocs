@@ -1,0 +1,13 @@
+[t3]
+SnapshotXmlFile=snapshot_3.xml
+ContentType=application/json
+StepName=Custom Request: msa
+Total=1
+FileName1=t3.json
+RequestHeaderFile=t3_RequestHeader.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1681664548922
+RawStepName=msa
+RequestBodyFile=t3_RequestBody.txt
+RawStepStartTime=1681664548224
+URL1=https://edge.microsoft.com/identity/api/v3/msa

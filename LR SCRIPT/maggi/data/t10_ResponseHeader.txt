@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=43200
+Transfer-Encoding: chunked
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+ETag: "1873DB98C6020D0E90B6E5DE2458C147AF20E7F449229D16EC46F9D5CE6263D4"
+Vary: Accept-Encoding
+X-Cache: TCP_HIT
+X-Mesh-Client-TTL: 72
+Strict-Transport-Security: max-age=0
+X-MSEdge-Ref: Ref A: D6D2D5976E8E407697B17C06E8291DB9 Ref B: AMS04EDGE2106 Ref C: 2023-04-17T14:57:27Z
+Date: Mon, 17 Apr 2023 14:57:26 GMT
+

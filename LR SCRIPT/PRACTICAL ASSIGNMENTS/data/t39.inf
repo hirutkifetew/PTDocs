@@ -1,0 +1,13 @@
+[t39]
+FileName1=t39.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:L6uCEAgyUq78y63h43VUmQmU8xggJDFfHG4KWjgGZ9U&cup2hreq=270ee8fb998c45ef7d5a145eae84a9fd42d8017fc80ba6a737f2d8e6dabc6fe0
+Total=2
+RequestHeaderFile=t39_RequestHeader.txt
+RequestBodyFile=t39_RequestBody.txt
+ResponseHeaderFile=t39_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_39.xml
+FileName2=t39_generate_204.html
+URL2=http://edge-http.microsoft.com/captiveportal/generate_204
+[ProtocolInfo]
+ProtocolId=QTWeb

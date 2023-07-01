@@ -1,0 +1,14 @@
+GET /adminPortal/getAllLanguages HTTP/1.1
+Host: www.ishatrainingsolutions.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiVVNFUl9DTElFTlRfUkVTT1VSQ0UiLCJVU0VSX0FETUlOX1JFU09VUkNFIl0sInJvbGUiOjMsInVzZXJfbmFtZSI6ImlzaGF0cmFpbmluZ3NvbHV0aW9uIiwic2NvcGUiOlsicm9sZV9zdGF0aWMiXSwiaWQiOjUsImV4cCI6MTY3NDMwMTE0NSwiYXV0aG9yaXRpZXMiOlsicm9sZV9zdGF0aWMiXSwianRpIjoiNDE5Mzk4MTgtYjJkZi00MTEzLWIwNWEtYmEyODNlOTJkMGU4IiwiZW1haWwiOiJpc2hhdHJhaW5pbmdzb2x1dGlvbkBnbWFpbC5jb20iLCJjbGllbnRfaWQiOiJVU0VSX0NMSUVOVF9BUFAifQ.HyQmQuRRL-WQSk3ijrRTvmVELsTJNx_C7ypng7wz5L1H2EAQe_8-ErgpWBmRZgVYAecaYeQnLHquWqSf0fMP_C1w8OgdvYmi1cbauRTu4Y6xvNsu7p91vXJMAfJsBFu4Qgnm-HHzKSSqCrYKeGwR8IdNfTT7Brc3MCI33JQPrUDHQIT4Oabq54mq1vChBqMptGMR8_QHlIhnQuagf8CtA29CREkvgRMKBJFFczqVtOJWbz0682P7C1IbeztKjRsOX9TNocja2JDRD5kQ7QAhIQ4mrHpeFjxP-ZWan3pMbSSpFpDLQAb9Oim8UMRhLkJRGdL4fuMQM3jiKRXL9-gZZQ
+DNT: 1
+Connection: keep-alive
+Referer: https://www.ishatrainingsolutions.com/merchants
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+

@@ -1,0 +1,13 @@
+[t24]
+FileName1=t24.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:uerE3ItZzZVk6uOHBGV-_P3hcUURWbWE6zIO7wSS9AE&cup2hreq=151c229aca931ae891ac3063f1be8069b9f24ea63fc5798c4bad1128a14d191f
+Total=2
+RequestHeaderFile=t24_RequestHeader.txt
+RequestBodyFile=t24_RequestBody.txt
+ResponseHeaderFile=t24_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_24.xml
+FileName2=t24_threatListUpdates_fetch.html
+URL2=https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates_fetch?req=ChcKBm1zZWRnZRINMTEzLjAuMTc3NC40MhobCAEQCBoNMTY3NzEzMTM3MDQxOSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362&ei=N
+[ProtocolInfo]
+ProtocolId=QTWeb

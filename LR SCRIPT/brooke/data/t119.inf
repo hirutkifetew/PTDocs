@@ -1,0 +1,11 @@
+[t119]
+FileName1=t119.html
+URL1=https://bzib.nelreports.net/api/report?cat=bingbusiness
+Total=1
+RequestHeaderFile=t119_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t119_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_119.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

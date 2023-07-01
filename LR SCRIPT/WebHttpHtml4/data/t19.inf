@@ -1,0 +1,13 @@
+[t19]
+FileName1=t19.htm
+URL1=http://127.0.0.1:1080/cgi-bin/reservations.pl
+Total=2
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=t19_RequestBody.txt
+ResponseHeaderFile=t19_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_19.xml
+FileName2=t19_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSOglrx_Y_aj184BIFDWtomm4SBQ1Pnif4EgUNY5MnhxIFDaJZuEkSBQ34tP6gEgUNV2gsmRIFDW36Zsk=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMzgSOglrx_Y_aj184BIFDWtomm4SBQ1Pnif4EgUNY5MnhxIFDaJZuEkSBQ34tP6gEgUNV2gsmRIFDW36Zsk=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

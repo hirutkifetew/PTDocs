@@ -1,0 +1,11 @@
+[t14]
+FileName1=t14.json
+URL1=https://www.bing.com/api/shopping/v1/item/search?appid=45EBD043982A03A4CA6B8962005A06F2B1FED569&mkt=en-us&uapimkt=en-us&features=enuapimkt
+Total=1
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=t14_RequestBody.txt
+ResponseHeaderFile=t14_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_14.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

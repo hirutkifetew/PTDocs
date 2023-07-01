@@ -1,0 +1,1075 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-microsoft-update-updater",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-service-cohort",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-microsoft-update-appid",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-http-method-override",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "update-interactivity",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-webview",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-os-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-os",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-edge-version",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-edge-channel",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-mesh-client-arch",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua-platform",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua-mobile",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-ch-ua",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "ms-cv",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "edgefeatureflags",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "cache-control",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "authorization",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-method",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-headers",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/xml"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-protobuf"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 18,
+    "RecordedBrowser": "c:\\program files (x86)\\microsoft\\edge\\application\\msedge.exe",
+    "RecordingDate": "Apr-15-2023",
+    "RecordingDuration": 701781,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1681569486,
+    "RecordingType": "Application",
+    "TotalBytesReceived": 468137,
+    "TotalBytesSent": 51789,
+    "TotalRequests": 42,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.46"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "skype.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.107.42.16",
+          "IncludeInScript": true,
+          "Name": "config.edge.skype.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 359,
+              "EventId": 618,
+              "HttpStatus": 200,
+              "Size": 16520,
+              "URL": "https://config.edge.skype.com/config/v1/Edge/112.0.1722.46?clientId=6921235004802684617&agents=Edge%2CEdgeConfig%2CEdgeServices%2CEdgeFirstRun%2CEdgeFirstRunConfig%2CEdgeDomainActions&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&scpver=0&osarch=x86_64&osver=10.0.22621&wu=1&devicefamily=desktop&uma=0&sessionid=391&mngd=0&installdate=1661998981&edu=0&bphint=2&soobedate=1661998892"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "msn.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.203",
+          "IncludeInScript": false,
+          "Name": "ntp.msn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 2781,
+              "EventId": 478,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://ntp.msn.com/edge/ntp/service-worker.js?raceEnabled=true&riverAgeMinutes=180&navAgeMinutes=2880&enableNavPreload=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 234,
+              "EventId": 422,
+              "HttpStatus": 200,
+              "Size": 34762,
+              "URL": "https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 172,
+              "EventId": 365,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://ntp.msn.com/edge/ntp/service-worker.js?raceEnabled=true&riverAgeMinutes=180&navAgeMinutes=2880&enableNavPreload=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 203,
+              "EventId": 66,
+              "HttpStatus": 200,
+              "Size": 34762,
+              "URL": "https://ntp.msn.com/edge/ntp?locale=en-US&title=New%20tab&dsp=1&sp=Bing&startpage=1&PC=U531&prerender=1"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.73.0.161",
+          "IncludeInScript": false,
+          "Name": "assets.msn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 328,
+              "EventId": 544,
+              "HttpStatus": 200,
+              "Size": 919,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v3/Condition/AAehLNN.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 453,
+              "EventId": 528,
+              "HttpStatus": 200,
+              "Size": 442,
+              "URL": "https://assets.msn.com/service/News/Users/me/Rewards?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=51566436-B132-40D2-B8FB-68673981610E&ocid=rewards-peregrine&cm=en-ca&it=app&user=m-08E2288EABF7645029433A9CAADD6558&scn=APP_ANON&version=2"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 297,
+              "EventId": 524,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://assets.msn.com/breakingnews/v1/cms/api/amp/article/AA1ZJNN"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/jpeg",
+              "DownloadTime": 313,
+              "EventId": 522,
+              "HttpStatus": 200,
+              "Size": 5314,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/background/v2.0/jpg/partlysunny_day.jpg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 203,
+              "EventId": 520,
+              "HttpStatus": 200,
+              "Size": 3476,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/32_21_6_202304151612.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 297,
+              "EventId": 518,
+              "HttpStatus": 200,
+              "Size": 3865,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/31_21_6_202304151612.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 328,
+              "EventId": 516,
+              "HttpStatus": 200,
+              "Size": 3596,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/32_21_6_202304151548.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 344,
+              "EventId": 514,
+              "HttpStatus": 200,
+              "Size": 3849,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/31_21_6_202304151548.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 328,
+              "EventId": 512,
+              "HttpStatus": 200,
+              "Size": 4147,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/32_21_6_202304151524.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 297,
+              "EventId": 508,
+              "HttpStatus": 200,
+              "Size": 3628,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/31_21_6_202304151524.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 344,
+              "EventId": 505,
+              "HttpStatus": 200,
+              "Size": 3411,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/31_21_6_202304151500.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 328,
+              "EventId": 503,
+              "HttpStatus": 200,
+              "Size": 4509,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/32_21_6_202304151500.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 156,
+              "EventId": 496,
+              "HttpStatus": 200,
+              "Size": 5713,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/32_21_6_202304151436.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 203,
+              "EventId": 490,
+              "HttpStatus": 200,
+              "Size": 2589,
+              "URL": "https://assets.msn.com/weathermapdata/1/nowcastmap/202304151436/Sbn/6/31_21_6_202304151436.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 3156,
+              "EventId": 472,
+              "HttpStatus": 200,
+              "Size": 71272,
+              "URL": "https://assets.msn.com/serviceak/news/feed/pages/ntp?User=m-08E2288EABF7645029433A9CAADD6558&activityId=51566436-B132-40D2-B8FB-68673981610E&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-ca&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&infopaneCount=26&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&prerender=1&scn=APP_ANON&timeOut=1000&wposchema=byregion"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/svg+xml",
+              "DownloadTime": 485,
+              "EventId": 431,
+              "HttpStatus": 200,
+              "Size": 1259,
+              "URL": "https://assets.msn.com/weathermapdata/1/static/weather/Icons/taskbar_v3/Condition_Card/D200PartlySunnyV2.svg"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 2078,
+              "EventId": 320,
+              "HttpStatus": 200,
+              "Size": 76124,
+              "URL": "https://assets.msn.com/serviceak/news/feed/pages/ntp?User=m-08E2288EABF7645029433A9CAADD6558&activityId=1BAE49C6-0FD0-4B72-A4B3-28DF727DFD2D&apikey=0QfOX3Vn51YCzitbLaRkTTBadtWpgTN8NZLW0C1SEM&audienceMode=adult&caller=bgtask&cm=en-ca&contentType=article,video,slideshow,webcontent&dhp=1&duotone=true&infopaneCount=26&it=app&memory=8&newsSkip=0&newsTop=48&ocid=anaheim-ntp-feeds&prerender=1&scn=APP_ANON&timeOut=1000&wposchema=byregion"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.203",
+          "IncludeInScript": false,
+          "Name": "api.msn.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 343,
+              "EventId": 484,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&ocid=authconstants-peregrine&activityId=51566436-B132-40D2-B8FB-68673981610E&scn=app_anon"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 672,
+              "EventId": 461,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?scn=app_anon&ocid=authconstants-peregrine&apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=51566436B13240D2B8FB68673981610E"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 657,
+              "EventId": 407,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&ocid=authconstants-peregrine&activityId=1BAE49C6-0FD0-4B72-A4B3-28DF727DFD2D&scn=app_anon"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/json",
+              "DownloadTime": 3328,
+              "EventId": 275,
+              "HttpStatus": 200,
+              "Size": 6,
+              "URL": "https://api.msn.com/auth/cookie/appanon?scn=app_anon&ocid=authconstants-peregrine&apikey=1hYoJsIRvPEnSkk0hlnJF2092mHqiz7xFenIFKa9uc&activityId=1BAE49C60FD04B72A4B328DF727DFD2D"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "20.107.133.201",
+          "IncludeInScript": true,
+          "Name": "nav-edge.smartscreen.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 203,
+              "EventId": 756,
+              "HttpStatus": 200,
+              "Size": 993,
+              "URL": "https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.239",
+          "IncludeInScript": true,
+          "Name": "edge.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 4438,
+              "EventId": 707,
+              "HttpStatus": 200,
+              "Size": 184,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEyLjAuNTYxNS44NxIQCRk321u0-HwBEgUNAo_7aBJWCR-l9iZ8XtAgEgUN6vDYJxIFDVdoLJkSBQ0OApCOEgUNjrElphIFDRT84rASBQ2wPbx-EgUNr77f_BIFDZYj33cSBQ2k7HW6EgUNK0tFMRIFDS3G4VU=?alt=proto"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 735,
+              "EventId": 701,
+              "HttpStatus": 200,
+              "Size": 36,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEyLjAuNTYxNS44NxIQCRk321u0-HwBEgUNAo_7aBIQCVzEFhkkFV7yEgUN8_oZlw==?alt=proto"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-protobuf",
+              "DownloadTime": 172,
+              "EventId": 595,
+              "HttpStatus": 200,
+              "Size": 49,
+              "URL": "https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates:fetch?req=ChcKBm1zZWRnZRINMTEyLjAuMTcyMi40NhobCAEQCBoNMTY3NzEzMTM3MDQxOSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362&ei=N"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 375,
+              "EventId": 562,
+              "HttpStatus": 200,
+              "Size": 180,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 188,
+              "EventId": 560,
+              "HttpStatus": 200,
+              "Size": 52,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEyLjAuNTYxNS44NxIQCRk321u0-HwBEgUNAo_7aBIXCYxhIhF01Z7OEgUN541ADhIFDc5BTHo=?alt=proto"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 985,
+              "EventId": 467,
+              "HttpStatus": 200,
+              "Size": 1194,
+              "URL": "https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:VquqBQj0AZ_sz-VWY6Ld_Fb6fTyD7hMfMev1DJ-Yw28&cup2hreq=5f4863fb40c8a2aba075fcc4c8b2116c8a9951f32cea401a2f73dbe993ec1fad"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 1407,
+              "EventId": 401,
+              "HttpStatus": 200,
+              "Size": 20,
+              "URL": "https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEyLjAuNTYxNS44NxIQCRk321u0-HwBEgUNAo_7aA==?alt=proto"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 219,
+              "EventId": 129,
+              "HttpStatus": 200,
+              "Size": 1865,
+              "URL": "https://edge.microsoft.com/identity/api/v3/msa"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/xml",
+              "DownloadTime": 218,
+              "EventId": 127,
+              "HttpStatus": 200,
+              "Size": 413,
+              "URL": "https://edge.microsoft.com/extensionwebstorebase/v1/crx?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=edgecrx&prodchannel=&prodversion=112.0.1722.46&lang=en-US&acceptformat=crx3&x=id%3Djmjflgjpcpepeafmmgdpfkogkghcpiha%26v%3D1.1.2%26installedby%3Dother%26uc"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "94.245.104.56",
+          "IncludeInScript": true,
+          "Name": "api.edgeoffer.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 37,
+              "HttpStatus": 200,
+              "Size": 123,
+              "URL": "https://api.edgeoffer.microsoft.com/edgeoffer/experiments?appId=edge-extensions&country=CA"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googletagmanager.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.16.72",
+          "IncludeInScript": true,
+          "Name": "www.googletagmanager.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 3282,
+              "EventId": 273,
+              "HttpStatus": 200,
+              "Size": 78370,
+              "URL": "https://www.googletagmanager.com/gtag/js?id=G-PBGW9BF7P6"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "142.251.209.138",
+          "IncludeInScript": false,
+          "Name": "fonts.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 250,
+              "EventId": 131,
+              "HttpStatus": 200,
+              "Size": 587,
+              "URL": "https://fonts.googleapis.com/css?family=Raleway:500,500i,700"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google-analytics.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.239.32.36",
+          "IncludeInScript": true,
+          "Name": "region1.google-analytics.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 188,
+              "EventId": 771,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=1841678844&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FviewOrder%3ForderId%3D66281%26submitted%3Dtrue&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 188,
+              "EventId": 765,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=1310553378&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=3&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FviewOrder%3ForderId%3D66281%26submitted%3Dtrue&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dt=JPetStore%20Demo&en=user_engagement&_et=18034"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 297,
+              "EventId": 763,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=1310553378&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=AEA&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FviewOrder%3ForderId%3D66281%26submitted%3Dtrue&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dt=JPetStore%20Demo&en=scroll&epn.percent_scrolled=90&_et=5365"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 761,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=1310553378&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FviewOrder%3ForderId%3D66281%26submitted%3Dtrue&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 234,
+              "EventId": 752,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=909782887&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=3&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrderForm&dt=JPetStore%20Demo&en=user_engagement&_et=51311"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 344,
+              "EventId": 735,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=909782887&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=AEA&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrderForm&dt=JPetStore%20Demo&en=scroll&epn.percent_scrolled=90&_et=3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 594,
+              "EventId": 730,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=909782887&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrder&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrderForm&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 188,
+              "EventId": 724,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=834564473&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrderForm&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcart%2FviewCart&dt=JPetStore%20Demo&en=user_engagement&_et=62777"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 203,
+              "EventId": 709,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=834564473&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Forder%2FnewOrderForm&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcart%2FviewCart&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 705,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=314534031&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=3&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcart%2FviewCart&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dt=JPetStore%20Demo&en=user_engagement&_et=3608"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 484,
+              "EventId": 703,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=314534031&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_eu=AEA&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcart%2FviewCart&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dt=JPetStore%20Demo&en=scroll&epn.percent_scrolled=90&_et=8"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 188,
+              "EventId": 689,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=314534031&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcart%2FviewCart&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 187,
+              "EventId": 686,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=830011882&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fcategories%2FFISH&dt=JPetStore%20Demo&en=user_engagement&_et=8405"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 156,
+              "EventId": 671,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=830011882&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fcategories%2FFISH&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 665,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=478105174&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fcategories%2FFISH&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dt=JPetStore%20Demo&en=user_engagement&_et=9858"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 663,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=478105174&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fcategories%2FFISH&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 661,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=1733915383&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Faccount%2FsignonForm&dt=JPetStore%20Demo&en=user_engagement&_et=3705"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 172,
+              "EventId": 654,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=1733915383&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Faccount%2FsignonForm&dt=JPetStore%20Demo&en=page_view&_ee=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 375,
+              "EventId": 649,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=211981188&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Faccount%2FsignonForm&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dt=JPetStore%20Demo&en=user_engagement&_et=25874"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 235,
+              "EventId": 558,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=447796537&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=2&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dt=JPetStore%20Demo&en=user_engagement&_et=38870"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 188,
+              "EventId": 417,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=447796537&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=1&sid=1681569543&sct=1&seg=0&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2F&dt=JPetStore%20Demo&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "cloudflare.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.190.80.1",
+          "IncludeInScript": true,
+          "Name": "a.nel.cloudflare.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 234,
+              "EventId": 634,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://a.nel.cloudflare.com/report/v3?s=u%2FZCfzYk30S9QAPbFB7zkixhiNOqJdgE0mwnf6py%2BdFzu3MWv6f1xJ1IBujxPzOb8peSJE9W2KLf4fOKSvGBnUQpdhktSZJX4ltbpuJjbE46%2Bj9Gz%2BZL%2BvJa0r9ap350FZR4LSXeMXw3sQ%3D%3D"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "96.16.53.207",
+          "IncludeInScript": true,
+          "Name": "www.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 188,
+              "EventId": 367,
+              "HttpStatus": 200,
+              "Size": 332303,
+              "URL": "https://www.bing.com/bloomfilterfiles/DomainsFilterGlobal.json"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "aspectran.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "188.114.97.0",
+          "IncludeInScript": true,
+          "Name": "jpetstore.aspectran.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 922,
+              "EventId": 580,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://jpetstore.aspectran.com/account/signon"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 922,
+              "EventId": 87,
+              "HttpStatus": 200,
+              "Size": 1219,
+              "URL": "https://jpetstore.aspectran.com/css/jpetstore.css"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/html",
+              "DownloadTime": 937,
+              "EventId": 39,
+              "HttpStatus": 200,
+              "Size": 5744,
+              "URL": "https://jpetstore.aspectran.com/catalog/"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "188.114.97.0",
+          "IncludeInScript": true,
+          "Name": "aspectran.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 227,
+              "HttpStatus": 403,
+              "Size": 553,
+              "URL": "https://aspectran.com/assets/js/jquery.min.js"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "text/css",
+              "DownloadTime": 297,
+              "EventId": 136,
+              "HttpStatus": 200,
+              "Size": 26427,
+              "URL": "https://aspectran.com/assets/css/aspectran.css"
+            },
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 297,
+              "EventId": 134,
+              "HttpStatus": 200,
+              "Size": 1892,
+              "URL": "https://aspectran.com/assets/js/modernizr-custom.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "akamaized.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "95.101.74.207",
+          "IncludeInScript": true,
+          "Name": "img-s-msn-com.akamaized.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 188,
+              "EventId": 536,
+              "HttpStatus": 200,
+              "Size": 582,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBWdbbd?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 533,
+              "HttpStatus": 200,
+              "Size": 512,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA14HnBT?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 530,
+              "HttpStatus": 200,
+              "Size": 1168,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AADlGq4?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 297,
+              "EventId": 526,
+              "HttpStatus": 200,
+              "Size": 1232,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYPnHe?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 312,
+              "EventId": 449,
+              "HttpStatus": 200,
+              "Size": 1232,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYPnHe?w=16&h=16&q=100&m=6&f=png&u=t"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 172,
+              "EventId": 415,
+              "HttpStatus": 200,
+              "Size": 512,
+              "URL": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBKZIcr?w=16&h=16&q=100&m=6&f=png&u=t"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}

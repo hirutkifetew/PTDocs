@@ -1,0 +1,13 @@
+[t108]
+FileName1=t108.json
+URL1=https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=6:xz9K4hkL7lvf23JWrvurLB_mHDjNUCYfg1wMcQnLJTA&cup2hreq=f847ec10598ac46139a878a21c65e0981adcee707b6936279111c0fa8306fa96
+Total=2
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=t108_RequestBody.txt
+ResponseHeaderFile=t108_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_108.xml
+FileName2=t108_asset.html
+URL2=https://edgeassetservice.azureedge.net/assets/edge_hub_apps_manifest/4.7.53/asset?sv=2017-07-29&sr=c&sig=VBUha8aZq2CR6BVgg4iR2AzxZ9sd72hf%2BVSuB6e%2BhKA%3D&st=2021-01-01T00%3A00%3A00Z&se=2023-07-30T00%3A00%3A00Z&sp=r&assetgroup=Shoreline
+[ProtocolInfo]
+ProtocolId=QTWeb

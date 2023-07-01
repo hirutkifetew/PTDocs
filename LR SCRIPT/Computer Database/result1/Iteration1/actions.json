@@ -1,0 +1,139 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: computers",
+                "infFile": "t1.inf",
+                "time": 1674072122572
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: Next →",
+                "infFile": "t2.inf",
+                "time": 1674072123455
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Next →",
+                "infFile": "t3.inf",
+                "time": 1674072124307
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: Next →",
+                "infFile": "t4.inf",
+                "time": 1674072125188
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Next →",
+                "infFile": "t5.inf",
+                "time": 1674072126162
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: Next →",
+                "infFile": "t6.inf",
+                "time": 1674072127038
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Next →_2",
+                "infFile": "t7.inf",
+                "time": 1674072128061
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Data: computers_2",
+                "infFile": "t8.inf",
+                "time": 1674072128883
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: ACE",
+                "infFile": "t9.inf",
+                "time": 1674072129860
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Data: 381",
+                "infFile": "t10.inf",
+                "time": 1674072131216
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Launch",
+                "rawStartTime": 1674072120304,
+                "rawEndTime": 1674072122587,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1859133243560791
+            },
+            {
+                "transactionName": "pagination_1",
+                "rawStartTime": 1674072122665,
+                "rawEndTime": 1674072123457,
+                "thinkTime": 0.0,
+                "wastedTime": 0.034079790115356448
+            },
+            {
+                "transactionName": "pagination_2",
+                "rawStartTime": 1674072123536,
+                "rawEndTime": 1674072124318,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012823820114135743
+            },
+            {
+                "transactionName": "pagination_3",
+                "rawStartTime": 1674072124396,
+                "rawEndTime": 1674072125200,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014108896255493164
+            },
+            {
+                "transactionName": "pagination_4",
+                "rawStartTime": 1674072125326,
+                "rawEndTime": 1674072126169,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014627218246459961
+            },
+            {
+                "transactionName": "pagination_5",
+                "rawStartTime": 1674072126249,
+                "rawEndTime": 1674072127045,
+                "thinkTime": 0.0,
+                "wastedTime": 0.015828847885131837
+            },
+            {
+                "transactionName": "Pagination 3",
+                "rawStartTime": 1674072127280,
+                "rawEndTime": 1674072128067,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012571096420288086
+            },
+            {
+                "transactionName": "Search_ computer",
+                "rawStartTime": 1674072128101,
+                "rawEndTime": 1674072128896,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012983083724975586
+            },
+            {
+                "transactionName": "Click_Computer",
+                "rawStartTime": 1674072128928,
+                "rawEndTime": 1674072129866,
+                "thinkTime": 0.0,
+                "wastedTime": 0.017821788787841798
+            },
+            {
+                "transactionName": "Save_C0mputer",
+                "rawStartTime": 1674072129897,
+                "rawEndTime": 1674072131226,
+                "thinkTime": 0.0,
+                "wastedTime": 0.021070003509521486
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+POST /adminPortal/showDetails?value=alt HTTP/1.1
+Host: www.ishatrainingsolutions.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/109.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsiVVNFUl9DTElFTlRfUkVTT1VSQ0UiLCJVU0VSX0FETUlOX1JFU09VUkNFIl0sInJvbGUiOjMsInVzZXJfbmFtZSI6ImlzaGF0cmFpbmluZ3NvbHV0aW9uIiwic2NvcGUiOlsicm9sZV9zdGF0aWMiXSwiaWQiOjUsImV4cCI6MTY3NDE0NDg4MywiYXV0aG9yaXRpZXMiOlsicm9sZV9zdGF0aWMiXSwianRpIjoiODdjOThjMWEtZDk5YS00MjhjLWJmOTQtMjkyZDkxMzEwYmEyIiwiZW1haWwiOiJpc2hhdHJhaW5pbmdzb2x1dGlvbkBnbWFpbC5jb20iLCJjbGllbnRfaWQiOiJVU0VSX0NMSUVOVF9BUFAifQ.tvn4KNGxL5PjBzAUx1eZ_uHaDgnAC2y5jMQXnVR1iGiAyvAnKkAZBB0NIMP41wvYw1LjPOdGIKQ4TUFthyRrP_TomAOZlQb4f_JIsD2YpO1Zk15CkuWlNk5Cch0sxZLcLR1oi6FuUIvInWF0OEJSIiQjSui8Dl6l7g7hgQUK6IV2TFHV3P3NZubB81cxF3pbsl2nmd3f0kzcJWEzeJopRksLl6XyYEodgLF-fi-wF7MSMl5VBqlreGtqJfqsOLYF33QPOs77fIh6TnXoGi2WNyHipcvnSjC1cb9xa_r8EsviJq7U6d2kH0bqtAYiAofB1sGFrbBJaPbEaSJgAqklsw
+Content-Type: application/json
+Content-Length: 13
+Origin: https://www.ishatrainingsolutions.com
+DNT: 1
+Connection: keep-alive
+Referer: https://www.ishatrainingsolutions.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+

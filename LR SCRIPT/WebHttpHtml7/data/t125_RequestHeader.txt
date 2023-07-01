@@ -1,0 +1,12 @@
+POST /api/shopping/v1/item/search?appid=67220BD2169C2EA709984467C21494086DF8CA85&features=persnlcashback&sf=cashback1 HTTP/1.1
+Host: www.bing.com
+Connection: keep-alive
+Content-Length: 3012
+Content-Type: application/json
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+

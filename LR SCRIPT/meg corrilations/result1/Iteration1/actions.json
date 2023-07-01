@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "corilation_2",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: index.htm",
+                "infFile": "t1.inf",
+                "time": 1673698542174
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "login",
+                "rawStartTime": 1673698542204,
+                "rawEndTime": 1673698573308,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]

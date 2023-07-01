@@ -1,0 +1,13 @@
+[t21]
+FileName1=t21.txt
+URL1=https://region1.google-analytics.com/g/collect?v=2&tid=G-PBGW9BF7P6&gtm=45je34c0&_p=314534031&cid=1944378990.1681569543&ul=en-us&sr=1536x864&uaa=x86&uab=64&uafvl=Chromium%3B112.0.5615.87%7CMicrosoft%2520Edge%3B112.0.1722.46%7CNot%253AA-Brand%3B99.0.0.0&uamb=0&uam=&uap=Windows&uapv=15.0.0&uaw=0&_s=3&sid=1681569543&sct=1&seg=1&dl=https%3A%2F%2Fjpetstore.aspectran.com%2Fcart%2FviewCart&dr=https%3A%2F%2Fjpetstore.aspectran.com%2Fcatalog%2Fproducts%2FFI-SW-01&dt=JPetStore%20Demo&en=user_engagement&_et=3608
+Total=2
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_21.xml
+FileName2=t21_ChRDaHJvbWUvMTEyLjAuNTYxNS44NxIQCRk321u0-HwBEgUNAo_7aBJWCR-l9iZ8XtAgEgUN6vDYJxIFDVdoLJkSBQ0OApCOEgUNjrElphIFDRT84rASBQ2wPbx-EgUNr77f_BIFDZYj33cSBQ2k7HW6EgUNK0tFMRIFDS3G4VU=.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChRDaHJvbWUvMTEyLjAuNTYxNS44NxIQCRk321u0-HwBEgUNAo_7aBJWCR-l9iZ8XtAgEgUN6vDYJxIFDVdoLJkSBQ0OApCOEgUNjrElphIFDRT84rASBQ2wPbx-EgUNr77f_BIFDZYj33cSBQ2k7HW6EgUNK0tFMRIFDS3G4VU=?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

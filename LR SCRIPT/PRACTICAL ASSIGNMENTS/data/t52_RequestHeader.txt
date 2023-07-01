@@ -1,0 +1,21 @@
+POST /componentupdater/api/v1/update?cup2key=6:8npiKoD2_XuKc-rL3QwO9Bv26-KXJeuuOrb0rr7wsak&cup2hreq=796897d5d5c272809711e363b0ea4bade7e1aa3ff340a78cf3d89c918bf92f0b HTTP/1.1
+Host: edge.microsoft.com
+Connection: keep-alive
+Content-Length: 9861
+X-Microsoft-Update-AppId: eeobbhfgfagbclfofmgbdfoicabjdbkn,oankkpibpaokgecfckkdkgaoafllipag,kpfehajjjbbcifeehjgfgnabifknmdad,ohckeflnhegojcjlcpbfpciadgikcohk,ndikpojcjlepofdkaaldkinkjbeeebkl,fppmbhmldokgmleojlplaaodlkibgikh,ojblfafjmiikbkepnnolpgbbhejhlcim,jbfaflocpnkhbgcijpkiafdpbjkedane,mkcgfaeepibomfapiapjaceihcojnphg,plbmmhnabegcabfbcejohgjpkamkddhn,llmidpclgepbgbgoecnhcmgfhmfplfao,ahmaebgpfccdhgidjaidaoojjcijckba,alpjnmnfbgfkmmpcfpejmmoebdndedno,hjaimielcgmceiphgjjfddlgjklfpdei,lfmeghnikdkbonehgjihjebgioakijgn,mpicjakjneaggahlnmbojhjpnileolnb,lkkdlcloifjinapabfonaibjijloebfb,cllppcmmlnkggcmljjfigkcigaajjmid,omnckhpgfmaoelhddliebabpgblmmnjp,pdfjdcjjjegpclfiilihfkmdfndkneei
+X-Microsoft-Update-Interactivity: bg
+X-Microsoft-Update-Service-Cohort: 6029
+X-Microsoft-Update-Updater: msedge-112.0.1722.48
+Content-Type: application/json
+Sec-Mesh-Client-Edge-Version: 112.0.1722.48
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-OS: Windows
+Sec-Mesh-Client-OS-Version: 10.0.22621
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-WebView: 0
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48
+Accept-Encoding: gzip, deflate, br
+

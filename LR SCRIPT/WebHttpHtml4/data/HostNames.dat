@@ -1,0 +1,8 @@
+[hosts]
+127.0.0.1=
+edge.microsoft.com=
+config.edge.skype.com=
+www.bing.com=
+nav-edge.smartscreen.microsoft.com=
+data-edge.smartscreen.microsoft.com=
+api.edgeoffer.microsoft.com=

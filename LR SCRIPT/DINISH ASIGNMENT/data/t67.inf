@@ -1,0 +1,13 @@
+[t67]
+FileName1=t67.json
+URL1=https://nav-edge.smartscreen.microsoft.com/api/browser/edge/navigate/3
+Total=2
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=t67_RequestBody.txt
+ResponseHeaderFile=t67_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_67.xml
+FileName2=t67_ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSVgkfpfYmfF7QIBIFDerw2CcSBQ1XaCyZEgUNDgKQjhIFDY6xJaYSBQ0U_OKwEgUNsD28fhIFDa--3_wSBQ2WI993EgUNpOx1uhIFDStLRTESBQ0txuFV.txt
+URL2=https://edge.microsoft.com/autofillservice/v1/pages/ChVDaHJvbWUvMTEyLjAuNTYxNS4xMjESEAkZN9tbtPh8ARIFDQKP-2gSVgkfpfYmfF7QIBIFDerw2CcSBQ1XaCyZEgUNDgKQjhIFDY6xJaYSBQ0U_OKwEgUNsD28fhIFDa--3_wSBQ2WI993EgUNpOx1uhIFDStLRTESBQ0txuFV?alt=proto
+[ProtocolInfo]
+ProtocolId=QTWeb

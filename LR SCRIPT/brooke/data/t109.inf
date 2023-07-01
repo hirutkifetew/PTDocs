@@ -1,0 +1,13 @@
+[t109]
+FileName1=t109.json
+URL1=https://edge.microsoft.com/identity/api/v3/msa
+Total=2
+RequestHeaderFile=t109_RequestHeader.txt
+RequestBodyFile=t109_RequestBody.txt
+ResponseHeaderFile=t109_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_109.xml
+FileName2=t109_asset.png
+URL2=https://edgeassetservice.azureedge.net/assets/edge_hub_apps_shopping_maximal_dark.png/1.3.13/asset
+[ProtocolInfo]
+ProtocolId=QTWeb
